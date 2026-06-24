@@ -1,0 +1,20 @@
+{
+  "IconProperties": {
+    "Scale": 0.16,
+    "Rotation": [
+      0,
+      0,
+      0
+    ],
+    "Translation": [
+      -110,
+      10
+    ]
+  },
+  "Parent": "Deco_Hanging_Banners_Generic01_Medium",
+  "TranslationProperties": {
+    "Name": "server.Hanging_Banners_Halloween.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Deco_Hanging_Banners_Halloween01_Medium.png",
+  "Texture": "Items/Banners/Hanging_Banners_Halloween_01.png"
+}
