@@ -250,7 +250,7 @@
 
 ---
 
-## 0.2
+# 0.2
 
 #### New Blocks
 
@@ -271,3 +271,9 @@
 * Door Plank Barriers can now be destroyed with an axe.
 * Removed `IsUsable` from Notice Boards.
 * Minor fixes and cleanup.
+
+---
+
+# 0.1
+
+First release
