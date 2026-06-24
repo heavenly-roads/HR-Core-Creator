@@ -60,9 +60,33 @@
 
 #### New Paintings
 
-* `Canvas_Painting2x2_Classic01` through `Canvas_Painting2x2_Classic09`
-* `Canvas_Painting2x3_Classic01` through `Canvas_Painting2x3_Classic09`
-* `Canvas_Painting3x2_Classic01` through `Canvas_Painting3x2_Classic09`
+* `Canvas_Painting2x2_Classic01`
+* `Canvas_Painting2x2_Classic02`
+* `Canvas_Painting2x2_Classic03`
+* `Canvas_Painting2x2_Classic04`
+* `Canvas_Painting2x2_Classic05`
+* `Canvas_Painting2x2_Classic06`
+* `Canvas_Painting2x2_Classic07`
+* `Canvas_Painting2x2_Classic08`
+* `Canvas_Painting2x2_Classic09`
+* `Canvas_Painting2x3_Classic01`
+* `Canvas_Painting2x3_Classic02`
+* `Canvas_Painting2x3_Classic03`
+* `Canvas_Painting2x3_Classic04`
+* `Canvas_Painting2x3_Classic05`
+* `Canvas_Painting2x3_Classic06`
+* `Canvas_Painting2x3_Classic07`
+* `Canvas_Painting2x3_Classic08`
+* `Canvas_Painting2x3_Classic09`
+* `Canvas_Painting3x2_Classic01`
+* `Canvas_Painting3x2_Classic02`
+* `Canvas_Painting3x2_Classic03`
+* `Canvas_Painting3x2_Classic04`
+* `Canvas_Painting3x2_Classic05`
+* `Canvas_Painting3x2_Classic06`
+* `Canvas_Painting3x2_Classic07`
+* `Canvas_Painting3x2_Classic08`
+* `Canvas_Painting3x2_Classic09`
 
 #### New Experimental Content
 
@@ -100,7 +124,24 @@
 
 #### New Carpets
 
-* Added 18 color variants of `Furniture_Carpet_Generic`.
+* `Furniture_Carpet_Generic_White`
+* `Furniture_Carpet_Generic_Grey`
+* `Furniture_Carpet_Generic_Black`
+* `Furniture_Carpet_Generic_Brown`
+* `Furniture_Carpet_Generic_Red`
+* `Furniture_Carpet_Generic_Orange`
+* `Furniture_Carpet_Generic_Yellow`
+* `Furniture_Carpet_Generic_Lime`
+* `Furniture_Carpet_Generic_Green`
+* `Furniture_Carpet_Generic_Cyan`
+* `Furniture_Carpet_Generic_Blue`
+* `Furniture_Carpet_Generic_Purple`
+* `Furniture_Carpet_Generic_Pink`
+* `Furniture_Carpet_Generic_Cream`
+* `Furniture_Carpet_Generic_Salmon`
+* `Furniture_Carpet_Generic_Gold`
+* `Furniture_Carpet_Generic_Teal`
+* `Furniture_Carpet_Generic_Lavender`
 
 #### Changes
 
@@ -119,7 +160,36 @@
 
 #### New Windows
 
-* Added stained glass, iron lattice and wood lattice window collections.
+* `Furniture_Window_Glass_Stained_Basic_Blue`
+* `Furniture_Window_Glass_Stained_Basic_Blue_Arc`
+* `Furniture_Window_Glass_Stained_Basic_Colorful`
+* `Furniture_Window_Glass_Stained_Basic_Colorful_Arc`
+* `Furniture_Window_Glass_Stained_Basic_Cyan`
+* `Furniture_Window_Glass_Stained_Basic_Cyan_Arc`
+* `Furniture_Window_Glass_Stained_Basic_Green`
+* `Furniture_Window_Glass_Stained_Basic_Green_Arc`
+* `Furniture_Window_Glass_Stained_Basic_Orange`
+* `Furniture_Window_Glass_Stained_Basic_Orange_Arc`
+* `Furniture_Window_Glass_Stained_Basic_Pink`
+* `Furniture_Window_Glass_Stained_Basic_Pink_Arc`
+* `Furniture_Window_Glass_Stained_Basic_Purple`
+* `Furniture_Window_Glass_Stained_Basic_Purple_Arc`
+* `Furniture_Window_Glass_Stained_Basic_Red`
+* `Furniture_Window_Glass_Stained_Basic_Red_Arc`
+* `Furniture_Window_Glass_Stained_Basic_Yellow`
+* `Furniture_Window_Glass_Stained_Basic_Yellow_Arc`
+* `Furniture_Window_Iron_Lattice_Basic`
+* `Furniture_Window_Iron_Lattice_Basic_Arc`
+* `Furniture_Window_Iron_Lattice_Ornate`
+* `Furniture_Window_Iron_Lattice_Ornate_Arc`
+* `Furniture_Window_Wood_Lattice_Basic`
+* `Furniture_Window_Wood_Lattice_Basic_Arc`
+* `Furniture_Window_Wood_Lattice_Basic_Rounded`
+* `Furniture_Window_Wood_Lattice_Basic_Triangle`
+* `Furniture_Window_Wood_Lattice_Ornate`
+* `Furniture_Window_Wood_Lattice_Ornate_Arc`
+* `Furniture_Window_Wood_Lattice_Ornate_Rounded`
+* `Furniture_Window_Wood_Lattice_Ornate_Triangle`
 
 #### Prefabs
 
@@ -137,7 +207,12 @@
 
 #### New Blocks
 
-* Added Arrow Stripe block variants.
+* `Block_Stripes_Alert_Arrow`
+* `Block_Stripes_Hazard_Arrow`
+* `Block_Stripes_Marking_Arrow`
+* `Block_Stripes_Restricted_Arrow`
+* `Block_Stripes_Safe_Arrow`
+* `Block_Stripes_Warning_Arrow`
 
 #### New Building Prefabs
 
@@ -147,8 +222,13 @@
 
 #### New Terrain Prefabs
 
-* Boulder collection.
-* Floating island collection.
+* `Boulder_Small_001`
+* `Boulder_Small_002`
+* `Boulder_Small_003`
+* `Floating_Island_Medium_001`
+* `Floating_Island_Medium_002`
+* `Floating_Island_Small_001`
+* `Floating_Island_Small_002`
 
 #### Changes
 
@@ -172,7 +252,12 @@
 
 #### New Blocks
 
-* Added Diagonal Stripe block variants.
+* `Block_Stripes_Alert_Diagonal`
+* `Block_Stripes_Hazard_Diagonal`
+* `Block_Stripes_Marking_Diagonal`
+* `Block_Stripes_Restricted_Diagonal`
+* `Block_Stripes_Safe_Diagonal`
+* `Block_Stripes_Warning_Diagonal`
 
 #### Changes
 
@@ -202,12 +287,19 @@
 
 * Renamed from **HR Core** to **HR Core Creator**.
 
-* `HR Windmills` is now optional.
+* `HR Windmills` is now optional dependency.
 
-#### New Content
+#### New Decorations
 
-* Coin pile decorations.
-* Experimental Bounce Pads.
+* `Deco_Coin_Pile_Large`
+* `Deco_Coin_Pile_Medium`
+* `Deco_Coin_Pile_Small`
+
+#### New Experimental Content
+
+* `Bounce_Pad_Large`
+* `Bounce_Pad_Medium`
+* `Bounce_Pad_Small`
 
 #### Changes
 
@@ -233,12 +325,51 @@
 
 #### New Decorations
 
-* Construction sign.
-* Neon decoration collection.
+* `Furniture_Construction_Sign_Middle`
+* `Deco_Neon_Hearts`
+* `Deco_Neon_Paw`
+* `Deco_Neon_Planet_Blue`
+* `Deco_Neon_Planet_Green`
+* `Deco_Neon_Planet_Orange`
+* `Deco_Neon_Rainbow`
+* `Deco_Neon_Trophy`
+* `Deco_Neon_Rocket`
+* `Deco_Neon_Alien`
 
 #### New Lighting
 
-* Neon beam, bulb and pole collections.
+* `Lamp_Neon_Beam_White`
+* `Lamp_Neon_Beam_Red`
+* `Lamp_Neon_Beam_Orange`
+* `Lamp_Neon_Beam_Yellow`
+* `Lamp_Neon_Beam_Green`
+* `Lamp_Neon_Beam_Blue`
+* `Lamp_Neon_Beam_Purple`
+* `Lamp_Neon_Beam_Pink`
+* `Lamp_Neon_Beam_White_Double`
+* `Lamp_Neon_Beam_Red_Double`
+* `Lamp_Neon_Beam_Orange_Double`
+* `Lamp_Neon_Beam_Yellow_Double`
+* `Lamp_Neon_Beam_Green_Double`
+* `Lamp_Neon_Beam_Blue_Double`
+* `Lamp_Neon_Beam_Purple_Double`
+* `Lamp_Neon_Beam_Pink_Double`
+* `Lamp_Neon_Bulb_White`
+* `Lamp_Neon_Bulb_Red`
+* `Lamp_Neon_Bulb_Orange`
+* `Lamp_Neon_Bulb_Yellow`
+* `Lamp_Neon_Bulb_Green`
+* `Lamp_Neon_Bulb_Blue`
+* `Lamp_Neon_Bulb_Purple`
+* `Lamp_Neon_Bulb_Pink`
+* `Lamp_Neon_Pole_White`
+* `Lamp_Neon_Pole_Red`
+* `Lamp_Neon_Pole_Orange`
+* `Lamp_Neon_Pole_Yellow`
+* `Lamp_Neon_Pole_Green`
+* `Lamp_Neon_Pole_Blue`
+* `Lamp_Neon_Pole_Purple`
+* `Lamp_Neon_Pole_Pink`
 
 #### New Effects
 
@@ -264,8 +395,8 @@
 
 #### New Experimental Content
 
-* Decals.
-* Canvas Paintings.
+* 3 Decals.
+* 4 Canvas Paintings.
 
 #### Changes
 
