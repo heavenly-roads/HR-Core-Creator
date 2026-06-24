@@ -12,7 +12,7 @@ This is a live development repository - <a target="_blank" href="https://www.cur
 
 Items using 'Experimental' quality are unstable, may not work properly and are subject to change or being removed. Do not use them on public servers or finished projects.
 
-### Server optimization and file sanitizer
+### Optimization and file sanitizer
 
 Goal is to maximize optimization using the smallest filesize without direct loss of quality for servers and clients to load the included asset resources on the most efficient way possible. Stable releases after v.1.0 will be built using a sanitizer and compression textures process. 'Alpha' and 'Beta' releases won't meet this process so expect for these to have a bigger filesize.
 
