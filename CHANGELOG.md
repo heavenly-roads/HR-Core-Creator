@@ -44,7 +44,7 @@
 * `Hanging_Banners_A06`
 * `Hanging_Banners_A010`
 
-> Deprecated items remain as child assets to preserve compatibility.
+> Deprecated items remains to preserve compatibility.
 
 #### Creative Menu
 
