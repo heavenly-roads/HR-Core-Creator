@@ -5,6 +5,9 @@ This is a live development repository - <a target="_blank" href="https://www.cur
 <h2>Documentation</h2>
 
 * [Changelog](CHANGELOG.md)
+* Game target version is shown on CurseForge.
+* Supported languages: English | Spanish.
+* Experimental quality items are unstable, may not work properly and are subject to change or being removed. Do not use them on public servers or finished projects.
 
 <hr>
 
