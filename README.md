@@ -1,4 +1,4 @@
-This is a development repository - <a href="https://www.curseforge.com/hytale/mods/hr-core-creator/files/all">final releases are available at CurseForge</a>.
+This is a development repository - <a target="_blank" href="https://www.curseforge.com/hytale/mods/hr-core-creator/files/all">final releases are available at CurseForge</a>.
 
 This mod includes original blocks, lighting, decoration, interactive elements, effects and extras for worlds, minigames and servers. This mod grows as the game evolves to become a huge bundle of elements to boost creativity.
 
