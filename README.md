@@ -1,4 +1,10 @@
-This is a development repository - <a target="_blank" href="https://www.curseforge.com/hytale/mods/hr-core-creator/files/all">final releases are available on CurseForge</a>.
+This is a live development repository - <a target="_blank" href="https://www.curseforge.com/hytale/mods/hr-core-creator/files/all">final releases are available on CurseForge</a>.
+
+<hr>
+
+<h2>Documentation</h2>
+
+* [Changelog](CHANGELOG.md)
 
 <hr>
 
@@ -12,14 +18,8 @@ This is a development repository - <a target="_blank" href="https://www.cursefor
 
 <hr>
 
-<h2>Documentation</h2>
-
-* [Changelog](CHANGELOG.md)
-
-<hr>
-
 <h2>Copyright</h2>
 <ul>
   <li>Original assets made by heavenly-roads.</li>
-  <li>Hytale assets belongs to Hypixel Studios Canada inc.</li>
+  <li>Hytale game, vanilla assets and source belongs to Hypixel Studios Canada inc.</li>
 </ul>
