@@ -23,8 +23,9 @@
 
 #### New Decorations
 
+* `Deco_Hanging_Banners_Generic01_Medium`
 * `Deco_Hanging_Banners_Party01_Long`
-* `Deco_Hanging_Banners_Halloween02_Medium`
+* `Deco_Hanging_Banners_Party01_Medium`
 * `Deco_Hanging_Banners_Party01_Short`
 * `Deco_Hanging_Banners_Halloween01_Long`
 * `Deco_Hanging_Banners_Halloween01_Medium`
