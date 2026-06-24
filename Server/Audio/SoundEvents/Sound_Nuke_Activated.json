@@ -1,0 +1,13 @@
+{
+  "Layers": [
+    {
+      "Files": [
+        "Sounds/Nuke_Activated.ogg"
+      ]
+    }
+  ],
+  "MaxInstance": 4,
+  "AudioCategory": "AudioCat_SFX",
+  "StartAttenuationDistance": 6,
+  "MaxDistance": 26
+}

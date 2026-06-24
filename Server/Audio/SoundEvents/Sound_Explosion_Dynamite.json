@@ -1,0 +1,19 @@
+{
+  "Layers": [
+    {
+      "Files": [
+        "Sounds/Explosion_Dynamite.ogg"
+      ],
+      "RandomSettings": {
+        "MinPitch": -3,
+        "MaxPitch": 3
+      }
+    }
+  ],
+  "PreventSoundInterruption": true,
+  "MaxDistance": 64,
+  "StartAttenuationDistance": 16,
+  "MaxInstance": 8,
+  "AudioCategory": "AudioCat_SFX",
+  "Pitch": 5
+}

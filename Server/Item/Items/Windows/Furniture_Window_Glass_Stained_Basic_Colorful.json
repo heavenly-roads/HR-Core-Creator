@@ -1,0 +1,76 @@
+{
+  "TranslationProperties": {
+    "Name": "server.Window_Glass_Stained_Colorful.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Furniture_Window_Glass_Stained_Basic_Colorful.png",
+  "Categories": [
+    "HR_CoreCreator.Blocks"
+  ],
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Structures/Windows/Window_Glass_Stained.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Structures/Windows/Window_Glass_Stained_01.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Structures/Windows/Window_Glass_Stained_02.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Structures/Windows/Window_Glass_Stained_03.png",
+        "Weight": 1
+      }
+    ],
+    "CustomModelScale": 1,
+    "HitboxType": "Window",
+    "VariantRotation": "NESW",
+    "Flags": {
+      "IsUsable": false,
+      "IsStackable": true
+    },
+    "Gathering": {
+      "Soft": {
+        "IsWeaponBreakable": false
+      }
+    },
+    "BlockParticleSetId": "GlassEmpty",
+    "BlockSoundSetId": "Glass",
+    "PhysicalMaterialId": "Glass",
+    "ParticleColor": "#9b9b9b"
+  },
+  "PlayerAnimationsId": "Block",
+  "IconProperties": {
+    "Scale": 0.6,
+    "Rotation": [
+      23.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -14
+    ]
+  },
+  "ResourceTypes": [
+    {
+      "Id": "Fuel"
+    },
+    {
+      "Id": "Charcoal"
+    }
+  ],
+  "Tags": {
+    "Type": [
+      "Furniture"
+    ],
+    "Family": [
+      "Village"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Default",
+  "SubCategory": "Windows"
+}

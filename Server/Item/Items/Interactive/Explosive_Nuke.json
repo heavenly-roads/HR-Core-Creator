@@ -1,0 +1,176 @@
+{
+  "TranslationProperties": {
+    "Name": "server.Explosive_Nuke.name",
+    "Description": "server.Explosive_Warning.description"
+  },
+  "Quality": "HR_Experimental",
+  "PlayerAnimationsId": "Block",
+  "BlockType": {
+    "HitboxType": "Chest_Small",
+    "Interactions": {
+      "Use": {
+        "Interactions": [
+          {
+            "Type": "ChangeState",
+            "Changes": {
+              "default": "Unstable"
+            },
+            "UpdateBlockState": true,
+            "ViewDistance": 256
+          }
+        ]
+      }
+    },
+    "ExplosionConfig": {
+      "DamageEntities": true,
+      "DamageBlocks": true,
+      "BlockDamageRadius": 26,
+      "EntityDamage": 500,
+      "EntityDamageRadius": 48,
+      "Knockback": {
+        "Type": "Point",
+        "VelocityConfig": {
+          "AirResistance": 0.97,
+          "AirResistanceMax": 0.96,
+          "GroundResistance": 0.94,
+          "GroundResistanceMax": 0.3,
+          "Threshold": 3.0,
+          "Style": "Exp"
+        },
+        "Force": 12,
+        "VelocityType": "Add",
+        "Duration": 1,
+        "VelocityY": 4
+      },
+      "ItemTool": {
+        "Specs": [
+          {
+            "Power": 2,
+            "GatherType": "SoftBlocks"
+          },
+          {
+            "Power": 2,
+            "GatherType": "Soils"
+          },
+          {
+            "Power": 2,
+            "GatherType": "Woods"
+          },
+          {
+            "Power": 2,
+            "GatherType": "Rocks"
+          },
+          {
+            "Power": 2,
+            "GatherType": "Benches"
+          }
+        ]
+      },
+      "SoundEventId": "Sound_Explosion_Nuke",
+      "Particles": [
+        {
+          "Scale": 5,
+          "ParticleColor": "#ffffff",
+          "SystemId": "ParticleSystem_Explosion_Nuke",
+          "DetachedFromModel": true
+        }
+      ],
+      "BlockDropChance": 0,
+      "BlockDamageFalloff": 16,
+      "EntityDamageFalloff": 16
+    },
+    "BlockSoundSetId": "Metal",
+    "TransitionToGroups": [
+      "Stone",
+      "Sand",
+      "Wood",
+      "Mud",
+      "Dirt"
+    ],
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Interactive/Explosive_Nuke.png",
+        "Weight": 1
+      }
+    ],
+    "CustomModel": "Blocks/Interactive/Explosive_Nuke.blockymodel",
+    "Material": "Solid",
+    "InteractionHint": "server.interactionHints.activate",
+    "PhysicalMaterialId": "Metal",
+    "BlockParticleSetId": "Metal",
+    "ParticleColor": "#383c19",
+    "Opacity": "Transparent",
+    "SupportDropType": "Fall",
+    "Support": {
+      "Down": [
+        {
+          "FaceType": "Full"
+        }
+      ]
+    },
+    "FallingBlockSettings": {
+      "Impact": {
+        "Type": "Place"
+      },
+      "HitboxCollisionConfig": "HardCollision"
+    },
+    "Light": {
+      "Color": "#450"
+    },
+    "CubeShadingMode": "Flat",
+    "State": {
+      "Definitions": {
+        "Unstable": {
+          "CustomModelAnimation": "Blocks/Interactive/Explosive_Nuke_Unstable.blockyanim",
+          "InteractionHint": "",
+          "BlockEntity": {
+            "Components": {
+              "BlockExplosive": {
+                "PrimedOnPlace": true,
+                "FuseDuration": 8
+              }
+            }
+          },
+          "SupportDropType": "Fall",
+          "Looping": true,
+          "Particles": [
+            {
+              "SystemId": "ParticleSystem_Nuke_Unstable",
+              "Color": "#efff66"
+            }
+          ],
+          "SoundOcclusionOpacity": 0
+        }
+      }
+    },
+    "DrawType": "Model",
+    "ExplosionReactionState": "Unstable",
+    "SoundOcclusionOpacity": 0,
+    "AmbientSoundEventId": "Sound_Nuke_Radiation"
+  },
+  "IconProperties": {
+    "Scale": 0.7,
+    "Rotation": [
+      23,
+      24,
+      10
+    ],
+    "Translation": [
+      0,
+      -14.5
+    ]
+  },
+  "Icon": "Icons/ItemsGenerated/Explosive_Nuke.png",
+  "Scale": 1,
+  "Tags": {
+    "Type": [
+      "Explosive"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Items_Metal",
+  "SubCategory": "Explosives",
+  "ItemLevel": 10,
+  "Categories": [
+    "HR_CoreCreator.Interactive"
+  ]
+}

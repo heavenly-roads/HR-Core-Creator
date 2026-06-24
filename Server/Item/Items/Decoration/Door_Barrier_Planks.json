@@ -1,0 +1,52 @@
+{
+  "TranslationProperties": {
+    "Name": "Door Barrier"
+  },
+  "PlayerAnimationsId": "Block",
+  "Categories": [
+    "HR_CoreCreator.Decoration"
+  ],
+  "Icon": "Icons/ItemsGenerated/Door_Barrier_Planks.png",
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      7,
+      -31
+    ]
+  },
+  "BlockType": {
+    "BlockParticleSetId": "Wood",
+    "BlockSoundSetId": "Wood",
+    "CustomModel": "Blocks/Door_Barrier_Planks.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Elements/Door_Barrier_Planks.png"
+      }
+    ],
+    "DrawType": "Model",
+    "Material": "Solid",
+    "Opacity": "Transparent",
+    "ParticleColor": "#793e21",
+    "Support": {
+      "North": [
+        {}
+      ]
+    },
+    "VariantRotation": "NESW",
+    "SupportDropType": "Destroy",
+    "HitboxType": "Barrier_Door",
+    "BlockBreakingDecalId": "Breaking_Decals_Wood",
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Woods",
+        "Quantity": 0
+      }
+    }
+  },
+  "ItemSoundSetId": "ISS_Blocks_Wood"
+}

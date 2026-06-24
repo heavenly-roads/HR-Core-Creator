@@ -1,0 +1,27 @@
+{
+  "IconProperties": {
+    "Scale": 0.36,
+    "Rotation": [
+      0,
+      0,
+      0
+    ],
+    "Translation": [
+      0,
+      -32
+    ]
+  },
+  "Parent": "Canvas_Painting_Classic2x3_Generic01",
+  "BlockType": {
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Canvas/Painting2x3_Classic_Generic04.png"
+      }
+    ],
+    "Parent": "Canvas_Painting_Classic2x3_Generic01"
+  },
+  "TranslationProperties": {
+    "Description": "credits.Canvas_Courbet"
+  },
+  "Icon": "Icons/ItemsGenerated/Canvas_Painting_Classic2x3_Generic04.png"
+}

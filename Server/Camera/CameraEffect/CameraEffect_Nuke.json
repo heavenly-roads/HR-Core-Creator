@@ -1,0 +1,7 @@
+{
+  "Type": "CameraShake",
+  "CameraShake": "CameraShake_Nuke",
+  "Intensity": {
+    "Value": 0.02
+  }
+}

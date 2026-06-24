@@ -1,0 +1,43 @@
+{
+  "BlockType": {
+    "DrawType": "Model",
+    "CubeShadingMode": "Fullbright",
+    "Opacity": "Semitransparent",
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Decal/Decal_1x1.png"
+      }
+    ],
+    "VariantRotation": "DoublePipe",
+    "CustomModel": "Blocks/Decal/Decal_1x1.blockymodel",
+    "Material": "Empty",
+    "HitboxType": "Block_Flat",
+    "Support": {
+      "Down": [
+        {
+          "FaceType": "Full"
+        }
+      ]
+    }
+  },
+  "PlayerAnimationsId": "Block",
+  "IconProperties": {
+    "Scale": 1,
+    "Rotation": [
+      90,
+      0,
+      0
+    ],
+    "Translation": [
+      0,
+      0
+    ]
+  },
+  "Categories": [
+    "HR_CoreCreator.Decals"
+  ],
+  "TranslationProperties": {
+    "Name": "Decal"
+  },
+  "Quality": "Template"
+}

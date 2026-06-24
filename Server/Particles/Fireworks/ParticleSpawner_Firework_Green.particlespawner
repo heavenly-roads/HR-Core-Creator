@@ -1,0 +1,99 @@
+{
+  "RenderMode": "Erosion",
+  "ParticleRotationInfluence": "BillboardVelocity",
+  "LinearFiltering": false,
+  "LightInfluence": 0,
+  "MaxConcurrentParticles": 128,
+  "ParticleLifeSpan": {
+    "Min": 2,
+    "Max": 3
+  },
+  "InitialVelocity": {
+    "Speed": {
+      "Min": 8,
+      "Max": 10
+    },
+    "Pitch": {
+      "Min": -180,
+      "Max": 180
+    },
+    "Yaw": {
+      "Min": -180,
+      "Max": 180
+    }
+  },
+  "Attractors": [
+    {
+      "RadialAcceleration": -6,
+      "RadialImpulse": 8,
+      "LinearAcceleration": {
+        "Y": -4
+      }
+    }
+  ],
+  "Particle": {
+    "Texture": "Particles/Textures/Basic/Glow_Direction.png",
+    "ScaleRatioConstraint": "None",
+    "UVOption": "None",
+    "Animation": {
+      "0": {
+        "FrameIndex": {
+          "Min": 0,
+          "Max": 0
+        },
+        "Opacity": 1,
+        "Scale": {
+          "X": {
+            "Min": 1,
+            "Max": 1
+          },
+          "Y": {
+            "Min": 12,
+            "Max": 12
+          }
+        }
+      },
+      "100": {
+        "Opacity": 0,
+        "Scale": {
+          "X": {
+            "Min": 1,
+            "Max": 1
+          },
+          "Y": {
+            "Min": 1,
+            "Max": 1
+          }
+        }
+      }
+    },
+    "InitialAnimationFrame": {
+      "Opacity": 1,
+      "FrameIndex": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Scale": {
+        "X": {
+          "Min": 0.5,
+          "Max": 0.5
+        },
+        "Y": {
+          "Min": 0.5,
+          "Max": 0.5
+        }
+      },
+      "Color": "#70ff74"
+    },
+    "SoftParticles": "Disable"
+  },
+  "SpawnBurst": true,
+  "SpawnRate": {
+    "Min": 100,
+    "Max": 100
+  },
+  "TotalParticles": {
+    "Min": 128,
+    "Max": 128
+  }
+}

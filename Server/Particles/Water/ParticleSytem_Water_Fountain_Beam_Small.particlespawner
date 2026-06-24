@@ -1,0 +1,128 @@
+{
+  "RenderMode": "Erosion",
+  "ParticleRotationInfluence": "BillboardVelocity",
+  "LinearFiltering": true,
+  "LightInfluence": 0.8,
+  "TrailSpawnerPositionMultiplier": 1,
+  "TrailSpawnerRotationMultiplier": 1,
+  "ParticleLifeSpan": {
+    "Min": 0.8,
+    "Max": 1
+  },
+  "SpawnRate": {
+    "Min": 4,
+    "Max": 8
+  },
+  "Particle": {
+    "Texture": "Particles/Textures/Splash/WaterBeam.png",
+    "FrameSize": {
+      "Width": 64,
+      "Height": 64
+    },
+    "ScaleRatioConstraint": "None",
+    "UVOption": "None",
+    "Animation": {
+      "0": {
+        "FrameIndex": {
+          "Min": 0,
+          "Max": 0
+        },
+        "Opacity": 0,
+        "Scale": {
+          "X": {
+            "Min": 16,
+            "Max": 16
+          },
+          "Y": {
+            "Min": 0.1,
+            "Max": 0.1
+          }
+        },
+        "Rotation": {
+          "Z": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        "Color": "#93daff"
+      },
+      "30": {
+        "Opacity": 1
+      },
+      "50": {
+        "Opacity": 0.9
+      },
+      "70": {},
+      "90": {},
+      "100": {
+        "Scale": {
+          "X": {
+            "Min": 8,
+            "Max": 8
+          },
+          "Y": {
+            "Min": 8,
+            "Max": 8
+          }
+        },
+        "Opacity": 0,
+        "Color": "#cfe6ff"
+      }
+    },
+    "InitialAnimationFrame": {
+      "Rotation": {
+        "Z": {
+          "Min": -90,
+          "Max": -90
+        }
+      },
+      "Scale": {
+        "X": {
+          "Min": 0.025,
+          "Max": 0.025
+        },
+        "Y": {
+          "Min": 0.025,
+          "Max": 0.025
+        }
+      },
+      "Opacity": 1,
+      "FrameIndex": {
+        "Min": 0,
+        "Max": 0
+      }
+    }
+  },
+  "MaxConcurrentParticles": 10,
+  "Shape": "Cube",
+  "InitialVelocity": {
+    "Speed": {
+      "Min": 3,
+      "Max": 3.5
+    },
+    "Pitch": {
+      "Min": 90,
+      "Max": 90
+    }
+  },
+  "UVMotion": {
+    "Texture": "Particles/Textures/UVMotion/FlowMap.png",
+    "SpeedY": -1,
+    "Scale": 0.8,
+    "Strength": 1.4
+  },
+  "ParticleRotateWithSpawner": false,
+  "Attractors": [
+    {
+      "LinearAcceleration": {
+        "Y": 1
+      },
+      "Position": {
+        "Y": 2
+      },
+      "LinearImpulse": {
+        "Y": -1
+      }
+    }
+  ]
+}

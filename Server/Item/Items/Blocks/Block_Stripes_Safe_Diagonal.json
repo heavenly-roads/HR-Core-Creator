@@ -1,0 +1,32 @@
+{
+  "Icon": "Icons/ItemsGenerated/Block_Stripes_Safe_Diagonal.png",
+  "BlockType": {
+    "Textures": [
+      {
+        "All": "BlockTextures/Stripes_Safe_Diagonal.png"
+      }
+    ],
+    "Parent": "Block_Stripes_Hazard_Diagonal",
+    "Material": "Solid",
+    "Opacity": "Solid",
+    "CubeShadingMode": "Standard",
+    "DrawType": "Cube",
+    "ParticleColor": "#80b587"
+  },
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "server.Block_Stripes_Safe_Diagonal.name"
+  },
+  "Parent": "Block_Stripes_Hazard_Diagonal"
+}

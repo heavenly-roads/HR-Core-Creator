@@ -1,0 +1,28 @@
+{
+  "BlockType": {
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Decoration/Hanging_Banners_Party_01.png"
+      }
+    ],
+    "Parent": "Deco_Hanging_Banners_Generic01_Short"
+  },
+  "IconProperties": {
+    "Scale": 0.25,
+    "Rotation": [
+      0,
+      0,
+      0
+    ],
+    "Translation": [
+      -80,
+      1
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "server.Hanging_Banners_Party.name"
+  },
+  "Parent": "Deco_Hanging_Banners_Generic01_Short",
+  "Icon": "Icons/ItemsGenerated/Deco_Hanging_Banners_Party01_Short.png",
+  "Texture": "Items/Banners/Hanging_Banners_Party_01.png"
+}

@@ -1,0 +1,23 @@
+{
+  "Icon": "Icons/ItemsGenerated/Furniture_Window_Wood_Lattice_Ornate_Rounded.png",
+  "BlockType": {
+    "Parent": "Furniture_Window_Wood_Lattice_Basic",
+    "CustomModel": "Blocks/Structures/Windows/Window_Wood_Lattice_Rounded_Ornate.blockymodel"
+  },
+  "IconProperties": {
+    "Scale": 0.6,
+    "Rotation": [
+      23.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -14
+    ]
+  },
+  "Parent": "Furniture_Window_Wood_Lattice_Basic",
+  "TranslationProperties": {
+    "Name": "server.Window_Wood_Lattice_Ornate_Rounded.name"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "BlockType": {
+    "Particles": [
+      {
+        "SystemId": "ParticleSystem_Smoke_Trail"
+      }
+    ],
+    "Parent": "Template_Particle_Emitter"
+  },
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "server.Emitter_Smoke_Trail.name"
+  },
+  "Icon": "Icons/Items/Emitter_Smoke.png",
+  "Quality": "HR_Effects",
+  "Parent": "Template_Particle_Emitter"
+}

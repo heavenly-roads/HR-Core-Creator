@@ -1,0 +1,267 @@
+Block_Grid_Default.name = Bloque de Cuadrícula
+Block_Grid_Limit.name = Bloque de Cuadrícula Límite
+Block_Grid_Structure.name = Bloque de Cuadrícula Estructural
+Block_Solid_Black.name = Bloque Sólido Negro
+Block_Solid_White.name = Bloque Sólido Blanco
+
+Block_Stripes_Alert_Diagonal.name = Bloque de Franjas de Alerta Diagonales
+Block_Stripes_Alert_Arrow.name = Bloque de Franjas de Alerta en Flecha
+Block_Stripes_Hazard_Diagonal.name = Bloque de Franjas de Peligro Diagonales
+Block_Stripes_Hazard_Arrow.name = Bloque de Franjas de Peligro en Flecha
+Block_Stripes_Marking_Diagonal.name = Bloque de Franjas de Marca Diagonales
+Block_Stripes_Marking_Arrow.name = Bloque de Franjas de Marca en Flecha
+Block_Stripes_Restricted_Diagonal.name = Bloque de Franjas de Prohibición Diagonales
+Block_Stripes_Restricted_Arrow.name = Bloque de Franjas de Prohibición en Flecha
+Block_Stripes_Safe_Diagonal.name = Bloque de Franjas de Zona Segura Diagonales
+Block_Stripes_Safe_Arrow.name = Bloque de Franjas de Zona Segura en Flecha
+Block_Stripes_Warning_Diagonal.name = Bloque de Franjas de Advertencia Diagonales
+Block_Stripes_Warning_Arrow.name = Bloque de Franjas de Advertencia en Flecha
+
+Rock_Labyrinth.name = Bloque de Laberinto
+Rock_Labyrinth_Reinforced.name = Bloque de Laberinto - Reforzado
+Rock_Labyrinth_Trim.name = Bloque de Laberinto - Moldura
+Rock_Labyrinth_Trim_Ornate.name = Bloque de Laberinto - Moldura Ornamentada
+
+Window_Glass_Stained_Colorful.name = Ventana de Vidrio Tintado Multicolor
+Window_Glass_Stained_Colorful_Arc.name = Ventana de Vidrio Tintado Multicolor Arqueada
+Window_Glass_Stained_Blue.name = Ventana de Vidrio Tintado Azul
+Window_Glass_Stained_Blue_Arc.name = Ventana de Vidrio Tintado Azul Arqueada
+Window_Glass_Stained_Cyan.name = Ventana de Vidrio Tintado Cian
+Window_Glass_Stained_Cyan_Arc.name = Ventana de Vidrio Tintado Cian Arqueada
+Window_Glass_Stained_Green.name = Ventana de Vidrio Tintado Verde
+Window_Glass_Stained_Green_Arc.name = Ventana de Vidrio Tintado Verde Arqueada
+Window_Glass_Stained_Orange.name = Ventana de Vidrio Tintado Naranja
+Window_Glass_Stained_Orange_Arc.name = Ventana de Vidrio Tintado Naranja Arqueada
+Window_Glass_Stained_Pink.name = Ventana de Vidrio Tintado Rosa
+Window_Glass_Stained_Pink_Arc.name = Ventana de Vidrio Tintado Rosa Arqueada
+Window_Glass_Stained_Purple.name = Ventana de Vidrio Tintado Púrpura
+Window_Glass_Stained_Purple_Arc.name = Ventana de Vidrio Tintado Púrpura Arqueada
+Window_Glass_Stained_Red.name = Ventana de Vidrio Tintado Rojo
+Window_Glass_Stained_Red_Arc.name = Ventana de Vidrio Tintado Rojo Arqueada
+Window_Glass_Stained_Yellow.name = Ventana de Vidrio Tintado Amarillo
+Window_Glass_Stained_Yellow_Arc.name = Ventana de Vidrio Tintado Amarillo Arqueada
+Window_Iron_Grill.name = Ventana de Reja de Hierro
+Window_Iron_Grill_Arc.name = Ventana de Reja de Hierro Arqueada
+Window_Iron_Grill_Ornate.name = Ventana de Reja de Hierro Arqueada Ornamentada
+Window_Iron_Grill_Ornate_Arc.name = Ventana de Reja de Hierro Arqueada Ornamentada
+Window_Wood_Lattice.name = Ventana de Celosía de Madera
+Window_Wood_Lattice_Arc.name = Ventana de Celosía de Madera Arqueada
+Window_Wood_Lattice_Rounded.name = Ventana de Celosía de Madera Redonda
+Window_Wood_Lattice_Triangle.name = Ventana de Celosía de Madera Triangular
+Window_Wood_Lattice_Ornate.name = Ventana de Celosía de Madera Ornamentada
+Window_Wood_Lattice_Ornate_Arc.name = Ventana de Celosía de Madera Ornamentada Arqueada
+Window_Wood_Lattice_Ornate_Rounded.name = Ventana de Celosía de Madera Ornamentada Redonda
+Window_Wood_Lattice_Ornate_Triangle.name = Ventana de Celosía de Madera Ornamentada Triangular
+
+Lamp_Neon_Beam_White.name = Viga de Lámpara de Neón Blanca
+Lamp_Neon_Beam_Red.name = Viga de Lámpara de Neón Roja
+Lamp_Neon_Beam_Orange.name = Viga de Lámpara de Neón Naranja
+Lamp_Neon_Beam_Yellow.name = Viga de Lámpara de Neón Amarilla
+Lamp_Neon_Beam_Green.name = Viga de Lámpara de Neón Verde
+Lamp_Neon_Beam_Blue.name = Viga de Lámpara de Neón Azul
+Lamp_Neon_Beam_Purple.name = Viga de Lámpara de Neón Morada
+Lamp_Neon_Beam_Pink.name = Viga de Lámpara de Neón Rosa
+Lamp_Neon_Beam_White_Double.name = Viga de Lámpara de Neón Blanca - Doble
+Lamp_Neon_Beam_Red_Double.name = Viga de Lámpara de Neón Roja - Doble
+Lamp_Neon_Beam_Orange_Double.name = Viga de Lámpara de Neón Naranja - Doble
+Lamp_Neon_Beam_Yellow_Double.name = Viga de Lámpara de Neón Amarilla - Doble
+Lamp_Neon_Beam_Green_Double.name = Viga de Lámpara de Neón Verde - Doble
+Lamp_Neon_Beam_Blue_Double.name = Viga de Lámpara de Neón Azul - Doble
+Lamp_Neon_Beam_Purple_Double.name = Viga de Lámpara de Neón Morada - Doble
+Lamp_Neon_Beam_Pink_Double.name = Viga de Lámpara de Neón Rosa - Doble
+Lamp_Neon_Bulb_White.name = Bombilla de Lámpara de Neón Blanca
+Lamp_Neon_Bulb_Red.name = Bombilla de Lámpara de Neón Roja
+Lamp_Neon_Bulb_Orange.name = Bombilla de Lámpara de Neón Naranja
+Lamp_Neon_Bulb_Yellow.name = Bombilla de Lámpara de Neón Amarilla
+Lamp_Neon_Bulb_Green.name = Bombilla de Lámpara de Neón Verde
+Lamp_Neon_Bulb_Blue.name = Bombilla de Lámpara de Neón Azul
+Lamp_Neon_Bulb_Purple.name = Bombilla de Lámpara de Neón Morada
+Lamp_Neon_Bulb_Pink.name = Bombilla de Lámpara de Neón Rosa
+Lamp_Neon_Pole_White.name = Barra de Lámpara de Neón Blanca
+Lamp_Neon_Pole_Red.name = Barra de Lámpara de Neón Roja
+Lamp_Neon_Pole_Orange.name = Barra de Lámpara de Neón Naranja
+Lamp_Neon_Pole_Yellow.name = Barra de Lámpara de Neón Amarilla
+Lamp_Neon_Pole_Green.name = Barra de Lámpara de Neón Verde
+Lamp_Neon_Pole_Blue.name = Barra de Lámpara de Neón Azul
+Lamp_Neon_Pole_Purple.name = Barra de Lámpara de Neón Morada
+Lamp_Neon_Pole_Pink.name = Barra de Lámpara de Neón Rosa
+
+Anvil.name = Yunque
+Bottles.name = Botellas
+Bottles_Tavern.name = Botellas de Taverna
+Construction_Sign_Middle.name = Cartel de Construcción - Medio
+Hanging_Banners_Generic.name = Banderolas Genéricas
+Hanging_Banners_Halloween.name = Banderolas de Halloween
+Hanging_Banners_Party.name = Banderolas de Fiesta
+Notice_Board.name = Tablón de Anuncios
+Notice_Board_Small.name = Tablón de Anuncios - Pequeño
+Notice_Board_Wall.name = Tablón de Anuncios - Pared
+Paint_Bucket.name = Bote de Pintura
+Poster_Wall.name = Póster de Pared
+Poster_Wall_Capital.name = Póster de Pared - Capital
+Poster_Wall_Arcade.name = Póster de Pared - Arcade
+Toolbox.name = Caja de Herramientas
+
+Deco_Backpack_Big.name = Mochila Grande
+Deco_Backpack_Medium.name = Mochila Mediana
+Deco_Chinese_Paper_Lantern_Thin.name = Farolillo Chino de Papel Estrecho
+Deco_Chinese_Paper_Lantern_Round.name = Farolillo Chino de Papel Redondo
+Deco_Construction_Cone.name = Cono de Construcción
+Deco_Neon_Planet.name = Neón de Planeta
+Deco_Neon_Rainbow.name = Neón de Arcoíris
+Deco_Neon_Hearts.name = Neón de Corazones
+Deco_Neon_Trophy.name = Neón de Trofeo
+Deco_Neon_Rocket.name = Neón de Cohete
+Deco_Neon_Alien.name = Neón de Alienígena
+Deco_Neon_Paw.name = Neón de Pata
+Deco_Package_Small.name = Paquete Pequeño
+Deco_Package_Medium.name = Paquete Mediano
+Deco_Package_Large.name = Paquete Grande
+Deco_Paper_Lantern_White.name = Farolillo de Papel Blanco
+Deco_Paper_Lantern_Red.name = Farolillo de Papel Rojo
+Deco_Paper_Lantern_Orange.name = Farolillo de Papel Naranja
+Deco_Paper_Lantern_Yellow.name = Farolillo de Papel Amarillo
+Deco_Paper_Lantern_Green.name = Farolillo de Papel Verde
+Deco_Paper_Lantern_Blue.name = Farolillo de Papel Azul
+Deco_Paper_Lantern_Purple.name = Farolillo de Papel Morado
+Deco_Paper_Lantern_Pink.name = Farolillo de Papel Rosa
+
+Cloth_Block_Pattern_Checked.name = Tela a Cuadros
+Cloth_Block_Pattern_Striped.name = Tela a Rayas
+
+Furniture_Carpet_Basic_Black.name = Alfombra Básica Negra
+Furniture_Carpet_Basic_White.name = Alfombra Básica Blanca
+Furniture_Carpet_Basic_Grey.name = Alfombra Básica Gris
+Furniture_Carpet_Basic_Brown.name = Alfombra Básica Marrón
+Furniture_Carpet_Basic_Red.name = Alfombra Básica Roja
+Furniture_Carpet_Basic_Orange.name = Alfombra Básica Naranja
+Furniture_Carpet_Basic_Yellow.name = Alfombra Básica Amarilla
+Furniture_Carpet_Basic_Lime.name = Alfombra Básica Lima
+Furniture_Carpet_Basic_Green.name = Alfombra Básica Verde
+Furniture_Carpet_Basic_Cyan.name = Alfombra Básica Cian
+Furniture_Carpet_Basic_Blue.name = Alfombra Básica Azul
+Furniture_Carpet_Basic_Purple.name = Alfombra Básica Morada
+Furniture_Carpet_Basic_Pink.name = Alfombra Básica Rosa
+Furniture_Carpet_Basic_Cream.name = Alfombra Básica Crema
+Furniture_Carpet_Basic_Salmon.name = Alfombra Básica Salmón
+Furniture_Carpet_Basic_Teal.name = Alfombra Básica Turquesa
+Furniture_Carpet_Basic_Lavender.name = Alfombra Básica Lavanda
+Furniture_Carpet_Basic_Gold.name = Alfombra Básica Dorada
+
+Furniture_Carpet_Octagonal_Ice.name = Alfombra de Hielo
+Furniture_Carpet_Octagonal_Magic.name = Alfombra Mágica
+Furniture_Carpet_Octagonal_Royale.name = Alfombra Real
+
+Sign_Arcade.name = Cartel de Arcade
+Sign_Bar.name = Cartel de Bar
+Sign_Generic.name = Cartel Genérico
+Sign_Monster_Store.name = Cartel de Monstruoteca
+Sign_Store.name = Cartel de Tienda
+
+Currency_Pile_Coin_Small.name = Montón de Monedas Pequeño
+Currency_Pile_Coin_Medium.name = Montón de Monedas Mediano
+Currency_Pile_Coin_Large.name = Montón de Monedas Grande
+
+Food_Cake_Birthday_Classic_Cream.name = Tarta de Cumpleaños Clásica - Crema
+Food_Cake_Birthday_Classic_Mocha.name = Tarta de Cumpleaños Clásica - Moca
+Food_Cake_Birthday_Classic_Strawberry.name = Tarta de Cumpleaños Clásica - Fresa
+Food_Cake_Birthday.description = Una dulce tarta para todos, celebren o no su cumpleaños.
+Food_Cake_Birthday_Double_Cream.name = Tarta de Cumpleaños Doble - Crema
+Food_Cake_Birthday_Double_Mocha.name = Tarta de Cumpleaños Doble - Moca
+Food_Cake_Birthday_Double_Strawberry.name = Tarta de Cumpleaños Doble - Fresa
+Food_Cake_Birthday_Double.description = Un festín de azúcar. Comerse esta tarta de una sola vez no puede ser saludable.
+Food_Ice_Cream_Classic_Cream.name = Helado Clásico - Crema
+Food_Ice_Cream_Classic_Blue_Moon.name = Helado Clásico - Luna Azul
+Food_Ice_Cream_Classic_Triple_Flavor.name = Helado Clásico - Triple Sabor
+Food_Ice_Cream.description = El tentempié perfecto para los días calurosos.
+
+Snowball.name = Bola de Nieve
+Bomb.name = Bomba
+
+Explosive_Dynamite.name = Dinamita
+Explosive_Dynamite_Barrel.name = Barril de Dinamita
+Explosive_Nuke.name = Bomba Nuclear
+Explosive_Warning.description = <color is="#ff3838">Destruye los bloques cercanos.</color>
+
+Bounce_Pad_Small.name = Colchoneta de Rebote - Pequeña
+Bounce_Pad_Medium.name = Colchoneta de Rebote - Mediana
+Bounce_Pad_Large.name = Colchoneta de Rebote - Grande
+Interactive_Die.name = Dado
+Interactive_Die.description = ...
+
+Emitter_Fireworks_Mix1.name = Fuegos Artificiales - Conjunto 1
+Emitter_Fireworks_Mix2.name = Fuegos Artificiales - Conjunto 2
+Emitter_Fireworks_Mix3.name = Fuegos Artificiales - Conjunto 3
+Emitter_Fireworks_Infinite.name = Fuegos Artificiales - Infinito
+Emitter_Water_Fountain_Small.name = Fuente de Agua - Pequeño
+Emitter_Water_Fountain_Medium.name = Fuente de Agua
+Emitter_Water_Fountain_Large.name = Fuente de Agua - Grande
+Emitter_Smoke_Trail.name = Estela de Humo
+Emitter_Smoke_Trail_Small.name = Estela de Humo - Pequeña
+
+Use_Hammer_Color.description = Usa un <color is="#ffffff">Martillo</color> para cambiar el color.
+Use_Hammer_Appearance.description = Usa un <color is="#ffffff">Martillo</color> para cambiar el aspecto.
+Use_Hammer_Appearance_Creative.description =  Usa un <color is="#ffffff">Martillo</color> para cambiar el aspecto\no activa <color is="#ffffff">Mostrar Variantes</color> en el Menú Creativo.
+Use_Entity_Tool.description = Usa una <color is="#ffffff">Herramienta de Entidades</color> para colocar esto.
+
+Canvas_Painting_1x1_Generic.name = Pintura Sobre Lienzo 1x1
+Canvas_Painting_1x2_Generic.name = Pintura Sobre Lienzo 1x2
+Canvas_Painting_2x1_Generic.name = Pintura Sobre Lienzo 2x1
+Canvas_Painting_2x2_Generic.name =  Pintura Sobre Lienzo 2x2
+Canvas_Painting_2x2_Generic_Classic.name = Pintura Clásica (2x2)
+Canvas_Painting_2x3.name = Pintura Sobre Lienzo 2x3
+Canvas_Painting_2x3_Generic_Classic.name = Pintura Clásica (2x3)
+Canvas_Painting_3x2.name = Pintura Sobre Lienzo 3x2
+Canvas_Painting_3x2_Generic_Classic.name = Pintura Clásica (3x2)
+
+Decal_Arrow_Black_Down.name = Flecha Negra Abajo
+Decal_Arrow_Black_Left.name = Flecha Negra Izquierda
+Decal_Arrow_Black_Right.name = Flecha Negra Derecha
+Decal_Arrow_Black_Up.name = Flecha Negra Arriba
+Decal_Arrow_White_Down.name = Flecha Blanca Abajo
+Decal_Arrow_White_Left.name = Flecha Blanca Izquierda
+Decal_Arrow_White_Right.name = Flecha Blanca Derecha
+Decal_Arrow_White_Up.name = Flecha Blanca Arriba
+Decal_Arrow_Grey_Down.name = Flecha Gris Abajo
+Decal_Arrow_Grey_Left.name = Flecha Gris Izquierda
+Decal_Arrow_Grey_Right.name = Flecha Gris Derecha
+Decal_Arrow_Grey_Up.name = Flecha Gris Arriba
+Decal_Arrow_Red_Down.name = Flecha Roja Abajo
+Decal_Arrow_Red_Left.name = Flecha Roja Izquierda
+Decal_Arrow_Red_Right.name = Flecha Roja Derecha
+Decal_Arrow_Red_Up.name = Flecha Roja Arriba
+Decal_Arrow_Orange_Down.name = Flecha Naranja Abajo
+Decal_Arrow_Orange_Left.name = Flecha Naranja Izquierda
+Decal_Arrow_Orange_Right.name = Flecha Naranja Derecha
+Decal_Arrow_Orange_Up.name = Flecha Naranja Arriba
+Decal_Arrow_Yellow_Down.name = Flecha Amarilla Abajo
+Decal_Arrow_Yellow_Left.name = Flecha Amarilla Izquierda
+Decal_Arrow_Yellow_Right.name = Flecha Amarilla Derecha
+Decal_Arrow_Yellow_Up.name = Flecha Amarilla Arriba
+Decal_Arrow_Green_Down.name = Flecha Verde Abajo
+Decal_Arrow_Green_Left.name = Flecha Verde Izquierda
+Decal_Arrow_Green_Right.name = Flecha Verde Derecha
+Decal_Arrow_Green_Up.name = Flecha Verde Arriba
+Decal_Arrow_Cyan_Down.name = Flecha Cian Abajo
+Decal_Arrow_Cyan_Left.name = Flecha Cian Izquierda
+Decal_Arrow_Cyan_Right.name = Flecha Cian Derecha
+Decal_Arrow_Cyan_Up.name = Flecha Cian Arriba
+Decal_Arrow_Blue_Down.name = Flecha Azul Abajo
+Decal_Arrow_Blue_Left.name = Flecha Azul Izquierda
+Decal_Arrow_Blue_Right.name = Flecha Azul Derecha
+Decal_Arrow_Blue_Up.name = Flecha Azul Arriba
+Decal_Arrow_Purple_Down.name = Flecha Morada Abajo
+Decal_Arrow_Purple_Left.name = Flecha Morada Izquierda
+Decal_Arrow_Purple_Right.name = Flecha Morada Derecha
+Decal_Arrow_Purple_Up.name = Flecha Morada Arriba
+Decal_Arrow_Pink_Down.name = Flecha Rosa Abajo
+Decal_Arrow_Pink_Left.name = Flecha Rosa Izquierda
+Decal_Arrow_Pink_Right.name = Flecha Rosa Derecha
+Decal_Arrow_Pink_Up.name = Flecha Rosa Arriba
+
+Info_Main.name = Información
+Info_Main.description = <color is="#ffffff">Este mod añade bloques, iluminación, decoraciones, elementos interactivos, efectos y extras para la creación de mundos, minijuegos y servidores.</color>\n\n<i>Creado con cariño por creadores para creadores.</i>\n~ <b>heavenly-roads</b>
+Info_Experimental.name = Experimental
+Info_Experimental.description = <color is="#ff9838">Los items de esta calidad son inestables, pueden no funcionar correctamente y están sujetos a cambios o a ser eliminados. <u>No los uses en servidores públicos ni en proyectos terminados</u>.</color>
+Info_Credits.name = Créditos
+Info_Credits.description = Creado por\n<color is="#cecece"><b>heavenly-roads</b></color>\n\nCuadros originales de\n<color is="#cecece"><b></b></color>

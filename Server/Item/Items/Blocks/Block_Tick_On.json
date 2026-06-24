@@ -1,0 +1,70 @@
+{
+  "TranslationProperties": {
+    "Name": "Tick - On"
+  },
+  "ItemLevel": 10,
+  "Icon": "Icons/ItemsGenerated/Block_Solid_White.png",
+  "Categories": [
+    "HR_CoreCreator.Blocks"
+  ],
+  "PlayerAnimationsId": "Block",
+  "Set": "Build",
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Cube",
+    "Opacity": "Transparent",
+    "Group": "Dev",
+    "HitboxType": "Full",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Rocks"
+      }
+    },
+    "BlockParticleSetId": "Crystal",
+    "Textures": [
+      {
+        "Weight": 1,
+        "All": "BlockTextures/Solid_White.png"
+      }
+    ],
+    "ParticleColor": "#ffffff",
+    "BlockSoundSetId": "Crystal",
+    "PhysicalMaterialId": "Stone",
+    "CubeShadingMode": "Flat",
+    "VariantRotation": "Pipe",
+    "TextureComputedColor": "#ffffff",
+    "RandomTickProcedure": {
+      "Type": "ChangeIntoBlock",
+      "TargetBlock": "Block_Tick_Off"
+    },
+    "TickProcedure": {
+      "Type": "BasicChance",
+      "ChanceMin": 1,
+      "Chance": 1,
+      "NextTicking": true
+    }
+  },
+  "Tags": {
+    "Type": [
+      "Rock"
+    ],
+    "Family": [
+      "Build"
+    ]
+  },
+  "Quality": "Developer",
+  "ItemSoundSetId": "ISS_Blocks_Stone",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}

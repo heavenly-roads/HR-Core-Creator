@@ -1,0 +1,40 @@
+{
+  "PlayerAnimationsId": "Block",
+  "Icon": "Icons/ItemsGenerated/Furniture_Construction_Sign_Middle.png",
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      22.5,
+      49,
+      22.5
+    ],
+    "Translation": [
+      -12,
+      -27
+    ]
+  },
+  "BlockType": {
+    "CustomModel": "Blocks/Construction_Sign_Middle.blockymodel",
+    "DrawType": "Model",
+    "HitboxType": "Construction_Sign_Middle",
+    "Material": "Solid",
+    "Opacity": "Transparent",
+    "Parent": "Furniture_Construction_Sign"
+  },
+  "Tags": {
+    "Type": [
+      "Furniture"
+    ],
+    "Family": [
+      "Human"
+    ]
+  },
+  "Scale": 0.6,
+  "ItemSoundSetId": "ISS_Blocks_Wood",
+  "TranslationProperties": {
+    "Name": "server.Construction_Sign_Middle.name"
+  },
+  "Categories": [
+    "HR_CoreCreator.Decoration"
+  ]
+}

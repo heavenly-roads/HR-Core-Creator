@@ -1,0 +1,28 @@
+{
+  "ParticleLifeSpan": {
+    "Min": 0.5,
+    "Max": 1
+  },
+  "SpawnRate": {
+    "Min": 10,
+    "Max": 10
+  },
+  "LinearFiltering": false,
+  "EmitOffset": {
+    "X": {
+      "Min": 0.4,
+      "Max": 0.4
+    },
+    "Z": {
+      "Min": 0.4,
+      "Max": 0.4
+    },
+    "Y": {
+      "Min": 0.1,
+      "Max": 0.1
+    }
+  },
+  "Shape": "Cube",
+  "Parent": "ParticleSpawner_JumpPad_Medium",
+  "CameraOffset": -1
+}

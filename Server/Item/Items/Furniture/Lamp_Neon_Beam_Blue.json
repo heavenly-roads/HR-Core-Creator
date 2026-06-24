@@ -1,0 +1,27 @@
+{
+  "Icon": "Icons/ItemsGenerated/Lamp_Neon_Beam_Blue.png",
+  "BlockType": {
+    "ParticleColor": "#4890d8",
+    "Light": {
+      "Color": "#369"
+    },
+    "Parent": "Lamp_Neon_Beam_White",
+    "CustomModel": "Blocks/Lamp_Neon_Beam_Blue.blockymodel"
+  },
+  "IconProperties": {
+    "Scale": 0.7,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -3
+    ]
+  },
+  "Parent": "Lamp_Neon_Beam_White",
+  "TranslationProperties": {
+    "Name": "server.Lamp_Neon_Beam_Blue.name"
+  }
+}

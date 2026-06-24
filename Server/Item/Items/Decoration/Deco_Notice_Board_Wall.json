@@ -1,0 +1,39 @@
+{
+  "PlayerAnimationsId": "Block",
+  "Icon": "Icons/ItemsGenerated/Deco_Notice_Board_Wall.png",
+  "IconProperties": {
+    "Scale": 0.3,
+    "Rotation": [
+      14,
+      47,
+      14.5
+    ],
+    "Translation": [
+      8,
+      -32
+    ]
+  },
+  "Scale": 1,
+  "ItemSoundSetId": "ISS_Blocks_Wood",
+  "Parent": "Deco_Notice_Board",
+  "BlockType": {
+    "BlockParticleSetId": "Wood",
+    "BlockSoundSetId": "Wood",
+    "CustomModel": "Blocks/Deco_Notice_Board_Wall.blockymodel",
+    "DrawType": "Model",
+    "HitboxType": "Notice_Board_Wall",
+    "Material": "Solid",
+    "ParticleColor": "#63412c",
+    "VariantRotation": "NESW",
+    "Opacity": "Solid",
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Elements/Notice_Board.png"
+      }
+    ],
+    "IgnoreSupportWhenPlaced": true
+  },
+  "TranslationProperties": {
+    "Name": "Notice Board - Wall"
+  }
+}

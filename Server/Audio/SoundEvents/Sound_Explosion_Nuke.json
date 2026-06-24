@@ -1,0 +1,17 @@
+{
+  "Layers": [
+    {
+      "Files": [
+        "Sounds/Explosion_Nuke.ogg"
+      ]
+    }
+  ],
+  "PreventSoundInterruption": true,
+  "MaxDistance": 512,
+  "StartAttenuationDistance": 64,
+  "MaxInstance": 4,
+  "AudioCategory": "AudioCat_SFX",
+  "Volume": 10,
+  "Pitch": -3,
+  "SpatialBlend": 0.3
+}

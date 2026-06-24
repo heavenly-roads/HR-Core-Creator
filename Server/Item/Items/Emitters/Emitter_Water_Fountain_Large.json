@@ -1,0 +1,29 @@
+{
+  "PlayerAnimationsId": "Block",
+  "BlockType": {
+    "Particles": [
+      {
+        "SystemId": "ParticleSystem_Water_Fountain_Large",
+        "Color": "#efefef"
+      }
+    ],
+    "Parent": "Emitter_Water_Fountain_Medium"
+  },
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "server.Emitter_Water_Fountain_Large.name"
+  },
+  "Quality": "HR_Effects",
+  "Parent": "Emitter_Water_Fountain_Medium"
+}

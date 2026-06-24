@@ -1,0 +1,28 @@
+{
+  "BlockType": {
+    "Particles": [
+      {
+        "SystemId": "ParticleSystem_Fireworks_Test"
+      }
+    ],
+    "Parent": "Template_Particle_Emitter"
+  },
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "server.Emitter_Fireworks_Infinite.name"
+  },
+  "Icon": "Icons/Items/Emitter_Fireworks.png",
+  "Quality": "HR_Experimental",
+  "Parent": "Template_Particle_Emitter"
+}

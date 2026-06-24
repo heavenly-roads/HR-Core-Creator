@@ -1,0 +1,25 @@
+{
+  "Parent": "Cloth_Block_Pattern_Striped01",
+  "BlockType": {
+    "Parent": "Cloth_Block_Pattern_Striped01",
+    "Textures": [
+      {
+        "All": "BlockTextures/Block_Cloth_Pattern_Striped03.png"
+      }
+    ],
+    "ParticleColor": "#494949"
+  },
+  "Icon": "Icons/ItemsGenerated/Cloth_Block_Pattern_Striped03.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}

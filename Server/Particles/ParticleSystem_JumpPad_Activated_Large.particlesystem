@@ -1,0 +1,12 @@
+{
+  "CullDistance": 32,
+  "LifeSpan": 1,
+  "Spawners": [
+    {
+      "SpawnerId": "ParticleSpawner_JumpPad_Wave_Large",
+      "PositionOffset": {
+        "Y": 0.15
+      }
+    }
+  ]
+}

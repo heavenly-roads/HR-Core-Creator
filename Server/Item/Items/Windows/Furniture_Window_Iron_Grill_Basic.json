@@ -1,0 +1,67 @@
+{
+  "TranslationProperties": {
+    "Name": "server.Window_Iron_Grill.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Furniture_Window_Iron_Grill_Basic.png",
+  "Categories": [
+    "HR_CoreCreator.Blocks"
+  ],
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Structures/Windows/Window_Iron_Grill.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Structures/Windows/Window_Iron_Grill.png"
+      }
+    ],
+    "CustomModelScale": 1,
+    "HitboxType": "Window",
+    "VariantRotation": "NESW",
+    "Flags": {
+      "IsUsable": false,
+      "IsStackable": true
+    },
+    "Gathering": {
+      "Soft": {
+        "IsWeaponBreakable": false
+      }
+    },
+    "BlockParticleSetId": "Metal",
+    "BlockSoundSetId": "Metal",
+    "PhysicalMaterialId": "Metal",
+    "ParticleColor": "#5c5c5c"
+  },
+  "PlayerAnimationsId": "Block",
+  "IconProperties": {
+    "Scale": 0.6,
+    "Rotation": [
+      23.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -14
+    ]
+  },
+  "ResourceTypes": [
+    {
+      "Id": "Fuel"
+    },
+    {
+      "Id": "Charcoal"
+    }
+  ],
+  "Tags": {
+    "Type": [
+      "Furniture"
+    ],
+    "Family": [
+      "Village"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Items_Metal",
+  "SubCategory": "Windows"
+}

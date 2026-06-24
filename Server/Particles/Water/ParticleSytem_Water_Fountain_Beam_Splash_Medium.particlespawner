@@ -1,0 +1,122 @@
+{
+  "RenderMode": "Erosion",
+  "ParticleRotationInfluence": "BillboardVelocity",
+  "LinearFiltering": false,
+  "LightInfluence": 0.8,
+  "ParticleRotateWithSpawner": true,
+  "TrailSpawnerPositionMultiplier": 1,
+  "TrailSpawnerRotationMultiplier": 1,
+  "ParticleLifeSpan": {
+    "Min": 0.7,
+    "Max": 1
+  },
+  "SpawnRate": {
+    "Min": 50,
+    "Max": 60
+  },
+  "Particle": {
+    "Texture": "Particles/Textures/Rnd/Water_Splash2.png",
+    "FrameSize": {
+      "Width": 64,
+      "Height": 64
+    },
+    "ScaleRatioConstraint": "None",
+    "UVOption": "RandomFlipU",
+    "Animation": {
+      "0": {
+        "FrameIndex": {
+          "Min": 0,
+          "Max": 3
+        },
+        "Opacity": 0,
+        "Scale": {
+          "X": {
+            "Min": 1,
+            "Max": 1
+          },
+          "Y": {
+            "Min": 1,
+            "Max": 1
+          }
+        },
+        "Rotation": {
+          "Z": {
+            "Min": 0,
+            "Max": 0
+          }
+        }
+      },
+      "50": {
+        "Opacity": 1
+      },
+      "80": {
+        "Scale": {
+          "X": {
+            "Min": 1.67,
+            "Max": 2
+          },
+          "Y": {
+            "Min": 2.6,
+            "Max": 3.6
+          }
+        }
+      },
+      "100": {
+        "Opacity": 0
+      }
+    },
+    "InitialAnimationFrame": {
+      "Rotation": {
+        "Z": {
+          "Min": 180,
+          "Max": 180
+        }
+      },
+      "Scale": {
+        "X": {
+          "Min": 0.2,
+          "Max": 0.3
+        },
+        "Y": {
+          "Min": 0.2,
+          "Max": 0.3
+        }
+      },
+      "Opacity": 1,
+      "FrameIndex": {
+        "Min": 0,
+        "Max": 3
+      },
+      "Color": "#a4d0ff"
+    }
+  },
+  "MaxConcurrentParticles": 32,
+  "Shape": "Cube",
+  "InitialVelocity": {
+    "Speed": {
+      "Min": 6,
+      "Max": 10
+    },
+    "Pitch": {
+      "Min": 75,
+      "Max": 89
+    },
+    "Yaw": {
+      "Min": -180,
+      "Max": 180
+    }
+  },
+  "Attractors": [
+    {
+      "RadialAcceleration": 15,
+      "DampingMultiplier": {
+        "X": 0.6,
+        "Y": 0.8,
+        "Z": 0.6
+      },
+      "LinearImpulse": {
+        "Y": -5
+      }
+    }
+  ]
+}

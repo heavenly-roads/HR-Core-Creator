@@ -1,0 +1,32 @@
+{
+  "BlockType": {
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Elements/Neon_Paw.png"
+      }
+    ],
+    "VariantRotation": "NESW",
+    "ParticleColor": "#ff7e5c",
+    "Light": {
+      "Color": "#c75"
+    },
+    "Parent": "Deco_Neon_Hearts"
+  },
+  "Icon": "Icons/ItemsGenerated/Deco_Neon_Paw.png",
+  "IconProperties": {
+    "Scale": 1,
+    "Rotation": [
+      0,
+      0,
+      0
+    ],
+    "Translation": [
+      0,
+      -16
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "server.Deco_Neon_Paw.name"
+  },
+  "Parent": "Deco_Neon_Hearts"
+}

@@ -1,0 +1,48 @@
+{
+  "BlockType": {
+    "DrawType": "Model",
+    "CubeShadingMode": "Fullbright",
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Elements/Neon_Rocket.png"
+      }
+    ],
+    "VariantRotation": "NESW",
+    "IgnoreSupportWhenPlaced": false,
+    "HitboxType": "Thin_Wall_OneByOne",
+    "BlockParticleSetId": "Crystal",
+    "ParticleColor": "#b7c1d0",
+    "BlockSoundSetId": "Crystal",
+    "Light": {
+      "Color": "#89b"
+    },
+    "Support": {
+      "North": [
+        {
+          "FaceType": "Full"
+        }
+      ]
+    },
+    "CustomModel": "Blocks/Deco_Neon.blockymodel",
+    "Material": "Empty",
+    "Opacity": "Transparent"
+  },
+  "PlayerAnimationsId": "Block",
+  "Icon": "Icons/ItemsGenerated/Deco_Neon_Rocket.png",
+  "IconProperties": {
+    "Scale": 1,
+    "Rotation": [
+      0,
+      0,
+      0
+    ],
+    "Translation": [
+      0,
+      -16
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "server.Deco_Neon_Rocket.name"
+  },
+  "Parent": "Deco_Neon_Hearts"
+}

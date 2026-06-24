@@ -1,0 +1,32 @@
+{
+  "BlockType": {
+    "DrawType": "Model",
+    "CustomModel": "Blocks/Interactive/Bounce_Pad_3x3_Off.blockymodel",
+    "HitboxType": "Bounce_Pad_Large",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Interactive/Bounce_Pad_Large_Off.png"
+      }
+    ],
+    "Opacity": "Transparent",
+    "Material": "Solid"
+  },
+  "Icon": "Icons/ItemsGenerated/Interactive_Bounce_Pad_Large_Off.png",
+  "IconProperties": {
+    "Scale": 0.22,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -1,
+      -4
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "server.Bounce_Pad_Large.name"
+  },
+  "Quality": "Template",
+  "PlayerAnimationsId": "Block"
+}

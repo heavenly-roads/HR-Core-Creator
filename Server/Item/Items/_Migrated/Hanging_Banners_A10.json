@@ -1,0 +1,26 @@
+{
+  "IconProperties": {
+    "Scale": 0.12,
+    "Rotation": [
+      0,
+      0,
+      0
+    ],
+    "Translation": [
+      -144,
+      18
+    ]
+  },
+  "Parent": "Deco_Hanging_Banners_Generic01_Long",
+  "BlockType": {
+    "DrawType": "Model",
+    "CustomModel": "Items/Banners/Hanging_Banners_Large.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Items/Banners/Hanging_Banners_Generic_01.png"
+      }
+    ],
+    "HitboxType": "Hanging_Banners_Long10"
+  },
+  "Quality": "Developer"
+}

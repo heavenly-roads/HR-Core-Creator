@@ -1,0 +1,35 @@
+{
+  "Icon": "Icons/ItemsGenerated/Block_Grid_Structure2.png",
+  "Quality": "Technical",
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Cube",
+    "Opacity": "Solid",
+    "Textures": [
+      {
+        "Sides": "BlockTextures/Grid_Structure2_Sides.png",
+        "UpDown": "BlockTextures/Grid_Structure2_Up.png"
+      }
+    ],
+    "CubeShadingMode": "Standard",
+    "BlockParticleSetId": "Stone",
+    "ParticleColor": "#4b7dab"
+  },
+  "PlayerAnimationsId": "Block",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  },
+  "Parent": "Block_Grid_Default",
+  "TranslationProperties": {
+    "Name": "server.Block_Grid_Structure.name"
+  }
+}

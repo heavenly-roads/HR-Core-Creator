@@ -1,0 +1,189 @@
+{
+  "TranslationProperties": {
+    "Name": "server.Explosive_Dynamite.name",
+    "Description": "server.Explosive_Warning.description"
+  },
+  "ItemLevel": 10,
+  "Quality": "HR_Experimental",
+  "Categories": [
+    "HR_CoreCreator.Interactive"
+  ],
+  "PlayerAnimationsId": "Item",
+  "BlockType": {
+    "DrawType": "Model",
+    "HitboxType": "Explosive_Dynamite",
+    "VariantRotation": "NESW",
+    "Flags": {},
+    "InteractionHint": "server.interactionHints.activate",
+    "Interactions": {
+      "Use": {
+        "Interactions": [
+          {
+            "Type": "ChangeState",
+            "Changes": {
+              "default": "Exploding"
+            },
+            "UpdateBlockState": true
+          }
+        ]
+      }
+    },
+    "ExplosionReactionState": "Exploding",
+    "ExplosionConfig": {
+      "DamageEntities": true,
+      "DamageBlocks": true,
+      "BlockDamageRadius": 4,
+      "BlockDropChance": 0.1,
+      "EntityDamage": 60,
+      "EntityDamageRadius": 4,
+      "Knockback": {
+        "Type": "Point",
+        "VelocityConfig": {
+          "AirResistance": 0.97,
+          "AirResistanceMax": 0.96,
+          "GroundResistance": 0.94,
+          "GroundResistanceMax": 0.3,
+          "Threshold": 3.0,
+          "Style": "Exp"
+        },
+        "Force": 20,
+        "VelocityType": "Add"
+      },
+      "ItemTool": {
+        "Specs": [
+          {
+            "Power": 2,
+            "GatherType": "SoftBlocks"
+          },
+          {
+            "Power": 2,
+            "GatherType": "Soils"
+          },
+          {
+            "Power": 2,
+            "GatherType": "Woods"
+          },
+          {
+            "Power": 2,
+            "GatherType": "Rocks"
+          },
+          {
+            "Power": 2,
+            "GatherType": "Benches"
+          }
+        ]
+      },
+      "SoundEventId": "Sound_Explosion_Dynamite",
+      "Particles": [
+        {
+          "Scale": 1,
+          "ParticleColor": "#ffffff",
+          "SystemId": "ParticleSystem_Explosion_Dynamite",
+          "PositionOffset": {
+            "Y": -0.3
+          }
+        }
+      ],
+      "BlockDamageFalloff": 4
+    },
+    "State": {
+      "Definitions": {
+        "Exploding": {
+          "BlockEntity": {
+            "Components": {
+              "BlockExplosive": {
+                "PrimedOnPlace": true,
+                "FuseDuration": 4
+              }
+            }
+          },
+          "AmbientSoundEventId": "SFX_Bomb_Fuse",
+          "Particles": [
+            {
+              "SystemId": "Fuse_Bomb",
+              "PositionOffset": {
+                "X": 0.45,
+                "Y": 0.25
+              }
+            }
+          ],
+          "Light": {
+            "Color": "#642"
+          },
+          "InteractionHint": "",
+          "SoundOcclusionOpacity": 0
+        }
+      }
+    },
+    "BlockSoundSetId": "Default",
+    "TransitionToGroups": [
+      "Stone",
+      "Sand",
+      "Wood",
+      "Mud",
+      "Dirt"
+    ],
+    "CustomModelTexture": [
+      {
+        "Texture": "Items/Interactive/Explosive_Dynamite.png",
+        "Weight": 1
+      }
+    ],
+    "CustomModel": "Items/Interactive/Explosive_Dynamite.blockymodel",
+    "Material": "Solid",
+    "Support": {
+      "Down": [
+        {
+          "FaceType": "Full"
+        }
+      ]
+    },
+    "Opacity": "Semitransparent",
+    "Gathering": {
+      "Soft": {}
+    },
+    "FallingBlockSettings": {
+      "Impact": {
+        "Type": "Place"
+      },
+      "HitboxCollisionConfig": "HardCollision"
+    },
+    "SupportDropType": "Fall",
+    "SoundOcclusionOpacity": 0
+  },
+  "Tags": {
+    "Type": [
+      "Explosive"
+    ]
+  },
+  "IconProperties": {
+    "Scale": 0.85,
+    "Rotation": [
+      23,
+      307,
+      0
+    ],
+    "Translation": [
+      1.5,
+      -6
+    ]
+  },
+  "ItemSoundSetId": "ISS_Default",
+  "Icon": "Icons/ItemsGenerated/Explosive_Dynamite.png",
+  "Scale": 1.2,
+  "SubCategory": "Explosives",
+  "InteractionVars": {
+    "Item_Throw_Projectile": {
+      "Interactions": [
+        {
+          "Parent": "Item_Throw_Projectile",
+          "ProjectileId": "Projectile_Dynamite"
+        }
+      ]
+    }
+  },
+  "Interactions": {
+    "Primary": "Item_Throw",
+    "Secondary": "Block_Secondary"
+  }
+}

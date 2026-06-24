@@ -1,0 +1,23 @@
+{
+  "TranslationProperties": {
+    "Name": "server.Currency_Pile_Coin_Small.name"
+  },
+  "BlockType": {
+    "CustomModel": "Blocks/Currency_Coin_Pile_Small.blockymodel",
+    "Parent": "Deco_Coin_Pile_Medium"
+  },
+  "IconProperties": {
+    "Scale": 0.9,
+    "Rotation": [
+      18,
+      302,
+      336
+    ],
+    "Translation": [
+      0,
+      -3
+    ]
+  },
+  "Icon": "Icons/ItemsGenerated/Deco_Coin_Pile_Small.png",
+  "Parent": "Deco_Coin_Pile_Medium"
+}

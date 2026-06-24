@@ -1,0 +1,10 @@
+{
+  "IsImportant": true,
+  "CullDistance": 32,
+  "LifeSpan": 1,
+  "Spawners": [
+    {
+      "SpawnerId": "ParticlesSpawner_Die_Result_01"
+    }
+  ]
+}

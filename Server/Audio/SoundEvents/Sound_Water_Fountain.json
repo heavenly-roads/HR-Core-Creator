@@ -1,0 +1,15 @@
+{
+  "Layers": [
+    {
+      "Files": [
+        "Sounds/Water_Fountain.ogg"
+      ],
+      "Looping": true
+    }
+  ],
+  "PreventSoundInterruption": false,
+  "MaxDistance": 20,
+  "StartAttenuationDistance": 8,
+  "MaxInstance": 4,
+  "AudioCategory": "AudioCat_Ambient"
+}

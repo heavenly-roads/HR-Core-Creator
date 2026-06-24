@@ -1,0 +1,12 @@
+{
+  "Spawners": [
+    {
+      "SpawnerId": "ParticleSystem_Nuke_Sparks",
+      "PositionOffset": {
+        "X": 0.5,
+        "Y": -0.5
+      }
+    }
+  ],
+  "CullDistance": 96
+}

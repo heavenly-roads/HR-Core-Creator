@@ -1,0 +1,25 @@
+{
+  "Appearance": "Interactive_Die",
+  "VerticalCenterShot": 0.1,
+  "HorizontalCenterShot": 0.1,
+  "PitchAdjustShot": true,
+  "SticksVertically": false,
+  "Gravity": 40,
+  "BounceSoundEventId": "Interactive_Die_Hit",
+  "HitSoundEventId": "Interactive_Die_Hit",
+  "Bounciness": 0.95,
+  "RotationMode": "Velocity",
+  "MuzzleVelocity": 20,
+  "DeadTimeMiss": 0,
+  "DeathParticles": {
+    "SystemId": "ParticleSystem_Die_Result_01"
+  },
+  "ComputeRoll": true,
+  "ComputePitch": true,
+  "ComputeYaw": true,
+  "ImpactSlowdown": 0.1,
+  "TimeToLive": 10,
+  "DeathEffectsOnHit": true,
+  "MissSoundEventId": "Interactive_Die_Hit",
+  "TerminalVelocity": 100
+}

@@ -1,0 +1,48 @@
+{
+  "BlockType": {
+    "DrawType": "Model",
+    "CubeShadingMode": "Fullbright",
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Elements/Neon_Trophy.png"
+      }
+    ],
+    "VariantRotation": "NESW",
+    "IgnoreSupportWhenPlaced": false,
+    "HitboxType": "Thin_Wall_OneByOne",
+    "BlockParticleSetId": "Crystal",
+    "ParticleColor": "#ffb65c",
+    "BlockSoundSetId": "Crystal",
+    "Light": {
+      "Color": "#ca5"
+    },
+    "Support": {
+      "North": [
+        {
+          "FaceType": "Full"
+        }
+      ]
+    },
+    "CustomModel": "Blocks/Deco_Neon.blockymodel",
+    "Material": "Empty",
+    "Opacity": "Transparent"
+  },
+  "PlayerAnimationsId": "Block",
+  "Icon": "Icons/ItemsGenerated/Deco_Neon_Trophy.png",
+  "IconProperties": {
+    "Scale": 1,
+    "Rotation": [
+      0,
+      0,
+      0
+    ],
+    "Translation": [
+      0,
+      -16
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "server.Deco_Neon_Trophy.name"
+  },
+  "Parent": "Deco_Neon_Hearts"
+}

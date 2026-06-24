@@ -1,0 +1,67 @@
+{
+  "TranslationProperties": {
+    "Name": "server.Window_Wood_Lattice.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Furniture_Window_Wood_Lattice_Basic.png",
+  "Categories": [
+    "HR_CoreCreator.Blocks"
+  ],
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Structures/Windows/Window_Wood_Lattice.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Structures/Windows/Window_Wood_Lattice.png"
+      }
+    ],
+    "CustomModelScale": 1,
+    "HitboxType": "Window",
+    "VariantRotation": "NESW",
+    "Flags": {
+      "IsUsable": false,
+      "IsStackable": true
+    },
+    "Gathering": {
+      "Soft": {
+        "IsWeaponBreakable": false
+      }
+    },
+    "BlockParticleSetId": "Wood",
+    "BlockSoundSetId": "Wood",
+    "PhysicalMaterialId": "Wood",
+    "ParticleColor": "#684127"
+  },
+  "PlayerAnimationsId": "Block",
+  "IconProperties": {
+    "Scale": 0.6,
+    "Rotation": [
+      23.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -14
+    ]
+  },
+  "ResourceTypes": [
+    {
+      "Id": "Fuel"
+    },
+    {
+      "Id": "Charcoal"
+    }
+  ],
+  "Tags": {
+    "Type": [
+      "Furniture"
+    ],
+    "Family": [
+      "Village"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Blocks_Wood",
+  "SubCategory": "Windows"
+}

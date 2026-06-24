@@ -1,0 +1,102 @@
+{
+  "ParticleRotationInfluence": "Billboard",
+  "ParticleLifeSpan": {
+    "Min": 3,
+    "Max": 3
+  },
+  "SpawnRate": {
+    "Min": 100,
+    "Max": 100
+  },
+  "Particle": {
+    "FrameSize": {
+      "Width": 12,
+      "Height": 12
+    },
+    "ScaleRatioConstraint": "OneToOne",
+    "InitialAnimationFrame": {
+      "Scale": {
+        "X": {
+          "Min": 1,
+          "Max": 1
+        }
+      },
+      "Opacity": 1,
+      "FrameIndex": {
+        "Min": 0,
+        "Max": 5
+      }
+    },
+    "SoftParticles": "Disable",
+    "Texture": "Particles/Interactive/Interactive_Die_Result.png",
+    "UVOption": "None",
+    "Animation": {
+      "0": {
+        "Rotation": {
+          "X": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Y": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Z": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        "Scale": {
+          "X": {
+            "Min": 0.7,
+            "Max": 0.7
+          }
+        },
+        "Opacity": 0
+      },
+      "5": {
+        "Opacity": 1,
+        "Scale": {
+          "X": {
+            "Min": 1,
+            "Max": 1
+          }
+        }
+      },
+      "80": {
+        "Opacity": 1,
+        "Scale": {
+          "X": {
+            "Min": 1,
+            "Max": 1
+          }
+        }
+      },
+      "100": {
+        "Opacity": 0,
+        "Scale": {
+          "X": {
+            "Min": 0.7,
+            "Max": 0.7
+          }
+        }
+      }
+    },
+    "UseSpriteBlending": false
+  },
+  "RenderMode": "BlendLinear",
+  "MaxConcurrentParticles": 1,
+  "CameraOffset": -0.5,
+  "LinearFiltering": false,
+  "Shape": "Sphere",
+  "ParticleCollision": {
+    "Action": "Expire"
+  },
+  "Attractors": [
+    {
+      "LinearImpulse": {
+        "Y": 0.5
+      }
+    }
+  ]
+}

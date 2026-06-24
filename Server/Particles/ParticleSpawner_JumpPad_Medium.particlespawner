@@ -1,0 +1,66 @@
+{
+  "ParticleRotationInfluence": "Billboard",
+  "ParticleLifeSpan": {
+    "Min": 0.5,
+    "Max": 1
+  },
+  "SpawnRate": {
+    "Min": 30,
+    "Max": 30
+  },
+  "Particle": {
+    "FrameSize": {
+      "Width": 32,
+      "Height": 32
+    },
+    "ScaleRatioConstraint": "OneToOne",
+    "Animation": {
+      "0": {
+        "Opacity": 0
+      },
+      "50": {
+        "Opacity": 1
+      },
+      "100": {
+        "Opacity": 0
+      }
+    },
+    "InitialAnimationFrame": {
+      "Scale": {
+        "X": {
+          "Min": 0.1,
+          "Max": 0.1
+        }
+      },
+      "Color": "#619bff",
+      "Opacity": 1
+    },
+    "UVOption": "None",
+    "Texture": "Particles/Textures/Basic/Glow.png"
+  },
+  "RenderMode": "Erosion",
+  "LinearFiltering": false,
+  "Attractors": [
+    {
+      "LinearImpulse": {
+        "Y": 2
+      }
+    }
+  ],
+  "EmitOffset": {
+    "X": {
+      "Min": 0.9,
+      "Max": 0.9
+    },
+    "Z": {
+      "Min": 0.9,
+      "Max": 0.9
+    },
+    "Y": {
+      "Min": 0.1,
+      "Max": 0.1
+    }
+  },
+  "Shape": "Cube",
+  "CameraOffset": -1
+}

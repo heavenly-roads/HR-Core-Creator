@@ -1,0 +1,34 @@
+itemcategory.core = Core
+itemcategory.blocks = Bloques
+itemcategory.lighting = Iluminación
+itemcategory.decoration = Decoración
+itemcategory.items = Ítems
+itemcategory.interactive = Interactivo
+itemcategory.decals = Calcomanías
+itemcategory.effects = Efectos
+itemcategory.experimental = Experimental
+itemcategory.customizable = Personalizable
+
+subcategory.windows.name = Ventanas
+subcategory.furniture.name = Muebles
+subcategory.cloth.name = Telas
+subcategory.carpets.name = Alfombras
+subcategory.posters.name = Carteles
+subcategory.signs.name = Letreros
+subcategory.banners.name = Banderolas
+subcategory.paintings.name = Cuadros
+subcategory.arcade.name = Arcade
+subcategory.neon.name = Neones
+subcategory.lamps.name = Lámparas
+subcategory.weapons.name = Armas
+subcategory.food.name = Comida
+subcategory.utilities.name = Utilidades
+subcategory.loot.name = Cajas de botín
+subcategory.explosives.name = Explosivos
+subcategory.portals.name = Portales
+subcategory.general.name = General
+
+itemcategory.windmills = Molinos de Viento
+subcategory.classic.name = Clásico
+subcategory.generic.name = Genérico
+subcategory.pinwheels.name = Molinillos

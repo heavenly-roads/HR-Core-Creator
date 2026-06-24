@@ -1,0 +1,86 @@
+{
+  "Spawners": [
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Nuke_Glow",
+      "PositionOffset": {
+        "Y": 2
+      }
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Nuke_Hat",
+      "Attractors": [
+        {
+          "Position": {
+            "Y": -1
+          },
+          "Radius": 16,
+          "LinearImpulse": {
+            "Y": 1.5
+          },
+          "LinearAcceleration": {
+            "Y": -0.1
+          }
+        }
+      ]
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Nuke_Hat_Billboard",
+      "Attractors": [
+        {
+          "Position": {
+            "Y": -1
+          },
+          "Radius": 16,
+          "LinearImpulse": {
+            "Y": 1.5
+          },
+          "LinearAcceleration": {
+            "Y": -0.1
+          }
+        }
+      ]
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Nuke_Trunk"
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Nuke_Debris"
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Nuke_Fire"
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Nuke_Smoke"
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Nuke_Sparks"
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Nuke_Wave",
+      "PositionOffset": {
+        "Y": 12
+      },
+      "StartDelay": 5
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Nuke_Wave_Small",
+      "PositionOffset": {
+        "Y": 6
+      },
+      "StartDelay": 4
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Nuke_Shockwave_Ground",
+      "PositionOffset": {
+        "Y": 1
+      }
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Nuke_Shockwave"
+    }
+  ],
+  "CullDistance": 512,
+  "BoundingRadius": 32,
+  "LifeSpan": 20,
+  "IsImportant": true
+}

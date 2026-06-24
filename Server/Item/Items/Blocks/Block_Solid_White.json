@@ -1,0 +1,31 @@
+{
+  "TranslationProperties": {
+    "Name": "server.Block_Solid_White.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Block_Solid_White.png",
+  "Quality": "Technical",
+  "BlockType": {
+    "Textures": [
+      {
+        "All": "BlockTextures/Solid_White.png"
+      }
+    ],
+    "ParticleColor": "#ffffff",
+    "BlockSoundSetId": "Stone",
+    "BlockParticleSetId": "Stone",
+    "Parent": "Block_Solid_Black"
+  },
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  },
+  "Parent": "Block_Solid_Black"
+}

@@ -1,0 +1,44 @@
+{
+  "Categories": [
+    "HR_CoreCreator.Effects"
+  ],
+  "PlayerAnimationsId": "Block",
+  "Interactions": {
+    "Secondary": "Lantern_Blue"
+  },
+  "BlockType": {
+    "Material": "Empty",
+    "DrawType": "Cube",
+    "Opacity": "Cutout",
+    "HitboxType": "Full",
+    "Textures": [
+      {
+        "All": "Resources/Transparent.png"
+      }
+    ],
+    "CubeShadingMode": "Flat",
+    "RequiresAlphaBlending": true
+  },
+  "Tags": {
+    "Type": [
+      "Rock"
+    ],
+    "Family": [
+      "Crystal"
+    ]
+  },
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  },
+  "Icon": "Icons/Items/EditorTools/Hitbox.png",
+  "Quality": "Template"
+}

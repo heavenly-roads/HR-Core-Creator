@@ -1,0 +1,175 @@
+{
+  "TranslationProperties": {
+    "Name": "server.Explosive_Dynamite_Barrel.name",
+    "Description": "server.Explosive_Warning.description"
+  },
+  "Quality": "HR_Experimental",
+  "PlayerAnimationsId": "Block",
+  "BlockType": {
+    "HitboxType": "Plant_Tall_Small",
+    "VariantRotation": "NESW",
+    "Interactions": {
+      "Use": {
+        "Interactions": [
+          {
+            "Type": "ChangeState",
+            "Changes": {
+              "default": "Exploding"
+            },
+            "UpdateBlockState": true
+          }
+        ]
+      }
+    },
+    "ExplosionReactionState": "Exploding",
+    "ExplosionConfig": {
+      "DamageEntities": true,
+      "DamageBlocks": true,
+      "BlockDamageRadius": 5,
+      "EntityDamage": 120,
+      "EntityDamageRadius": 4,
+      "Knockback": {
+        "Type": "Point",
+        "VelocityConfig": {
+          "AirResistance": 0.97,
+          "AirResistanceMax": 0.96,
+          "GroundResistance": 0.94,
+          "GroundResistanceMax": 0.3,
+          "Threshold": 3.0,
+          "Style": "Exp"
+        },
+        "Force": 35,
+        "VelocityType": "Add"
+      },
+      "ItemTool": {
+        "Specs": [
+          {
+            "Power": 2,
+            "GatherType": "SoftBlocks"
+          },
+          {
+            "Power": 2,
+            "GatherType": "Soils"
+          },
+          {
+            "Power": 2,
+            "GatherType": "Woods"
+          },
+          {
+            "Power": 2,
+            "GatherType": "Rocks"
+          },
+          {
+            "Power": 2,
+            "GatherType": "Benches"
+          }
+        ]
+      },
+      "SoundEventId": "Sound_Explosion_Dynamite",
+      "Particles": [
+        {
+          "Scale": 1.5,
+          "ParticleColor": "#ffffff",
+          "SystemId": "ParticleSystem_Explosion_Dynamite",
+          "PositionOffset": {
+            "Y": -0.3
+          }
+        }
+      ],
+      "BlockDropChance": 0.1,
+      "BlockDamageFalloff": 5
+    },
+    "State": {
+      "Definitions": {
+        "Exploding": {
+          "InteractionHint": "",
+          "AmbientSoundEventId": "SFX_Bomb_Fuse",
+          "Particles": [
+            {
+              "SystemId": "Fuse_Bomb",
+              "PositionOffset": {
+                "Y": 0.425,
+                "X": 0.32,
+                "Z": 0.08
+              }
+            }
+          ],
+          "Light": {
+            "Color": "#642"
+          },
+          "BlockEntity": {
+            "Components": {
+              "BlockExplosive": {
+                "PrimedOnPlace": true,
+                "FuseDuration": 4
+              }
+            }
+          },
+          "SoundOcclusionOpacity": 0
+        }
+      }
+    },
+    "BlockSoundSetId": "Wood",
+    "TransitionToGroups": [
+      "Stone",
+      "Sand",
+      "Wood",
+      "Mud",
+      "Dirt"
+    ],
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Interactive/Explosive_Dynamite_Barrel.png",
+        "Weight": 1
+      }
+    ],
+    "CustomModel": "Blocks/Interactive/Explosive_Dynamite_Barrel.blockymodel",
+    "Material": "Solid",
+    "RandomRotation": "YawStep1",
+    "InteractionHint": "server.interactionHints.activate",
+    "PhysicalMaterialId": "Wood",
+    "BlockParticleSetId": "Wood",
+    "ParticleColor": "#552b15",
+    "Opacity": "Semitransparent",
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Woods"
+      }
+    },
+    "SupportDropType": "Fall",
+    "Support": {
+      "Down": [
+        {
+          "FaceType": "Full"
+        }
+      ]
+    },
+    "FallingBlockSettings": {
+      "Impact": {
+        "Type": "Place"
+      },
+      "HitboxCollisionConfig": "HardCollision"
+    },
+    "SoundOcclusionOpacity": 0,
+    "DrawType": "Model"
+  },
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      23,
+      24,
+      10
+    ],
+    "Translation": [
+      0,
+      -18.5
+    ]
+  },
+  "Icon": "Icons/ItemsGenerated/Explosive_Dynamite_Barrel.png",
+  "Scale": 1,
+  "ItemLevel": 10,
+  "SubCategory": "Explosives",
+  "Categories": [
+    "HR_CoreCreator.Interactive"
+  ]
+}

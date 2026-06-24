@@ -1,0 +1,34 @@
+{
+  "Icon": "Icons/ItemsGenerated/Block_Stripes_Marking_Arrow.png",
+  "BlockType": {
+    "Textures": [
+      {
+        "All": "BlockTextures/Stripes_Marking_Arrow_Up.png",
+        "UpDown": "BlockTextures/Stripes_Black.png"
+      }
+    ],
+    "Parent": "Block_Stripes_Hazard_Diagonal",
+    "Material": "Solid",
+    "Opacity": "Solid",
+    "CubeShadingMode": "Standard",
+    "DrawType": "Cube",
+    "ParticleColor": "#575757",
+    "VariantRotation": "DoublePipe"
+  },
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "server.Block_Stripes_Alert_Arrow.name"
+  },
+  "Parent": "Block_Stripes_Hazard_Diagonal"
+}

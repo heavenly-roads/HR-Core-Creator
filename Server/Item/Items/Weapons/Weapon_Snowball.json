@@ -1,0 +1,75 @@
+{
+  "TranslationProperties": {
+    "Name": "server.Snowball.name"
+  },
+  "Categories": [
+    "HR_CoreCreator.Items"
+  ],
+  "BlockType": {
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "CustomModel": "Items/Weapons/Weapon_Snowball.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Weight": 1,
+        "Texture": "Items/Weapons/Weapon_Snowball.png"
+      }
+    ],
+    "Flags": {},
+    "Gathering": {
+      "Harvest": {},
+      "Soft": {}
+    },
+    "BlockParticleSetId": "Snow",
+    "ParticleColor": "#effaff",
+    "Material": "Empty",
+    "HitboxType": "Plant_Medium",
+    "BlockSoundSetId": "Snow",
+    "CustomModelScale": 0.8,
+    "CubeShadingMode": "Standard",
+    "RandomRotation": "YawStep1"
+  },
+  "PlayerAnimationsId": "Item",
+  "IconProperties": {
+    "Scale": 1,
+    "Rotation": [
+      27,
+      54,
+      14
+    ],
+    "Translation": [
+      -1.5,
+      -5
+    ]
+  },
+  "Icon": "Icons/ItemsGenerated/Weapon_Snowball.png",
+  "Interactions": {
+    "Primary": "Item_Throw",
+    "Secondary": {
+      "Parent": "Block_Secondary"
+    }
+  },
+  "InteractionVars": {
+    "Item_Throw_Projectile": {
+      "Interactions": [
+        {
+          "Parent": "Item_Throw_Projectile",
+          "ProjectileId": "Snowball",
+          "Effects": {
+            "CameraEffect": "Unarmed_Swing_Horizontal"
+          }
+        }
+      ]
+    }
+  },
+  "Tags": {
+    "Type": [
+      "Weapon"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Default",
+  "MaxStack": 100,
+  "Quality": "Common",
+  "Scale": 1.25,
+  "SubCategory": "Weapons"
+}

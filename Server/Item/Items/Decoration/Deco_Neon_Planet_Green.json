@@ -1,0 +1,29 @@
+{
+  "BlockType": {
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Elements/Neon_Planet_Green.png"
+      }
+    ],
+    "Light": {
+      "Color": "#4b8"
+    },
+    "ParticleColor": "#5cff8b",
+    "Parent": "Deco_Neon_Planet_Blue"
+  },
+  "PlayerAnimationsId": "Block",
+  "Icon": "Icons/ItemsGenerated/Deco_Neon_Planet_Green.png",
+  "IconProperties": {
+    "Scale": 1,
+    "Rotation": [
+      0,
+      0,
+      0
+    ],
+    "Translation": [
+      0,
+      -16
+    ]
+  },
+  "Parent": "Deco_Neon_Planet_Blue"
+}

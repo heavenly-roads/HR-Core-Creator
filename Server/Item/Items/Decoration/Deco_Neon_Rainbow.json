@@ -1,0 +1,51 @@
+{
+  "BlockType": {
+    "DrawType": "Model",
+    "CubeShadingMode": "Fullbright",
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Elements/Neon_Rainbow.png"
+      }
+    ],
+    "VariantRotation": "NESW",
+    "IgnoreSupportWhenPlaced": false,
+    "HitboxType": "Think_Wall_OneByTwo",
+    "BlockParticleSetId": "Crystal",
+    "ParticleColor": "#ffbd8d",
+    "BlockSoundSetId": "Crystal",
+    "Light": {
+      "Color": "#c96"
+    },
+    "Support": {
+      "North": [
+        {
+          "FaceType": "Full"
+        }
+      ]
+    },
+    "CustomModel": "Blocks/Deco_Neon1x2.blockymodel",
+    "Material": "Empty",
+    "Opacity": "Transparent"
+  },
+  "PlayerAnimationsId": "Block",
+  "Icon": "Icons/ItemsGenerated/Deco_Neon_Rainbow.png",
+  "IconProperties": {
+    "Scale": 0.6,
+    "Rotation": [
+      0,
+      0,
+      0
+    ],
+    "Translation": [
+      -16.3,
+      -16
+    ]
+  },
+  "Categories": [
+    "HR_CoreCreator.Decoration"
+  ],
+  "TranslationProperties": {
+    "Name": "server.Deco_Neon_Rainbow.name"
+  },
+  "SubCategory": "Neon"
+}

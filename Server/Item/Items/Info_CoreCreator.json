@@ -1,0 +1,11 @@
+{
+  "Icon": "Icons/Items/HR_Info.png",
+  "MaxStack": 1,
+  "Categories": [
+    "HR_CoreCreator.Info"
+  ],
+  "TranslationProperties": {
+    "Name": "server.Info_Main.name",
+    "Description": "server.Info_Main.description"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "IconProperties": {
+    "Scale": 0.36,
+    "Rotation": [
+      0,
+      0,
+      0
+    ],
+    "Translation": [
+      0,
+      -32
+    ]
+  },
+  "Parent": "Canvas_Painting_Classic2x3_Generic01",
+  "BlockType": {
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Canvas/Painting2x3_Classic_Generic06.png"
+      }
+    ],
+    "Parent": "Canvas_Painting_Classic2x3_Generic01"
+  },
+  "TranslationProperties": {
+    "Name": "server.Canvas_Painting_2x3_Generic_Classic.name",
+    "Description": "credits.Canvas_Carr"
+  },
+  "Icon": "Icons/ItemsGenerated/Canvas_Painting_Classic2x3_Generic06.png"
+}

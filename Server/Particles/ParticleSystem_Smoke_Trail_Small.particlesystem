@@ -1,0 +1,12 @@
+{
+  "Spawners": [
+    {
+      "SpawnerId": "ParticlesSpawner_Smoke_Trail_Small",
+      "PositionOffset": {
+        "Y": -2
+      }
+    }
+  ],
+  "IsImportant": true,
+  "CullDistance": 256
+}

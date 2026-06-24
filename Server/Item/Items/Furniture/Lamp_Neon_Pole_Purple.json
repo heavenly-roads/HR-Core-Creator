@@ -1,0 +1,24 @@
+{
+  "Icon": "Icons/ItemsGenerated/Lamp_Neon_Pole_Purple.png",
+  "BlockType": {
+    "Parent": "Lamp_Neon_Beam_Purple",
+    "CustomModel": "Blocks/Lamp_Neon_Pole_Purple.blockymodel",
+    "HitboxType": "Neon_Pole"
+  },
+  "IconProperties": {
+    "Scale": 0.7,
+    "Rotation": [
+      22.5,
+      45,
+      21
+    ],
+    "Translation": [
+      -0.2,
+      -14
+    ]
+  },
+  "Parent": "Lamp_Neon_Beam_Purple",
+  "TranslationProperties": {
+    "Name": "server.Lamp_Neon_Pole_Purple.name"
+  }
+}

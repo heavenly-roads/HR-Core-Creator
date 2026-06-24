@@ -1,0 +1,15 @@
+{
+  "Layers": [
+    {
+      "Files": [
+        "Sounds/Die_Hit_01.ogg",
+        "Sounds/Die_Hit_02.ogg",
+        "Sounds/Die_Hit_03.ogg"
+      ],
+      "RandomSettings": {
+        "MinPitch": -2,
+        "MaxPitch": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "Categories": [
+    "HR_CoreCreator.Items"
+  ],
+  "Interactions": {
+    "Primary": "Item_Throw"
+  },
+  "InteractionVars": {
+    "Item_Throw_Projectile": {
+      "Interactions": [
+        {
+          "Parent": "Item_Throw_Projectile",
+          "ProjectileId": "Bomb_Basic"
+        }
+      ]
+    }
+  },
+  "IconProperties": {
+    "Scale": 0.75,
+    "Rotation": [
+      12.5,
+      12.5,
+      315
+    ],
+    "Translation": [
+      -7,
+      -9
+    ]
+  },
+  "Model": "NPC/Intelligent/Goblin/Models/Weapons/Bomb/Fire.blockymodel",
+  "Icon": "Icons/ItemsGenerated/Weapon_Bomb_Basic.png",
+  "Texture": "NPC/Intelligent/Goblin/Models/Weapons/Bomb/Fire_Texture.png",
+  "Tags": {
+    "Type": [
+      "Weapon"
+    ],
+    "Family": [
+      "Bomb"
+    ]
+  },
+  "Weapon": {},
+  "Light": {
+    "Radius": 1,
+    "Color": "#141"
+  },
+  "Particles": [
+    {
+      "SystemId": "Fuse_Bomb",
+      "TargetNodeName": "Fuse_Lit",
+      "TargetEntityPart": "PrimaryItem"
+    }
+  ],
+  "MaxStack": 100,
+  "TranslationProperties": {
+    "Name": "server.Bomb.name"
+  },
+  "PlayerAnimationsId": "Item",
+  "Quality": "HR_Experimental",
+  "SubCategory": "Weapons"
+}

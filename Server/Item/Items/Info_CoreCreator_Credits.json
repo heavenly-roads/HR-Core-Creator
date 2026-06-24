@@ -1,0 +1,9 @@
+{
+  "Icon": "Icons/Items/HR_Info.png",
+  "TranslationProperties": {
+    "Name": "server.Info_Credits.name",
+    "Description": "server.Info_Credits.description"
+  },
+  "Parent": "Info_CoreCreator",
+  "Quality": "Developer"
+}

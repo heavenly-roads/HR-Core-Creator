@@ -1,0 +1,131 @@
+{
+  "RenderMode": "Erosion",
+  "ParticleRotationInfluence": "None",
+  "LinearFiltering": true,
+  "ParticleLifeSpan": {
+    "Min": 0.6,
+    "Max": 1
+  },
+  "ParticleRotateWithSpawner": false,
+  "TrailSpawnerPositionMultiplier": 1,
+  "TrailSpawnerRotationMultiplier": 1,
+  "SpawnRate": {
+    "Min": 20,
+    "Max": 20
+  },
+  "TotalParticles": {
+    "Min": 12,
+    "Max": 12
+  },
+  "Attractors": [
+    {
+      "DampingMultiplier": {
+        "X": 1,
+        "Y": 1,
+        "Z": 1
+      },
+      "RadialImpulse": 5,
+      "Radius": 5,
+      "RadialAcceleration": -6,
+      "RadialAxis": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      }
+    }
+  ],
+  "Particle": {
+    "Texture": "Particles/Textures/Circles/Ring_Trail.png",
+    "FrameSize": {},
+    "ScaleRatioConstraint": "OneToOne",
+    "Animation": {
+      "0": {
+        "Rotation": {
+          "X": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Y": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Z": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        "Scale": {
+          "X": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        "Opacity": 1.0,
+        "FrameIndex": {},
+        "Color": "#ffffff"
+      },
+      "20": {
+        "Opacity": 1
+      },
+      "100": {
+        "Color": "#969696",
+        "Opacity": 0,
+        "Scale": {
+          "X": {
+            "Min": 1,
+            "Max": 1
+          }
+        },
+        "FrameIndex": {}
+      }
+    },
+    "InitialAnimationFrame": {
+      "Scale": {
+        "X": {
+          "Min": 6,
+          "Max": 8
+        },
+        "Y": {
+          "Min": 0,
+          "Max": 0
+        }
+      },
+      "Opacity": 1,
+      "FrameIndex": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Rotation": {
+        "Z": {
+          "Max": 180,
+          "Min": -180
+        },
+        "X": {
+          "Min": 90,
+          "Max": 90
+        }
+      }
+    },
+    "CollisionAnimationFrame": {
+      "FrameIndex": {},
+      "Scale": {
+        "X": {
+          "Min": 0,
+          "Max": 0
+        }
+      }
+    },
+    "UVOption": "RandomFlipUV"
+  },
+  "UVMotion": {
+    "Strength": 1.2,
+    "Scale": 1,
+    "SpeedY": 0.72,
+    "SpeedX": 0.19
+  },
+  "SpawnBurst": true,
+  "IntersectionHighlight": {
+    "HighlightThreshold": 0
+  },
+  "MaxConcurrentParticles": 12
+}

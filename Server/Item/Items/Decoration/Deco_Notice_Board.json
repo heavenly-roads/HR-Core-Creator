@@ -1,0 +1,48 @@
+{
+  "TranslationProperties": {
+    "Name": "Notice Board"
+  },
+  "PlayerAnimationsId": "Block",
+  "Icon": "Icons/ItemsGenerated/Deco_Notice_Board.png",
+  "IconProperties": {
+    "Scale": 0.25,
+    "Rotation": [
+      12,
+      49,
+      12
+    ],
+    "Translation": [
+      -5,
+      -51
+    ]
+  },
+  "BlockType": {
+    "BlockParticleSetId": "Wood",
+    "BlockSoundSetId": "Wood",
+    "DrawType": "Model",
+    "Material": "Solid",
+    "ParticleColor": "#63412c",
+    "Support": {
+      "Down": [
+        {
+          "FaceType": "Full"
+        }
+      ]
+    },
+    "VariantRotation": "NESW",
+    "Opacity": "Solid",
+    "HitboxType": "Notice_Board",
+    "CustomModel": "Blocks/Deco_Notice_Board.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Elements/Notice_Board.png"
+      }
+    ]
+  },
+  "Scale": 1,
+  "ItemSoundSetId": "ISS_Blocks_Wood",
+  "UsePlayerAnimations": false,
+  "Categories": [
+    "HR_CoreCreator.Decoration"
+  ]
+}

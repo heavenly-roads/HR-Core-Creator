@@ -1,0 +1,267 @@
+Block_Grid_Default.name = Grid Block
+Block_Grid_Limit.name = Limit Grid Block
+Block_Grid_Structure.name = Structural Grid Block
+Block_Solid_Black.name = Solid Black Block
+Block_Solid_White.name = Solid White Block
+
+Block_Stripes_Alert_Diagonal.name = Diagonal Alert Stripes Block
+Block_Stripes_Alert_Arrow.name = Arrow Alert Stripes Block
+Block_Stripes_Hazard_Diagonal.name = Diagonal Hazard Stripes Block
+Block_Stripes_Hazard_Arrow.name = Arrow Hazard Stripes Block
+Block_Stripes_Marking_Diagonal.name = Diagonal Marking Stripes Block
+Block_Stripes_Marking_Arrow.name = Arrow Marking Stripes Block
+Block_Stripes_Restricted_Diagonal.name = Diagonal Restricted Stripes Block
+Block_Stripes_Restricted_Arrow.name = Arrow Restricted Stripes Block
+Block_Stripes_Safe_Diagonal.name = Diagonal Safe Stripes Block
+Block_Stripes_Safe_Arrow.name = Arrow Safe Stripes Block
+Block_Stripes_Warning_Diagonal.name = Diagonal Warning Stripes Block
+Block_Stripes_Warning_Arrow.name = Arrow Warning Stripes Block
+
+Rock_Labyrinth.name = Labyrinth Block
+Rock_Labyrinth_Reinforced.name = Labyrinth Block - Reinforced
+Rock_Labyrinth_Trim.name = Labyrinth Block - Trim
+Rock_Labyrinth_Trim_Ornate.name = Labyrinth Block - Ornate Trim
+
+Window_Glass_Stained_Colorful.name = Colorful Stained Glass Window
+Window_Glass_Stained_Colorful_Arc.name = Colorful Arched Stained Glass Window
+Window_Glass_Stained_Blue.name = Blue Stained Glass Window
+Window_Glass_Stained_Blue_Arc.name = Blue Arched Stained Glass Window
+Window_Glass_Stained_Cyan.name = Cyan Stained Glass Window
+Window_Glass_Stained_Cyan_Arc.name = Cyan Arched Stained Glass Window
+Window_Glass_Stained_Green.name = Green Stained Glass Window
+Window_Glass_Stained_Green_Arc.name = Green Arched Stained Glass Window
+Window_Glass_Stained_Orange.name = Orange Stained Glass Window
+Window_Glass_Stained_Orange_Arc.name = Orange Arched Stained Glass Window
+Window_Glass_Stained_Pink.name = Pink Stained Glass Window
+Window_Glass_Stained_Pink_Arc.name = Pink Arched Stained Glass Window
+Window_Glass_Stained_Purple.name = Purple Stained Glass Window
+Window_Glass_Stained_Purple_Arc.name = Purple Arched Stained Glass Window
+Window_Glass_Stained_Red.name = Red Stained Glass Window
+Window_Glass_Stained_Red_Arc.name = Red Arched Stained Glass Window
+Window_Glass_Stained_Yellow.name = Yellow Stained Glass Window
+Window_Glass_Stained_Yellow_Arc.name = Yellow Arched Stained Glass Window
+Window_Iron_Grill.name = Iron Grill Window
+Window_Iron_Grill_Arc.name = Iron Arched Grill Window
+Window_Iron_Grill_Ornate.name = Ornate Iron Arched Grill Window
+Window_Iron_Grill_Ornate_Arc.name = Ornate Iron Arched Grill Window
+Window_Wood_Lattice.name = Wooden Lattice Window
+Window_Wood_Lattice_Arc.name = Wooden Arched Lattice Window
+Window_Wood_Lattice_Rounded.name = Wooden Round Lattice Window
+Window_Wood_Lattice_Triangle.name = Wooden Triangular Lattice Window
+Window_Wood_Lattice_Ornate.name = Ornate Wooden Lattice Window
+Window_Wood_Lattice_Ornate_Arc.name = Ornate Wooden Arched Lattice Window
+Window_Wood_Lattice_Ornate_Rounded.name = Ornate Wooden Round Lattice Window
+Window_Wood_Lattice_Ornate_Triangle.name = Ornate Wooden Triangular Lattice Window
+
+Lamp_Neon_Beam_White.name = White Neon Lamp Beam
+Lamp_Neon_Beam_Red.name = Red Neon Lamp Beam
+Lamp_Neon_Beam_Orange.name = Orange Neon Lamp Beam
+Lamp_Neon_Beam_Yellow.name = Yellow Neon Lamp Beam
+Lamp_Neon_Beam_Green.name = Green Neon Lamp Beam
+Lamp_Neon_Beam_Blue.name = Blue Neon Lamp Beam
+Lamp_Neon_Beam_Purple.name = Purple Neon Lamp Beam
+Lamp_Neon_Beam_Pink.name = Pink Neon Lamp Beam
+Lamp_Neon_Beam_White_Double.name = White Neon Lamp Beam - Double
+Lamp_Neon_Beam_Red_Double.name = Red Neon Lamp Beam - Double
+Lamp_Neon_Beam_Orange_Double.name = Orange Neon Lamp Beam - Double
+Lamp_Neon_Beam_Yellow_Double.name = Yellow Neon Lamp Beam - Double
+Lamp_Neon_Beam_Green_Double.name = Green Neon Lamp Beam - Double
+Lamp_Neon_Beam_Blue_Double.name = Blue Neon Lamp Beam - Double
+Lamp_Neon_Beam_Purple_Double.name = Purple Neon Lamp Beam - Double
+Lamp_Neon_Beam_Pink_Double.name = Pink Neon Lamp Beam - Double
+Lamp_Neon_Bulb_White.name = White Neon Lamp Bulb
+Lamp_Neon_Bulb_Red.name = Red Neon Lamp Bulb
+Lamp_Neon_Bulb_Orange.name = Orange Neon Lamp Bulb
+Lamp_Neon_Bulb_Yellow.name = Yellow Neon Lamp Bulb
+Lamp_Neon_Bulb_Green.name = Green Neon Lamp Bulb
+Lamp_Neon_Bulb_Blue.name = Blue Neon Lamp Bulb
+Lamp_Neon_Bulb_Purple.name = Purple Neon Lamp Bulb
+Lamp_Neon_Bulb_Pink.name = Pink Neon Lamp Bulb
+Lamp_Neon_Pole_White.name = White Neon Lamp Pole
+Lamp_Neon_Pole_Red.name = Red Neon Lamp Pole
+Lamp_Neon_Pole_Orange.name = Orange Neon Lamp Pole
+Lamp_Neon_Pole_Yellow.name = Yellow Neon Lamp Pole
+Lamp_Neon_Pole_Green.name = Green Neon Lamp Pole
+Lamp_Neon_Pole_Blue.name = Blue Neon Lamp Pole
+Lamp_Neon_Pole_Purple.name = Purple Neon Lamp Pole
+Lamp_Neon_Pole_Pink.name = Pink Neon Lamp Pole
+
+Anvil.name = Anvil
+Bottles.name = Bottles
+Bottles_Tavern.name = Tavern Bottles
+Construction_Sign_Middle.name = Construction Sign - Middle
+Hanging_Banners_Generic.name = Generic Hanging Banners
+Hanging_Banners_Halloween.name = Halloween Hanging Banners
+Hanging_Banners_Party.name = Party Hanging Banners
+Notice_Board.name = Notice Board
+Notice_Board_Small.name = Notice Board - Small
+Notice_Board_Wall.name = Notice Board - Wall
+Paint_Bucket.name = Paint Bucket
+Poster_Wall.name = Poster Wall
+Poster_Wall_Capital.name = Poster Wall - Capital
+Poster_Wall_Arcade.name = Poster Wall - Arcade
+Toolbox.name = Toolbox
+
+Deco_Backpack_Big.name = Big Backpack
+Deco_Backpack_Medium.name = Medium Backpack
+Deco_Chinese_Paper_Lantern_Thin.name = Thin Chinese Paper Lantern
+Deco_Chinese_Paper_Lantern_Round.name = Round Chinese Paper Lantern
+Deco_Construction_Cone.name = Construction Cone
+Deco_Neon_Planet.name = Neon Planet
+Deco_Neon_Rainbow.name = Neon Rainbow
+Deco_Neon_Hearts.name = Neon Hearts
+Deco_Neon_Trophy.name = Neon Trophy
+Deco_Neon_Rocket.name = Neon Rocket
+Deco_Neon_Alien.name = Neon Alien
+Deco_Neon_Paw.name = Neon Paw
+Deco_Package_Small.name = Small Package
+Deco_Package_Medium.name = Medium Package
+Deco_Package_Large.name = Large Package
+Deco_Paper_Lantern_White.name = White Paper Lantern
+Deco_Paper_Lantern_Red.name = Red Paper Lantern
+Deco_Paper_Lantern_Orange.name = Orange Paper Lantern
+Deco_Paper_Lantern_Yellow.name = Yellow Paper Lantern
+Deco_Paper_Lantern_Green.name = Green Paper Lantern
+Deco_Paper_Lantern_Blue.name = Blue Paper Lantern
+Deco_Paper_Lantern_Purple.name = Purple Paper Lantern
+Deco_Paper_Lantern_Pink.name = Pink Paper Lantern
+
+Cloth_Block_Pattern_Checked.name = Checked Cloth
+Cloth_Block_Pattern_Striped.name = Striped Cloth
+
+Furniture_Carpet_Basic_Black.name = Black Basic Carpet
+Furniture_Carpet_Basic_White.name = White Basic Carpet
+Furniture_Carpet_Basic_Grey.name = Grey Basic Carpet
+Furniture_Carpet_Basic_Brown.name = Brown Basic Carpet
+Furniture_Carpet_Basic_Red.name = Red Basic Carpet
+Furniture_Carpet_Basic_Orange.name = Orange Basic Carpet
+Furniture_Carpet_Basic_Yellow.name = Yellow Basic Carpet
+Furniture_Carpet_Basic_Lime.name = Lime Basic Carpet
+Furniture_Carpet_Basic_Green.name = Green Basic Carpet
+Furniture_Carpet_Basic_Cyan.name = Cyan Basic Carpet
+Furniture_Carpet_Basic_Blue.name = Blue Basic Carpet
+Furniture_Carpet_Basic_Purple.name = Purple Basic Carpet
+Furniture_Carpet_Basic_Pink.name = Pink Basic Carpet
+Furniture_Carpet_Basic_Cream.name = Cream Basic Carpet
+Furniture_Carpet_Basic_Salmon.name = Salmon Basic Carpet
+Furniture_Carpet_Basic_Teal.name = Teal Basic Carpet
+Furniture_Carpet_Basic_Lavender.name = Lavender Basic Carpet
+Furniture_Carpet_Basic_Gold.name = Gold Basic Carpet
+
+Furniture_Carpet_Octagonal_Ice.name = Ice Carpet
+Furniture_Carpet_Octagonal_Magic.name = Magic Carpet
+Furniture_Carpet_Octagonal_Royale.name = Royale Carpet
+
+Sign_Arcade.name = Arcade Sign
+Sign_Bar.name = Bar Sign
+Sign_Generic.name = Generic Sign
+Sign_Monster_Store.name = Monster Store
+Sign_Store.name = Store Sign
+
+Currency_Pile_Coin_Small.name = Small Pile of Coins
+Currency_Pile_Coin_Medium.name = Medium Pile of Coins
+Currency_Pile_Coin_Large.name = Large Pile of Coins
+
+Food_Cake_Birthday_Classic_Cream.name = Classic Birthday Cake - Cream
+Food_Cake_Birthday_Classic_Mocha.name = Classic Birthday Cake - Mocha
+Food_Cake_Birthday_Classic_Strawberry.name = Classic Birthday Cake - Strawberry
+Food_Cake_Birthday.description = Sweet cake for everyone, whether they celebrate their birthday or not.
+Food_Cake_Birthday_Double_Cream.name = Double Birthday Cake - Cream
+Food_Cake_Birthday_Double_Mocha.name = Double Birthday Cake - Mocha
+Food_Cake_Birthday_Double_Strawberry.name = Double Birthday Cake - Strawberry
+Food_Cake_Birthday_Double.description = A sugar fest. Eating all this cake at once can't be healthy.
+Food_Ice_Cream_Classic_Cream.name = Classic Ice Cream - Cream
+Food_Ice_Cream_Classic_Blue_Moon.name = Classic Ice Cream - Blue Moon
+Food_Ice_Cream_Classic_Triple_Flavor.name = Classic Ice Cream - Triple Flavor
+Food_Ice_Cream.description = The perfect snack for hot days.
+
+Snowball.name = Snowball
+Bomb.name = Bomb
+
+Explosive_Dynamite.name = Dynamite
+Explosive_Dynamite_Barrel.name = Dynamite Barrel
+Explosive_Nuke.name = Nuke
+Explosive_Warning.description = <color is="#ff3838">Destroys surrounding blocks.</color>
+
+Bounce_Pad_Small.name = Bounce Pad - Small
+Bounce_Pad_Medium.name = Bounce Pad - Medium
+Bounce_Pad_Large.name = Bounce Pad - Large
+Interactive_Die.name = Die
+Interactive_Die.description = ...
+
+Emitter_Fireworks_Mix1.name = Fireworks - Mix 1
+Emitter_Fireworks_Mix2.name = Fireworks - Mix 2
+Emitter_Fireworks_Mix3.name = Fireworks - Mix 3
+Emitter_Fireworks_Infinite.name = Fireworks - Infinite
+Emitter_Water_Fountain_Small.name = Water Fountain - Small
+Emitter_Water_Fountain_Medium.name = Water Fountain
+Emitter_Water_Fountain_Large.name = Water Fountain - Large
+Emitter_Smoke_Trail.name = Smoke Trail
+Emitter_Smoke_Trail_Small.name = Smoke Trail - Small
+
+Use_Hammer_Color.description = Use a <color is="#ffffff">Hammer</color> to change the color.
+Use_Hammer_Appearance.description = Use a <color is="#ffffff">Hammer</color> to change the appearance.
+Use_Hammer_Appearance_Creative.description = Use a <color is="#ffffff">Hammer</color> to change the appearance\nor toggle <color is="#ffffff">Show Variants</color> on Creative Menu.
+Use_Entity_Tool.description = Use a <color is="#ffffff">Entity Tool</color> to place this.
+
+Canvas_Painting_1x1_Generic.name = Canvas Painting 1x1
+Canvas_Painting_1x2_Generic.name = Canvas Painting 1x2
+Canvas_Painting_2x1_Generic.name = Canvas Painting 2x1
+Canvas_Painting_2x2_Generic.name = Canvas Painting 2x2
+Canvas_Painting_2x2_Generic_Classic.name = Classic Painting (2x2)
+Canvas_Painting_2x3.name = Canvas Painting 2x3
+Canvas_Painting_2x3_Generic_Classic.name = Classic Painting (2x3)
+Canvas_Painting_3x2.name = Canvas Painting 3x2
+Canvas_Painting_3x2_Generic_Classic.name = Classic Painting (3x2)
+
+Decal_Arrow_Black_Down.name = Black Down Arrow
+Decal_Arrow_Black_Left.name = Black Left Arrow
+Decal_Arrow_Black_Right.name = Black Right Arrow
+Decal_Arrow_Black_Up.name = Black Up Arrow
+Decal_Arrow_White_Down.name = White Down Arrow
+Decal_Arrow_White_Left.name = White Left Arrow
+Decal_Arrow_White_Right.name = White Right Arrow
+Decal_Arrow_White_Up.name = White Up Arrow
+Decal_Arrow_Grey_Down.name = Grey Down Arrow
+Decal_Arrow_Grey_Left.name = Grey Left Arrow
+Decal_Arrow_Grey_Right.name = Grey Right Arrow
+Decal_Arrow_Grey_Up.name = Grey Up Arrow
+Decal_Arrow_Red_Down.name = Red Down Arrow
+Decal_Arrow_Red_Left.name = Red Left Arrow
+Decal_Arrow_Red_Right.name = Red Right Arrow
+Decal_Arrow_Red_Up.name = Red Up Arrow
+Decal_Arrow_Orange_Down.name = Orange Down Arrow
+Decal_Arrow_Orange_Left.name = Orange Left Arrow
+Decal_Arrow_Orange_Right.name = Orange Right Arrow
+Decal_Arrow_Orange_Up.name = Orange Up Arrow
+Decal_Arrow_Yellow_Down.name = Yellow Down Arrow
+Decal_Arrow_Yellow_Left.name = Yellow Left Arrow
+Decal_Arrow_Yellow_Right.name = Yellow Right Arrow
+Decal_Arrow_Yellow_Up.name = Yellow Up Arrow
+Decal_Arrow_Green_Down.name = Green Down Arrow
+Decal_Arrow_Green_Left.name = Green Left Arrow
+Decal_Arrow_Green_Right.name = Green Right Arrow
+Decal_Arrow_Green_Up.name = Green Up Arrow
+Decal_Arrow_Cyan_Down.name = Cyan Down Arrow
+Decal_Arrow_Cyan_Left.name = Cyan Left Arrow
+Decal_Arrow_Cyan_Right.name = Cyan Right Arrow
+Decal_Arrow_Cyan_Up.name = Cyan Up Arrow
+Decal_Arrow_Blue_Down.name = Blue Down Arrow
+Decal_Arrow_Blue_Left.name = Blue Left Arrow
+Decal_Arrow_Blue_Right.name = Blue Right Arrow
+Decal_Arrow_Blue_Up.name = Blue Up Arrow
+Decal_Arrow_Purple_Down.name = Purple Down Arrow
+Decal_Arrow_Purple_Left.name = Purple Left Arrow
+Decal_Arrow_Purple_Right.name = Purple Right Arrow
+Decal_Arrow_Purple_Up.name = Purple Up Arrow
+Decal_Arrow_Pink_Down.name = Pink Down Arrow
+Decal_Arrow_Pink_Left.name = Pink Left Arrow
+Decal_Arrow_Pink_Right.name = Pink Right Arrow
+Decal_Arrow_Pink_Up.name = Pink Up Arrow
+
+Info_Main.name = About
+Info_Main.description = <color is="#ffffff">This mod adds blocks, lighting, decoration, interactive elements, effects and extras for worlds, minigames and servers.</color>\n\n<i>Crafted with love by creators for creators.</i>\n~ <b>heavenly-roads</b>
+Info_Experimental.name = Experimental
+Info_Experimental.description = <color is="#ff9838">Items of this quality are unstable, may not work properly and are subject to change or being removed. <u>Do not use them on public servers or finished projects</u>.
+Info_Credits.name = Credits
+Info_Credits.description = Created by\n<color is="#cecece"><b>heavenly-roads</b></color>\n\nOriginal paintings by\n<color is="#cecece"><b>name</b></color> | <color is="#cecece"><b>name</b></color>

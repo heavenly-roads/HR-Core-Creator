@@ -1,0 +1,13 @@
+{
+  "ItemTooltipTexture": "UI/ItemQualities/Tooltips/ItemTooltipExperimental.png",
+  "ItemTooltipArrowTexture": "UI/ItemQualities/Tooltips/ItemTooltipExperimentalArrow.png",
+  "QualityValue": 10,
+  "SlotTexture": "UI/ItemQualities/Slots/SlotExperimental.png",
+  "RenderSpecialSlot": true,
+  "VisibleQualityLabel": true,
+  "BlockSlotTexture": "UI/ItemQualities/Slots/SlotExperimental.png",
+  "SpecialSlotTexture": "UI/ItemQualities/Slots/SlotExperimental.png",
+  "LocalizationKey": "categories.itemcategory.experimental",
+  "TextColor": "#ffb572",
+  "HideFromSearch": false
+}

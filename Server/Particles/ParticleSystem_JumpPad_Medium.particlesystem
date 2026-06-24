@@ -1,0 +1,11 @@
+{
+  "Spawners": [
+    {
+      "SpawnerId": "ParticleSpawner_JumpPad_Medium"
+    },
+    {
+      "SpawnerId": "ParticleSpawner_JumpPad_Arrow"
+    }
+  ],
+  "CullDistance": 50
+}

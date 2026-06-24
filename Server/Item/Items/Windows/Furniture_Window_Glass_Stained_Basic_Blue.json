@@ -1,0 +1,27 @@
+{
+  "Icon": "Icons/ItemsGenerated/Furniture_Window_Glass_Stained_Basic_Blue.png",
+  "BlockType": {
+    "Parent": "Furniture_Window_Glass_Stained_Basic_Colorful",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Structures/Windows/Window_Glass_Stained_Blue.png"
+      }
+    ]
+  },
+  "IconProperties": {
+    "Scale": 0.6,
+    "Rotation": [
+      23.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -14
+    ]
+  },
+  "Parent": "Furniture_Window_Glass_Stained_Basic_Colorful",
+  "TranslationProperties": {
+    "Name": "server.Window_Glass_Stained_Blue.name"
+  }
+}

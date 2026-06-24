@@ -1,0 +1,29 @@
+{
+  "Icon": "Icons/ItemsGenerated/Deco_Hanging_Banners_Generic01_Short.png",
+  "Categories": [
+    "HR_CoreCreator.Decoration"
+  ],
+  "PlayerAnimationsId": "Item",
+  "ItemSoundSetId": "ISS_Items_Cloth",
+  "IconProperties": {
+    "Scale": 0.25,
+    "Rotation": [
+      0,
+      0,
+      0
+    ],
+    "Translation": [
+      -80,
+      1
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "server.Hanging_Banners_Generic.name",
+    "Description": "server.Use_Entity_Tool.description"
+  },
+  "Model": "Items/Banners/Hanging_Banners_Short.blockymodel",
+  "Texture": "Items/Banners/Hanging_Banners_Generic_01.png",
+  "DroppedItemAnimation": "Items/Animations/Dropped/Dropped_Diagonal_Left.blockyanim",
+  "Scale": 1,
+  "SubCategory": "Banners"
+}

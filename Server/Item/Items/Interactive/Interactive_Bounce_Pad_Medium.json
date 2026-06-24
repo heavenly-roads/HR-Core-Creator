@@ -1,0 +1,90 @@
+{
+  "Categories": [
+    "HR_CoreCreator.Interactive"
+  ],
+  "BlockType": {
+    "DrawType": "Model",
+    "CustomModel": "Blocks/Interactive/Bounce_Pad_2x2.blockymodel",
+    "HitboxType": "Bounce_Pad_Medium",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Interactive/Bounce_Pad_Medium.png"
+      }
+    ],
+    "Opacity": "Transparent",
+    "Material": "Solid",
+    "Particles": [
+      {
+        "SystemId": "ParticleSystem_JumpPad_Medium"
+      }
+    ],
+    "Light": {
+      "Color": "#47a"
+    },
+    "State": {
+      "Definitions": {
+        "default": {},
+        "Active": {
+          "Particles": [
+            {
+              "SystemId": "ParticleSystem_JumpPad_Activated_Medium"
+            }
+          ]
+        }
+      }
+    },
+    "Interactions": {
+      "Collision": {
+        "Interactions": [
+          {
+            "Type": "ChangeState",
+            "Changes": {
+              "Active": "default",
+              "default": "Active"
+            },
+            "RunTime": 0.1,
+            "Next": {
+              "Type": "ChangeState",
+              "Changes": {
+                "Active": "default",
+                "default": "Active"
+              }
+            },
+            "UpdateBlockState": true,
+            "Effects": {
+              "LocalSoundEventId": "Bounce_Pad_Activated"
+            }
+          },
+          {
+            "Type": "ApplyForce",
+            "Direction": {
+              "Y": 1
+            },
+            "Force": 35
+          }
+        ],
+        "Cooldown": {
+          "Cooldown": 0.5
+        }
+      }
+    }
+  },
+  "PlayerAnimationsId": "Block",
+  "Icon": "Icons/ItemsGenerated/Interactive_Bounce_Pad_Medium.png",
+  "IconProperties": {
+    "Scale": 0.22,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -1,
+      -14
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "server.Bounce_Pad_Medium.name"
+  },
+  "Quality": "HR_Interactive"
+}

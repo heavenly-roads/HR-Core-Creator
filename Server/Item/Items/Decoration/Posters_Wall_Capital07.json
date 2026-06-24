@@ -1,0 +1,77 @@
+{
+  "PlayerAnimationsId": "Block",
+  "Icon": "Icons/ItemsGenerated/Posters_Wall_Capital07.png",
+  "IconProperties": {
+    "Scale": 0.7,
+    "Rotation": [
+      0,
+      0,
+      0
+    ],
+    "Translation": [
+      0,
+      -16
+    ]
+  },
+  "Interactions": {
+    "Primary": "Block_Primary",
+    "Secondary": "Block_Secondary"
+  },
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Wood_Darkwood_Planks_Half",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "Ingredient_Bar_Iron",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "Deco_Iron_Chain_Small",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Architects",
+        "Type": "Crafting",
+        "Categories": [
+          "Housing"
+        ]
+      }
+    ],
+    "OutputQuantity": 2
+  },
+  "BlockType": {
+    "BlockParticleSetId": "Dust",
+    "BlockSoundSetId": "Cloth",
+    "CustomModel": "Blocks/Posters/Posters_Wall_07.blockymodel",
+    "Gathering": {
+      "Soft": {
+        "IsWeaponBreakable": false
+      }
+    },
+    "HitboxType": "Sign_Wall",
+    "Material": "Solid",
+    "Opacity": "Transparent",
+    "ParticleColor": "#d8c8e0",
+    "VariantRotation": "NESW",
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Posters/Posters_Capital.png",
+        "Weight": 1
+      }
+    ],
+    "DrawType": "Model"
+  },
+  "ResourceTypes": [
+    {
+      "Id": "Fuel"
+    },
+    {
+      "Id": "Charcoal"
+    }
+  ],
+  "Parent": "Poster_Wall_Capital01"
+}

@@ -1,0 +1,206 @@
+{
+  "Icon": "Icons/ItemCategories/IconCategory_HR_CC.png",
+  "Order": 9,
+  "Children": [
+    {
+      "Id": "Info",
+      "Name": "Info",
+      "Icon": "Icons/ItemCategories/HR_Info.png",
+      "Order": 0,
+      "InfoDisplayMode": "Adjacent"
+    },
+    {
+      "Id": "Blocks",
+      "Name": "categories.itemcategory.blocks",
+      "Icon": "Icons/ItemCategories/Soil.png",
+      "SubCategories": [
+        {
+          "Description": "",
+          "Order": 0,
+          "Id": "",
+          "Name": "categories.itemcategory.blocks"
+        },
+        {
+          "Id": "Carpets",
+          "Name": "categories.subcategory.cloth.name",
+          "Description": "",
+          "Order": 10
+        },
+        {
+          "Id": "Windows",
+          "Name": "categories.subcategory.windows.name",
+          "Description": "",
+          "Order": 20
+        }
+      ]
+    },
+    {
+      "Id": "Lighting",
+      "Name": "categories.itemcategory.lighting",
+      "Icon": "Icons/ItemCategories/Build-Lights.png",
+      "SubCategories": [
+        {
+          "Id": "",
+          "Name": "",
+          "Order": 0,
+          "Description": ""
+        },
+        {
+          "Id": "Neon",
+          "Name": "categories.subcategory.neon.name",
+          "Order": 1,
+          "Description": ""
+        }
+      ]
+    },
+    {
+      "Id": "Decoration",
+      "Name": "categories.itemcategory.decoration",
+      "Icon": "Icons/ItemCategories/HR_Decoration.png",
+      "SubCategories": [
+        {
+          "Name": "",
+          "Description": "",
+          "Id": "",
+          "Order": 0
+        },
+        {
+          "Id": "Posters",
+          "Name": "categories.subcategory.posters.name",
+          "Description": "",
+          "Order": 10
+        },
+        {
+          "Id": "Neon",
+          "Name": "categories.subcategory.neon.name",
+          "Description": "",
+          "Order": 11
+        },
+        {
+          "Name": "categories.subcategory.banners.name",
+          "Id": "Banners",
+          "Description": "",
+          "Order": 40
+        },
+        {
+          "Id": "Carpets",
+          "Name": "categories.subcategory.carpets.name",
+          "Description": "",
+          "Order": 50
+        },
+        {
+          "Id": "Signs",
+          "Name": "categories.subcategory.signs.name",
+          "Description": "",
+          "Order": 70
+        },
+        {
+          "Id": "Paintings",
+          "Name": "categories.subcategory.paintings.name",
+          "Description": "",
+          "Order": 100
+        }
+      ]
+    },
+    {
+      "Id": "Windmills",
+      "Name": "categories.itemcategory.windmills",
+      "Icon": "Icons/ItemCategories/HR_Windmills.png",
+      "SubCategories": [
+        {
+          "Id": "Generic",
+          "Name": "categories.subcategory.generic.name",
+          "Order": 10,
+          "Description": ""
+        },
+        {
+          "Id": "Classic",
+          "Name": "categories.subcategory.classic.name",
+          "Order": 20,
+          "Description": ""
+        },
+        {
+          "Id": "Pinwheels",
+          "Name": "categories.subcategory.pinwheels.name",
+          "Order": 30,
+          "Description": ""
+        }
+      ]
+    },
+    {
+      "Id": "Items",
+      "Name": "categories.itemcategory.items",
+      "Icon": "Icons/ItemCategories/Bench.png",
+      "SubCategories": [
+        {
+          "Id": "",
+          "Name": "",
+          "Description": "",
+          "Order": 0
+        },
+        {
+          "Id": "Weapons",
+          "Name": "categories.subcategory.weapons.name",
+          "Order": 2,
+          "Description": ""
+        },
+        {
+          "Name": "categories.subcategory.food.name",
+          "Id": "Food",
+          "Order": 4,
+          "Description": ""
+        }
+      ]
+    },
+    {
+      "Id": "Interactive",
+      "Name": "categories.itemcategory.interactive",
+      "Icon": "Icons/ItemCategories/HR_Interactive.png",
+      "InfoDisplayMode": "Adjacent",
+      "SubCategories": [
+        {
+          "Id": "",
+          "Name": "",
+          "Description": "",
+          "Order": 0
+        },
+        {
+          "Id": "Explosives",
+          "Name": "categories.subcategory.explosives.name",
+          "Order": 1,
+          "Description": ""
+        },
+        {
+          "Id": "Loot",
+          "Name": "categories.subcategory.loot.name",
+          "Order": 2,
+          "Description": ""
+        },
+        {
+          "Id": "Portals",
+          "Name": "categories.subcategory.portals.name",
+          "Order": 3,
+          "Description": ""
+        },
+        {
+          "Id": "Utilities",
+          "Name": "categories.subcategory.utilities.name",
+          "Order": 4,
+          "Description": ""
+        }
+      ]
+    },
+    {
+      "Id": "Decals",
+      "Name": "categories.itemcategory.decals",
+      "Icon": "Icons/ItemCategories/HR_Decal.png"
+    },
+    {
+      "Id": "Effects",
+      "Name": "categories.itemcategory.effects",
+      "Icon": "Icons/ItemCategories/Natural-Fire.png",
+      "InfoDisplayMode": "Adjacent"
+    }
+  ],
+  "Name": "Core Creator"
+}

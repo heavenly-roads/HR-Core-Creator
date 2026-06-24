@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "name": "Poster1",
+      "position": {"x": 1.01225, "y": 18.35549, "z": -15.73444},
+      "orientation": {"x": 0, "y": 0, "z": -0.71325, "w": 0.70091},
+      "shape": {
+        "type": "quad",
+        "offset": {"x": 0, "y": -0.5, "z": -0.11556},
+        "stretch": {"x": 0.7, "y": 0.7, "z": 0.7},
+        "settings": {
+          "isPiece": false,
+          "size": {"x": 33, "y": 51},
+          "normal": "+Z",
+          "isStaticBox": true
+        },
+        "textureLayout": {
+          "front": {
+            "offset": {"x": 117, "y": 84},
+            "mirror": {"x": true, "y": true},
+            "angle": 270
+          }
+        },
+        "unwrapMode": "custom",
+        "visible": true,
+        "doubleSided": true,
+        "shadingMode": "standard"
+      }
+    }
+  ],
+  "format": "prop",
+  "lod": "auto"
+}

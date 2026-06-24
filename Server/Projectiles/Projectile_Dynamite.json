@@ -1,0 +1,85 @@
+{
+  "Appearance": "Projectile_Dynamite",
+  "VerticalCenterShot": 0.1,
+  "HorizontalCenterShot": 0.1,
+  "DepthShot": 1,
+  "MuzzleVelocity": 20,
+  "TerminalVelocity": 20,
+  "Gravity": 20,
+  "Damage": 100,
+  "DeathParticles": {
+    "SystemId": "ParticleSystem_Explosion_Dynamite"
+  },
+  "DeathEffectsOnHit": false,
+  "DeathSoundEventId": "Sound_Explosion_Dynamite",
+  "ExplosionConfig": {
+    "DamageEntities": true,
+    "DamageBlocks": true,
+    "BlockDamageRadius": 4,
+    "BlockDropChance": 0.1,
+    "EntityDamage": 60,
+    "EntityDamageRadius": 4,
+    "Knockback": {
+      "Type": "Point",
+      "VelocityConfig": {
+        "AirResistance": 0.97,
+        "AirResistanceMax": 0.96,
+        "GroundResistance": 0.94,
+        "GroundResistanceMax": 0.3,
+        "Threshold": 3.0,
+        "Style": "Exp"
+      },
+      "Force": 20,
+      "VelocityType": "Add"
+    },
+    "ItemTool": {
+      "Specs": [
+        {
+          "Power": 2,
+          "GatherType": "SoftBlocks"
+        },
+        {
+          "Power": 2,
+          "GatherType": "Soils"
+        },
+        {
+          "Power": 2,
+          "GatherType": "Woods"
+        },
+        {
+          "Power": 2,
+          "GatherType": "Rocks"
+        },
+        {
+          "Power": 2,
+          "GatherType": "Benches"
+        }
+      ]
+    },
+    "SoundEventId": "Sound_Explosion_Dynamite",
+    "Particles": [
+      {
+        "Scale": 1,
+        "ParticleColor": "#ffffff",
+        "SystemId": "ParticleSystem_Explosion_Dynamite",
+        "PositionOffset": {
+          "Y": -0.3
+        }
+      }
+    ],
+    "BlockDamageFalloff": 4
+  },
+  "HitParticles": {
+    "SystemId": "ParticleSystem_Explosion_Dynamite"
+  },
+  "Bounciness": 0.4,
+  "PitchAdjustShot": true,
+  "RotationMode": "Velocity",
+  "DeadTime": 2,
+  "DeadTimeMiss": 2,
+  "SticksVertically": false,
+  "ComputeRoll": true,
+  "ComputePitch": true,
+  "ComputeYaw": true,
+  "ImpactSlowdown": 0
+}

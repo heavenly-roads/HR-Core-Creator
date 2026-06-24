@@ -1,0 +1,13 @@
+{
+  "ItemTooltipTexture": "UI/ItemQualities/Tooltips/ItemTooltipEffects.png",
+  "ItemTooltipArrowTexture": "UI/ItemQualities/Tooltips/ItemTooltipEffectsArrow.png",
+  "QualityValue": 10,
+  "SlotTexture": "UI/ItemQualities/Slots/SlotInteractive.png",
+  "RenderSpecialSlot": true,
+  "VisibleQualityLabel": true,
+  "BlockSlotTexture": "UI/ItemQualities/Slots/SlotInteractive.png",
+  "SpecialSlotTexture": "UI/ItemQualities/Slots/SlotInteractive.png",
+  "LocalizationKey": "categories.itemcategory.interactive",
+  "TextColor": "#c9d2dd",
+  "HideFromSearch": false
+}

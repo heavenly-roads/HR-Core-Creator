@@ -1,0 +1,23 @@
+{
+  "Group": "heavenly-roads",
+  "Name": "HR Core Creator",
+  "Version": "0.11.0",
+  "Description": "Decorations and extra elements for world creation.",
+  "Authors": [
+    {
+      "Name": "heavenly-roads",
+      "Email": "heavenlyroads.official@gmail.com",
+      "Url": "https://www.heavenly-roads.com"
+    }
+  ],
+  "Website": "",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {
+    "heavenly-roads:HR Windmills": "*"
+  },
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "SubPlugins": []
+}

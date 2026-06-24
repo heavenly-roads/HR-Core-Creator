@@ -1,0 +1,62 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "name": "Poster2",
+      "position": {"x": -5.40263, "y": 11.94477, "z": -15.75},
+      "orientation": {"x": 0, "y": 0, "z": 0.02181, "w": 0.99976},
+      "shape": {
+        "type": "quad",
+        "offset": {"x": 0, "y": 0, "z": -0.1},
+        "stretch": {"x": 0.5, "y": 0.5, "z": 0.5},
+        "settings": {
+          "isPiece": false,
+          "size": {"x": 18, "y": 25},
+          "normal": "+Z",
+          "isStaticBox": true
+        },
+        "textureLayout": {
+          "front": {
+            "offset": {"x": 0, "y": 103},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          }
+        },
+        "unwrapMode": "custom",
+        "visible": true,
+        "doubleSided": true,
+        "shadingMode": "standard"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Poster3",
+      "position": {"x": 3.51207, "y": 14.85566, "z": -15.85},
+      "orientation": {"x": 0, "y": 0, "z": -0.00001, "w": 1},
+      "shape": {
+        "type": "quad",
+        "offset": {"x": 0, "y": 0, "z": 0.1},
+        "stretch": {"x": 0.5, "y": 0.5, "z": 0.5},
+        "settings": {
+          "isPiece": false,
+          "size": {"x": 14, "y": 23},
+          "normal": "+Z",
+          "isStaticBox": true
+        },
+        "textureLayout": {
+          "front": {
+            "offset": {"x": 99, "y": 2},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          }
+        },
+        "unwrapMode": "custom",
+        "visible": true,
+        "doubleSided": true,
+        "shadingMode": "standard"
+      }
+    }
+  ],
+  "format": "prop",
+  "lod": "auto"
+}

@@ -1,0 +1,42 @@
+{
+  "TranslationProperties": {
+    "Name": "server.Block_Grid_Default.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Block_Grid_Default.png",
+  "Quality": "Technical",
+  "Categories": [
+    "HR_CoreCreator.Blocks"
+  ],
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Cube",
+    "Opacity": "Solid",
+    "Textures": [
+      {
+        "All": "BlockTextures/Grid_Default.png"
+      }
+    ],
+    "CubeShadingMode": "Standard",
+    "ParticleColor": "#2f2f2f",
+    "BlockSoundSetId": "Stone",
+    "BlockParticleSetId": "Stone"
+  },
+  "PlayerAnimationsId": "Block",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  },
+  "Tags": {
+    "Type": [
+      "Editor"
+    ]
+  }
+}

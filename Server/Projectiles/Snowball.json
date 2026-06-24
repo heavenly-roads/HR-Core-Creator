@@ -1,0 +1,22 @@
+{
+  "SticksVertically": true,
+  "MuzzleVelocity": 30,
+  "TerminalVelocity": 30,
+  "Gravity": 20,
+  "DeathEffectsOnHit": true,
+  "DepthShot": 1,
+  "Damage": 1,
+  "DeadTimeMiss": 0,
+  "Appearance": "Weapon_Snowball",
+  "DeathSoundEventId": "SFX_Snow_Hit",
+  "DeathParticles": {
+    "SystemId": "Block_Break_Snow",
+    "Color": "#ffffff"
+  },
+  "HitParticles": {
+    "SystemId": "Block_Hit_Snow",
+    "Color": "#ffffff"
+  },
+  "RotationMode": "Velocity",
+  "PitchAdjustShot": true
+}

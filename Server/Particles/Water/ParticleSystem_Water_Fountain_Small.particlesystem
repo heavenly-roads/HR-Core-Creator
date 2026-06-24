@@ -1,0 +1,22 @@
+{
+  "Spawners": [
+    {
+      "PositionOffset": {
+        "X": 0,
+        "Y": -1,
+        "Z": 0
+      },
+      "SpawnerId": "ParticleSytem_Water_Fountain_Beam_Small"
+    },
+    {
+      "PositionOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "SpawnerId": "ParticleSytem_Water_Fountain_Beam_Splash_Small"
+    }
+  ],
+  "BoundingRadius": 50,
+  "CullDistance": 100
+}

@@ -1,0 +1,147 @@
+{
+  "Spawners": [
+    {
+      "SpawnerId": "ParticleSpawner_Firework_Red",
+      "MaxConcurrent": 1,
+      "PositionOffset": {
+        "X": 0,
+        "Y": 64,
+        "Z": 0
+      },
+      "TotalSpawners": -1,
+      "EmitOffset": {
+        "X": {
+          "Min": -32,
+          "Max": 32
+        },
+        "Y": {
+          "Max": 16
+        },
+        "Z": {
+          "Max": 32,
+          "Min": -32
+        }
+      },
+      "WaveDelay": {
+        "Min": 1,
+        "Max": 6
+      }
+    },
+    {
+      "SpawnerId": "ParticleSpawner_Firework_Yellow",
+      "MaxConcurrent": 1,
+      "PositionOffset": {
+        "X": 0,
+        "Y": 64,
+        "Z": 0
+      },
+      "TotalSpawners": -1,
+      "EmitOffset": {
+        "X": {
+          "Min": -32,
+          "Max": 32
+        },
+        "Y": {
+          "Max": 16
+        },
+        "Z": {
+          "Max": 32,
+          "Min": -32
+        }
+      },
+      "WaveDelay": {
+        "Min": 1,
+        "Max": 6
+      },
+      "StartDelay": 0.5
+    },
+    {
+      "SpawnerId": "ParticleSpawner_Firework_Green",
+      "MaxConcurrent": 1,
+      "PositionOffset": {
+        "X": 0,
+        "Y": 64,
+        "Z": 0
+      },
+      "TotalSpawners": -1,
+      "EmitOffset": {
+        "X": {
+          "Min": -32,
+          "Max": 32
+        },
+        "Y": {
+          "Max": 16
+        },
+        "Z": {
+          "Max": 32,
+          "Min": -32
+        }
+      },
+      "WaveDelay": {
+        "Min": 1,
+        "Max": 6
+      },
+      "StartDelay": 1
+    },
+    {
+      "SpawnerId": "ParticleSpawner_Firework_Blue",
+      "MaxConcurrent": 1,
+      "PositionOffset": {
+        "X": 0,
+        "Y": 64,
+        "Z": 0
+      },
+      "TotalSpawners": -1,
+      "EmitOffset": {
+        "X": {
+          "Min": -32,
+          "Max": 32
+        },
+        "Y": {
+          "Max": 16
+        },
+        "Z": {
+          "Max": 32,
+          "Min": -32
+        }
+      },
+      "WaveDelay": {
+        "Min": 1,
+        "Max": 6
+      },
+      "StartDelay": 1.5
+    },
+    {
+      "SpawnerId": "ParticleSpawner_Firework_Pink",
+      "MaxConcurrent": 1,
+      "PositionOffset": {
+        "X": 0,
+        "Y": 64,
+        "Z": 0
+      },
+      "TotalSpawners": -1,
+      "EmitOffset": {
+        "X": {
+          "Min": -32,
+          "Max": 32
+        },
+        "Y": {
+          "Max": 16
+        },
+        "Z": {
+          "Max": 32,
+          "Min": -32
+        }
+      },
+      "WaveDelay": {
+        "Min": 1,
+        "Max": 6
+      },
+      "StartDelay": 2
+    }
+  ],
+  "CullDistance": 512,
+  "BoundingRadius": 128,
+  "$Comment": "Purple+Red. Not looping because of the different spawner life times. ",
+  "IsImportant": true
+}

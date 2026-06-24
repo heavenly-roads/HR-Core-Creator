@@ -1,0 +1,183 @@
+{
+  "BlockType": {
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Carpets/White/Carpet_Generic_Single.png",
+        "Weight": 1
+      }
+    ],
+    "ParticleColor": "#c0c0c0",
+    "State": {
+      "Definitions": {
+        "Single": {
+          "CustomModelTexture": [
+            {
+              "Texture": "Resources/Carpets/White/Carpet_Generic_Single.png",
+              "Weight": 1
+            }
+          ]
+        },
+        "End_North": {
+          "CustomModelTexture": [
+            {
+              "Texture": "Resources/Carpets/White/Carpet_Generic_End_North.png",
+              "Weight": 1
+            }
+          ]
+        },
+        "End_South": {
+          "CustomModelTexture": [
+            {
+              "Texture": "Resources/Carpets/White/Carpet_Generic_End_South.png",
+              "Weight": 1
+            }
+          ]
+        },
+        "End_East": {
+          "CustomModelTexture": [
+            {
+              "Texture": "Resources/Carpets/White/Carpet_Generic_End_East.png",
+              "Weight": 1
+            }
+          ]
+        },
+        "End_West": {
+          "CustomModelTexture": [
+            {
+              "Texture": "Resources/Carpets/White/Carpet_Generic_End_West.png",
+              "Weight": 1
+            }
+          ]
+        },
+        "Straight_NS": {
+          "CustomModelTexture": [
+            {
+              "Texture": "Resources/Carpets/White/Carpet_Generic_Straight_NS.png",
+              "Weight": 1
+            }
+          ]
+        },
+        "Straight_EW": {
+          "CustomModelTexture": [
+            {
+              "Texture": "Resources/Carpets/White/Carpet_Generic_Straight_EW.png",
+              "Weight": 1
+            }
+          ]
+        },
+        "Corner_NE": {
+          "CustomModelTexture": [
+            {
+              "Texture": "Resources/Carpets/White/Carpet_Generic_Corner_NE.png",
+              "Weight": 1
+            }
+          ]
+        },
+        "Corner_NW": {
+          "CustomModelTexture": [
+            {
+              "Texture": "Resources/Carpets/White/Carpet_Generic_Corner_NW.png",
+              "Weight": 1
+            }
+          ]
+        },
+        "Corner_SE": {
+          "CustomModelTexture": [
+            {
+              "Texture": "Resources/Carpets/White/Carpet_Generic_Corner_SE.png",
+              "Weight": 1
+            }
+          ]
+        },
+        "Corner_SW": {
+          "CustomModelTexture": [
+            {
+              "Texture": "Resources/Carpets/White/Carpet_Generic_Corner_SW.png",
+              "Weight": 1
+            }
+          ]
+        },
+        "T_North": {
+          "CustomModelTexture": [
+            {
+              "Texture": "Resources/Carpets/White/Carpet_Generic_T_North.png",
+              "Weight": 1
+            }
+          ]
+        },
+        "T_South": {
+          "CustomModelTexture": [
+            {
+              "Texture": "Resources/Carpets/White/Carpet_Generic_T_South.png",
+              "Weight": 1
+            }
+          ]
+        },
+        "T_East": {
+          "CustomModelTexture": [
+            {
+              "Texture": "Resources/Carpets/White/Carpet_Generic_T_East.png",
+              "Weight": 1
+            }
+          ]
+        },
+        "T_West": {
+          "CustomModelTexture": [
+            {
+              "Texture": "Resources/Carpets/White/Carpet_Generic_T_West.png",
+              "Weight": 1
+            }
+          ]
+        },
+        "Cross": {
+          "CustomModelTexture": [
+            {
+              "Texture": "Resources/Carpets/White/Carpet_Generic_Cross.png",
+              "Weight": 1
+            }
+          ]
+        }
+      }
+    },
+    "Parent": "Template_Furniture_Carpet",
+    "ConnectedBlockRuleSet": {
+      "Type": "CustomTemplate",
+      "TemplateShapeAssetId": "CCBTA_Carpets",
+      "TemplateShapeBlockPatterns": {
+        "Single": "Furniture_Carpet_Basic_White",
+        "End_North": "*Furniture_Carpet_Basic_White_State_Definitions_End_North",
+        "End_South": "*Furniture_Carpet_Basic_White_State_Definitions_End_South",
+        "End_East": "*Furniture_Carpet_Basic_White_State_Definitions_End_East",
+        "End_West": "*Furniture_Carpet_Basic_White_State_Definitions_End_West",
+        "Straight_NS": "*Furniture_Carpet_Basic_White_State_Definitions_Straight_NS",
+        "Straight_EW": "*Furniture_Carpet_Basic_White_State_Definitions_Straight_EW",
+        "Corner_NE": "*Furniture_Carpet_Basic_White_State_Definitions_Corner_NE",
+        "Corner_NW": "*Furniture_Carpet_Basic_White_State_Definitions_Corner_NW",
+        "Corner_SE": "*Furniture_Carpet_Basic_White_State_Definitions_Corner_SE",
+        "Corner_SW": "*Furniture_Carpet_Basic_White_State_Definitions_Corner_SW",
+        "T_North": "*Furniture_Carpet_Basic_White_State_Definitions_T_North",
+        "T_South": "*Furniture_Carpet_Basic_White_State_Definitions_T_South",
+        "T_East": "*Furniture_Carpet_Basic_White_State_Definitions_T_East",
+        "T_West": "*Furniture_Carpet_Basic_White_State_Definitions_T_West",
+        "Cross": "*Furniture_Carpet_Basic_White_State_Definitions_Cross"
+      }
+    }
+  },
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -1
+    ]
+  },
+  "Parent": "Template_Furniture_Carpet",
+  "TranslationProperties": {
+    "Name": "server.Furniture_Carpet_Basic_White.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Furniture_Carpet_Basic_White.png"
+}

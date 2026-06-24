@@ -1,0 +1,34 @@
+itemcategory.core = Core
+itemcategory.blocks = Blocks
+itemcategory.lighting = Lighting
+itemcategory.decoration = Decoration
+itemcategory.items = Items
+itemcategory.interactive = Interactive
+itemcategory.decals = Decals
+itemcategory.effects = Effects
+itemcategory.experimental = Experimental
+itemcategory.customizable = Customizable
+
+subcategory.windows.name = Windows
+subcategory.furniture.name = Furniture
+subcategory.cloth.name = Cloth
+subcategory.carpets.name = Carpets
+subcategory.posters.name = Posters
+subcategory.signs.name = Signs
+subcategory.banners.name = Banners
+subcategory.paintings.name = Paintings
+subcategory.arcade.name = Arcade
+subcategory.neon.name = Neon
+subcategory.lamps.name = Lamps
+subcategory.weapons.name = Weapons
+subcategory.food.name = Food
+subcategory.utilities.name = Utilities
+subcategory.loot.name = Loot containers
+subcategory.explosives.name = Explosives
+subcategory.portals.name = Portals
+subcategory.general.name = General
+
+itemcategory.windmills = Windmills
+subcategory.classic.name = Classic
+subcategory.generic.name = Generic
+subcategory.pinwheels.name = Pinwheels

@@ -1,0 +1,56 @@
+{
+  "TranslationProperties": {
+    "Name": "server.Currency_Pile_Coin_Medium.name"
+  },
+  "BlockType": {
+    "DrawType": "Model",
+    "CustomModel": "Blocks/Currency_Coin_Pile_Medium.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Elements/Currency_Coin.png",
+        "Weight": 1
+      }
+    ],
+    "BlockParticleSetId": "Metal",
+    "BlockSoundSetId": "Coins",
+    "VariantRotation": "NESW",
+    "Material": "Solid",
+    "Opacity": "Solid",
+    "RandomRotation": "YawStep1",
+    "ParticleColor": "#ffb932",
+    "HitboxType": "Block_Three_Eighth",
+    "Support": {
+      "Down": [
+        {
+          "FaceType": "Full"
+        }
+      ]
+    },
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "SoftBlocks"
+      }
+    },
+    "Flags": {}
+  },
+  "PlayerAnimationsId": "Block",
+  "IconProperties": {
+    "Scale": 0.9,
+    "Rotation": [
+      18,
+      302,
+      336
+    ],
+    "Translation": [
+      0,
+      -3
+    ]
+  },
+  "Icon": "Icons/ItemsGenerated/Deco_Coin_Pile_Medium.png",
+  "ItemSoundSetId": "ISS_Items_Metal",
+  "MaxStack": 100,
+  "Categories": [
+    "HR_CoreCreator.Decoration"
+  ],
+  "Scale": 1.2
+}

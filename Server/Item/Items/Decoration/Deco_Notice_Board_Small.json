@@ -1,0 +1,45 @@
+{
+  "PlayerAnimationsId": "Block",
+  "Icon": "Icons/ItemsGenerated/Deco_Notice_Board_Small.png",
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      16,
+      47,
+      14
+    ],
+    "Translation": [
+      -4,
+      -22
+    ]
+  },
+  "BlockType": {
+    "BlockParticleSetId": "Wood",
+    "BlockSoundSetId": "Wood",
+    "CustomModel": "Blocks/Deco_Notice_Board_Small.blockymodel",
+    "DrawType": "Model",
+    "HitboxType": "Notice_Board_Small",
+    "Material": "Solid",
+    "ParticleColor": "#63412c",
+    "Support": {
+      "Down": [
+        {
+          "FaceType": "Full"
+        }
+      ]
+    },
+    "VariantRotation": "NESW",
+    "Opacity": "Solid",
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Elements/Notice_Board.png"
+      }
+    ]
+  },
+  "Scale": 1,
+  "ItemSoundSetId": "ISS_Blocks_Wood",
+  "Parent": "Deco_Notice_Board",
+  "TranslationProperties": {
+    "Name": "Notice Board - Small"
+  }
+}

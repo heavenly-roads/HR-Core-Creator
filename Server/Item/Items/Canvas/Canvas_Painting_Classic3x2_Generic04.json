@@ -1,0 +1,28 @@
+{
+  "IconProperties": {
+    "Scale": 0.36,
+    "Rotation": [
+      0,
+      0,
+      0
+    ],
+    "Translation": [
+      -16,
+      -48
+    ]
+  },
+  "Parent": "Canvas_Painting_Classic3x2_Generic01",
+  "BlockType": {
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Canvas/Painting3x2_Classic_Generic04.png"
+      }
+    ],
+    "Parent": "Canvas_Painting_Classic3x2_Generic01"
+  },
+  "TranslationProperties": {
+    "Name": "server.Canvas_Painting_3x2_Generic_Classic.name",
+    "Description": "credits.Canvas_Bonheur"
+  },
+  "Icon": "Icons/ItemsGenerated/Canvas_Painting_Classic3x2_Generic04.png"
+}

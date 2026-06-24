@@ -1,0 +1,139 @@
+{
+  "Spawners": [
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Dynamite_Star",
+      "FixedRotation": false,
+      "PositionOffset": {
+        "Y": 1.0,
+        "Z": 0.0,
+        "X": 0.0
+      }
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Dynamite_Sparks_Out",
+      "PositionOffset": {
+        "Y": 0.6
+      },
+      "FixedRotation": false
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Dynamite_Sparks_Linger",
+      "PositionOffset": {
+        "Y": 0.4,
+        "X": 0.0,
+        "Z": 0.0
+      },
+      "FixedRotation": false
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Dynamite_Sparks_Radial",
+      "PositionOffset": {
+        "Y": 0.1,
+        "X": 0.0,
+        "Z": 0.0
+      }
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Dynamite_Lines",
+      "PositionOffset": {
+        "Y": 0.4,
+        "X": 0.0,
+        "Z": 0.0
+      }
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Dynamite_Shockwave",
+      "PositionOffset": {
+        "X": 0.0,
+        "Z": 0.0
+      }
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Dynamite_Shockwave_Ground",
+      "PositionOffset": {
+        "X": 0.0,
+        "Z": 0.0
+      }
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Dynamite_Fires",
+      "PositionOffset": {
+        "Y": 0.8,
+        "X": 0.0,
+        "Z": 0.0
+      }
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Dynamite_Glow",
+      "PositionOffset": {
+        "X": 0.0,
+        "Z": 0.0
+      },
+      "FixedRotation": false
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Dynamite_Smoke_Main",
+      "PositionOffset": {
+        "Y": 1.0,
+        "X": 0.0,
+        "Z": 0.0
+      },
+      "StartDelay": 0.05
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Dynamite_Smoke_Spikes",
+      "PositionOffset": {
+        "Y": 1.2
+      },
+      "StartDelay": 0.1
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Dynamite_Derbis"
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Dynamite_Smoke_Ground",
+      "PositionOffset": {
+        "Y": 0.2
+      },
+      "StartDelay": 0.6
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Dynamite_Fire_Ground",
+      "PositionOffset": {
+        "Y": 0.1
+      },
+      "StartDelay": 0.2,
+      "FixedRotation": true
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Dynamite_Smoke_Side",
+      "PositionOffset": {
+        "Y": 0.5,
+        "Z": -0.2
+      },
+      "StartDelay": 0.12,
+      "RotationOffset": {
+        "Pitch": 0.0,
+        "Yaw": 0.0
+      },
+      "FixedRotation": false
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Dynamite_Smoke_Side",
+      "PositionOffset": {
+        "Y": 0.5,
+        "Z": 0.2
+      },
+      "StartDelay": 0.12,
+      "RotationOffset": {
+        "Yaw": 180.0
+      }
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Flames"
+    }
+  ],
+  "BoundingRadius": 32,
+  "CullDistance": 128,
+  "IsImportant": false
+}

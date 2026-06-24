@@ -1,0 +1,12 @@
+{
+  "Spawners": [
+    {
+      "SpawnerId": "ParticleSpawner_JumpPad_Wave_Medium",
+      "PositionOffset": {
+        "Y": 0.15
+      }
+    }
+  ],
+  "CullDistance": 32,
+  "LifeSpan": 1
+}

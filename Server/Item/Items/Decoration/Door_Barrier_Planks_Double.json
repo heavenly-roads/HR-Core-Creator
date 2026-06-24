@@ -1,0 +1,26 @@
+{
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -1,
+      -35.5
+    ]
+  },
+  "BlockType": {
+    "CustomModel": "Blocks/Door_Barrier_Planks_Double.blockymodel",
+    "HitboxType": "Barrier_Door_Double",
+    "Parent": "Door_Barrier_Planks",
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Elements/Door_Barrier_Planks.png"
+      }
+    ]
+  },
+  "Parent": "Door_Barrier_Planks",
+  "Icon": "Icons/ItemsGenerated/Door_Barrier_Planks_Double.png"
+}

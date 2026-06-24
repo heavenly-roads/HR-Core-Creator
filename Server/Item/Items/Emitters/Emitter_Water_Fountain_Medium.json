@@ -1,0 +1,31 @@
+{
+  "BlockType": {
+    "Particles": [
+      {
+        "SystemId": "ParticleSystem_Water_Fountain_Medium",
+        "Color": "#efefef"
+      }
+    ],
+    "Looping": true,
+    "AmbientSoundEventId": "Sound_Water_Fountain",
+    "Parent": "Template_Particle_Emitter"
+  },
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "server.Emitter_Water_Fountain_Medium.name"
+  },
+  "Icon": "Icons/Items/Emitter_Water.png",
+  "Quality": "HR_Effects",
+  "Parent": "Template_Particle_Emitter"
+}

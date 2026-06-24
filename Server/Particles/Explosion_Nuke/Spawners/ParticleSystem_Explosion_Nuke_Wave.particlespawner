@@ -1,0 +1,101 @@
+{
+  "RenderMode": "BlendLinear",
+  "ParticleRotationInfluence": "None",
+  "LinearFiltering": true,
+  "LightInfluence": 0.5,
+  "MaxConcurrentParticles": 3,
+  "Particle": {
+    "Texture": "Particles/Effects/Nuke_Wave.png",
+    "FrameSize": {
+      "Width": 256,
+      "Height": 256
+    },
+    "ScaleRatioConstraint": "OneToOne",
+    "Animation": {
+      "0": {
+        "FrameIndex": {
+          "Min": 0,
+          "Max": 0
+        },
+        "Opacity": 0,
+        "Scale": {
+          "X": {
+            "Min": 0.6,
+            "Max": 0.6
+          }
+        },
+        "Color": "#ffffff",
+        "Rotation": {
+          "Z": {
+            "Min": 0,
+            "Max": 0
+          }
+        }
+      },
+      "50": {
+        "Opacity": 0.8
+      },
+      "100": {
+        "Opacity": 0,
+        "Scale": {
+          "X": {
+            "Min": 1,
+            "Max": 1
+          }
+        },
+        "Color": "#8b8b8b",
+        "Rotation": {
+          "Z": {
+            "Min": -180,
+            "Max": 180
+          }
+        }
+      }
+    },
+    "SoftParticlesFadeFactor": 0.1,
+    "InitialAnimationFrame": {
+      "Rotation": {
+        "X": {
+          "Min": 90,
+          "Max": 90
+        },
+        "Z": {
+          "Min": 0,
+          "Max": 0
+        }
+      },
+      "Scale": {
+        "X": {
+          "Min": 4,
+          "Max": 4
+        }
+      },
+      "Opacity": 1,
+      "Color": "#d3d3d3",
+      "FrameIndex": {
+        "Min": 0,
+        "Max": 0
+      }
+    }
+  },
+  "LifeSpan": 2,
+  "SpawnBurst": false,
+  "TotalParticles": {
+    "Min": 3,
+    "Max": 3
+  },
+  "SpawnRate": {
+    "Min": 100,
+    "Max": 100
+  },
+  "ParticleLifeSpan": {
+    "Min": 8,
+    "Max": 10
+  },
+  "EmitOffset": {
+    "Y": {
+      "Min": -2,
+      "Max": 2
+    }
+  }
+}

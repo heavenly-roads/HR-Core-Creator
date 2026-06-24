@@ -1,0 +1,9 @@
+{
+  "Icon": "Icons/Items/HR_Info.png",
+  "TranslationProperties": {
+    "Name": "server.Info_Experimental.name",
+    "Description": "server.Info_Experimental.description"
+  },
+  "Quality": "HR_Experimental",
+  "Parent": "Info_CoreCreator"
+}

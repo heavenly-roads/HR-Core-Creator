@@ -1,0 +1,62 @@
+{
+  "Icon": "Icons/ItemsGenerated/Lamp_Neon_Beam_White.png",
+  "Categories": [
+    "HR_CoreCreator.Lighting"
+  ],
+  "PlayerAnimationsId": "Item",
+  "Interactions": {
+    "Primary": "Block_Primary",
+    "Secondary": "Block_Secondary"
+  },
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Lamp_Neon_Beam_White.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Elements/Neon_Beams.png",
+        "Weight": 1
+      }
+    ],
+    "HitboxType": "Neon_Long",
+    "Supporting": {
+      "Down": [
+        {
+          "FaceType": "Rock_Beam"
+        }
+      ],
+      "Up": [
+        {
+          "FaceType": "Rock_Beam"
+        }
+      ]
+    },
+    "VariantRotation": "DoublePipe",
+    "BlockParticleSetId": "Crystal",
+    "ParticleColor": "#d8d8d8",
+    "BlockSoundSetId": "Crystal",
+    "PhysicalMaterialId": "Glass",
+    "Light": {
+      "Color": "#777"
+    },
+    "CubeShadingMode": "Standard"
+  },
+  "ItemSoundSetId": "ISS_Default",
+  "IconProperties": {
+    "Scale": 0.7,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -3
+    ]
+  },
+  "SubCategory": "Neon",
+  "TranslationProperties": {
+    "Name": "server.Lamp_Neon_Beam_White.name"
+  }
+}

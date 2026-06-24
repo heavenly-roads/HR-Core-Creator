@@ -1,0 +1,31 @@
+{
+  "BlockType": {
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Elements/Neon_Alien.png"
+      }
+    ],
+    "ParticleColor": "#3eda73",
+    "Light": {
+      "Color": "#8b8"
+    },
+    "Parent": "Deco_Neon_Hearts"
+  },
+  "Icon": "Icons/ItemsGenerated/Deco_Neon_Alien.png",
+  "IconProperties": {
+    "Scale": 1,
+    "Rotation": [
+      0,
+      0,
+      0
+    ],
+    "Translation": [
+      0,
+      -16
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "server.Deco_Neon_Alien.name"
+  },
+  "Parent": "Deco_Neon_Hearts"
+}

@@ -1,0 +1,74 @@
+{
+  "ParticleRotationInfluence": "BillboardY",
+  "Particle": {
+    "FrameSize": {
+      "Width": 128,
+      "Height": 128
+    },
+    "ScaleRatioConstraint": "OneToOne",
+    "Animation": {
+      "0": {
+        "Opacity": 0,
+        "Scale": {
+          "X": {
+            "Min": 0.6,
+            "Max": 0.6
+          }
+        },
+        "Color": "#6a9dff"
+      },
+      "50": {
+        "Opacity": 1,
+        "Scale": {
+          "X": {
+            "Min": 1,
+            "Max": 1
+          }
+        },
+        "Color": "#6ac4ff"
+      },
+      "100": {
+        "Opacity": 0,
+        "Scale": {
+          "X": {
+            "Min": 0.8,
+            "Max": 0.8
+          }
+        },
+        "Color": "#6a9dff"
+      }
+    },
+    "InitialAnimationFrame": {
+      "Scale": {
+        "X": {
+          "Min": 0.4,
+          "Max": 0.4
+        }
+      },
+      "Color": "#6a9dff",
+      "Opacity": 1
+    },
+    "UVOption": "None",
+    "Texture": "Particles/Bounce_Pad_Arrow.png"
+  },
+  "RenderMode": "Erosion",
+  "CameraOffset": -1,
+  "Shape": "Sphere",
+  "ParticleLifeSpan": {
+    "Max": 2,
+    "Min": 2
+  },
+  "LinearFiltering": true,
+  "Attractors": [
+    {
+      "LinearImpulse": {
+        "Y": 1
+      }
+    }
+  ],
+  "MaxConcurrentParticles": 1,
+  "SpawnRate": {
+    "Min": 20,
+    "Max": 20
+  }
+}

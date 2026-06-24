@@ -1,0 +1,87 @@
+{
+  "BlockType": {
+    "DrawType": "Model",
+    "CustomModel": "Blocks/Interactive/Bounce_Pad_3x3.blockymodel",
+    "HitboxType": "Bounce_Pad_Large",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Interactive/Bounce_Pad_Large.png"
+      }
+    ],
+    "Opacity": "Transparent",
+    "Material": "Solid",
+    "Particles": [
+      {
+        "SystemId": "ParticleSystem_JumpPad_Large"
+      }
+    ],
+    "Light": {
+      "Color": "#47a"
+    },
+    "State": {
+      "Definitions": {
+        "default": {},
+        "Active": {
+          "Particles": [
+            {
+              "SystemId": "ParticleSystem_JumpPad_Activated_Large"
+            }
+          ]
+        }
+      }
+    },
+    "Interactions": {
+      "Collision": {
+        "Interactions": [
+          {
+            "Type": "ChangeState",
+            "Changes": {
+              "Active": "default",
+              "default": "Active"
+            },
+            "RunTime": 0.1,
+            "Next": {
+              "Type": "ChangeState",
+              "Changes": {
+                "Active": "default",
+                "default": "Active"
+              }
+            },
+            "UpdateBlockState": true,
+            "Effects": {
+              "LocalSoundEventId": "Bounce_Pad_Activated"
+            }
+          },
+          {
+            "Type": "ApplyForce",
+            "Direction": {
+              "Y": 1
+            },
+            "Force": 45
+          }
+        ],
+        "Cooldown": {
+          "Cooldown": 0.5
+        }
+      }
+    }
+  },
+  "Icon": "Icons/ItemsGenerated/Interactive_Bounce_Pad_Large.png",
+  "IconProperties": {
+    "Scale": 0.22,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -1,
+      -4
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "server.Bounce_Pad_Large.name"
+  },
+  "Parent": "Interactive_Bounce_Pad_Medium",
+  "Quality": "HR_Interactive"
+}

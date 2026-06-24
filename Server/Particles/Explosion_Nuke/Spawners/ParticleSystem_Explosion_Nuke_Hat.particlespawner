@@ -1,0 +1,117 @@
+{
+  "RenderMode": "Erosion",
+  "EmitOffset": {
+    "X": {
+      "Min": -3,
+      "Max": 3
+    },
+    "Z": {
+      "Min": -3,
+      "Max": 3
+    }
+  },
+  "LinearFiltering": true,
+  "LightInfluence": 0,
+  "MaxConcurrentParticles": 256,
+  "ParticleLifeSpan": {
+    "Min": 4,
+    "Max": 5
+  },
+  "SpawnRate": {
+    "Min": 30,
+    "Max": 30
+  },
+  "Attractors": [
+    {
+      "RadialImpulse": 1.5,
+      "RadialAcceleration": -0.3,
+      "LinearAcceleration": {
+        "Y": -0.25
+      }
+    },
+    {
+      "Radius": 2,
+      "LinearImpulse": {
+        "Y": 4
+      }
+    }
+  ],
+  "Particle": {
+    "Texture": "Particles/Effects/SmokeRound_01.png",
+    "FrameSize": {
+      "Width": 128,
+      "Height": 128
+    },
+    "ScaleRatioConstraint": "None",
+    "Animation": {
+      "0": {
+        "Scale": {
+          "X": {
+            "Min": 1,
+            "Max": 1
+          },
+          "Y": {
+            "Min": 1,
+            "Max": 1
+          }
+        },
+        "Color": "#ffd262",
+        "Opacity": 0,
+        "FrameIndex": {
+          "Min": 0,
+          "Max": 0
+        }
+      },
+      "30": {
+        "Opacity": 1
+      },
+      "50": {
+        "Color": "#ea5a17"
+      },
+      "70": {
+        "Color": "#514141",
+        "Opacity": 0.8
+      },
+      "100": {
+        "Scale": {
+          "X": {
+            "Min": 0.83,
+            "Max": 0.63
+          },
+          "Y": {
+            "Min": 0.5,
+            "Max": 0.38
+          }
+        },
+        "Opacity": 0
+      }
+    },
+    "InitialAnimationFrame": {
+      "Rotation": {
+        "Z": {
+          "Min": -180,
+          "Max": 180
+        }
+      },
+      "Scale": {
+        "X": {
+          "Min": 1,
+          "Max": 1.4
+        },
+        "Y": {
+          "Min": 1,
+          "Max": 1.4
+        }
+      },
+      "Opacity": 1,
+      "Color": "#fff6f6",
+      "FrameIndex": {
+        "Min": 0,
+        "Max": 3
+      }
+    },
+    "UVOption": "RandomFlipUV"
+  },
+  "ParticleRotationInfluence": "BillboardVelocity",
+  "LifeSpan": 12
+}

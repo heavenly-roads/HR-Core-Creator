@@ -1,0 +1,712 @@
+{
+  "ConnectsToOtherMaterials": true,
+  "DefaultShape": "Single",
+
+  "Shapes": {
+
+    "Single": {
+      "FaceTags": {
+        "North": ["CarpetConnection"],
+        "South": ["CarpetConnection"],
+        "East": ["CarpetConnection"],
+        "West": ["CarpetConnection"]
+      },
+      "PatternsToMatchAnyOf": [
+        {
+          "Type": "Custom",
+          "RulesToMatch": [
+            {
+              "Position": { "X": 0, "Y": 0, "Z": -1 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "South": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 0, "Y": 0, "Z": 1 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "North": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "West": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": -1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "East": ["CarpetConnection"]
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+    "End_North": {
+      "FaceTags": {
+        "North": ["CarpetConnection"],
+        "South": ["CarpetConnection"],
+        "East": ["CarpetConnection"],
+        "West": ["CarpetConnection"]
+      },
+      "PatternsToMatchAnyOf": [
+        {
+          "Type": "Custom",
+          "RulesToMatch": [
+            {
+              "Position": { "X": 0, "Y": 0, "Z": -1 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "South": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 0, "Y": 0, "Z": 1 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "North": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "West": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": -1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "East": ["CarpetConnection"]
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+    "End_South": {
+      "FaceTags": {
+        "North": ["CarpetConnection"],
+        "South": ["CarpetConnection"],
+        "East": ["CarpetConnection"],
+        "West": ["CarpetConnection"]
+      },
+      "PatternsToMatchAnyOf": [
+        {
+          "Type": "Custom",
+          "RulesToMatch": [
+            {
+              "Position": { "X": 0, "Y": 0, "Z": 1 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "North": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 0, "Y": 0, "Z": -1 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "South": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "West": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": -1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "East": ["CarpetConnection"]
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+    "End_East": {
+      "FaceTags": {
+        "North": ["CarpetConnection"],
+        "South": ["CarpetConnection"],
+        "East": ["CarpetConnection"],
+        "West": ["CarpetConnection"]
+      },
+      "PatternsToMatchAnyOf": [
+        {
+          "Type": "Custom",
+          "RulesToMatch": [
+            {
+              "Position": { "X": 1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "West": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": -1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "East": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 0, "Y": 0, "Z": -1 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "South": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 0, "Y": 0, "Z": 1 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "North": ["CarpetConnection"]
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+    "End_West": {
+      "FaceTags": {
+        "North": ["CarpetConnection"],
+        "South": ["CarpetConnection"],
+        "East": ["CarpetConnection"],
+        "West": ["CarpetConnection"]
+      },
+      "PatternsToMatchAnyOf": [
+        {
+          "Type": "Custom",
+          "RulesToMatch": [
+            {
+              "Position": { "X": -1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "East": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "West": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 0, "Y": 0, "Z": -1 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "South": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 0, "Y": 0, "Z": 1 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "North": ["CarpetConnection"]
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+    "Straight_NS": {
+      "FaceTags": {
+        "North": ["CarpetConnection"],
+        "South": ["CarpetConnection"],
+        "East": ["CarpetConnection"],
+        "West": ["CarpetConnection"]
+      },
+      "PatternsToMatchAnyOf": [
+        {
+          "Type": "Custom",
+          "RulesToMatch": [
+            {
+              "Position": { "X": 0, "Y": 0, "Z": -1 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "South": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 0, "Y": 0, "Z": 1 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "North": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "West": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": -1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "East": ["CarpetConnection"]
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+    "Straight_EW": {
+      "FaceTags": {
+        "North": ["CarpetConnection"],
+        "South": ["CarpetConnection"],
+        "East": ["CarpetConnection"],
+        "West": ["CarpetConnection"]
+      },
+      "PatternsToMatchAnyOf": [
+        {
+          "Type": "Custom",
+          "RulesToMatch": [
+            {
+              "Position": { "X": 1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "West": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": -1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "East": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 0, "Y": 0, "Z": -1 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "South": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 0, "Y": 0, "Z": 1 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "North": ["CarpetConnection"]
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+    "Corner_NE": {
+      "FaceTags": {
+        "North": ["CarpetConnection"],
+        "South": ["CarpetConnection"],
+        "East": ["CarpetConnection"],
+        "West": ["CarpetConnection"]
+      },
+      "PatternsToMatchAnyOf": [
+        {
+          "Type": "Custom",
+          "RulesToMatch": [
+            {
+              "Position": { "X": 0, "Y": 0, "Z": -1 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "South": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "West": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 0, "Y": 0, "Z": 1 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "North": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": -1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "East": ["CarpetConnection"]
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+    "Corner_NW": {
+      "FaceTags": {
+        "North": ["CarpetConnection"],
+        "South": ["CarpetConnection"],
+        "East": ["CarpetConnection"],
+        "West": ["CarpetConnection"]
+      },
+      "PatternsToMatchAnyOf": [
+        {
+          "Type": "Custom",
+          "RulesToMatch": [
+            {
+              "Position": { "X": 0, "Y": 0, "Z": -1 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "South": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": -1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "East": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 0, "Y": 0, "Z": 1 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "North": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "West": ["CarpetConnection"]
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+    "Corner_SE": {
+      "FaceTags": {
+        "North": ["CarpetConnection"],
+        "South": ["CarpetConnection"],
+        "East": ["CarpetConnection"],
+        "West": ["CarpetConnection"]
+      },
+      "PatternsToMatchAnyOf": [
+        {
+          "Type": "Custom",
+          "RulesToMatch": [
+            {
+              "Position": { "X": 0, "Y": 0, "Z": 1 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "North": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "West": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 0, "Y": 0, "Z": -1 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "South": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": -1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "East": ["CarpetConnection"]
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+    "Corner_SW": {
+      "FaceTags": {
+        "North": ["CarpetConnection"],
+        "South": ["CarpetConnection"],
+        "East": ["CarpetConnection"],
+        "West": ["CarpetConnection"]
+      },
+      "PatternsToMatchAnyOf": [
+        {
+          "Type": "Custom",
+          "RulesToMatch": [
+            {
+              "Position": { "X": 0, "Y": 0, "Z": 1 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "North": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": -1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "East": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 0, "Y": 0, "Z": -1 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "South": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "West": ["CarpetConnection"]
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+    "T_North": {
+      "FaceTags": {
+        "North": ["CarpetConnection"],
+        "South": ["CarpetConnection"],
+        "East": ["CarpetConnection"],
+        "West": ["CarpetConnection"]
+      },
+      "PatternsToMatchAnyOf": [
+        {
+          "Type": "Custom",
+          "RulesToMatch": [
+            {
+              "Position": { "X": 0, "Y": 0, "Z": 1 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "North": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "West": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": -1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "East": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 0, "Y": 0, "Z": -1 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "South": ["CarpetConnection"]
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+    "T_South": {
+      "FaceTags": {
+        "North": ["CarpetConnection"],
+        "South": ["CarpetConnection"],
+        "East": ["CarpetConnection"],
+        "West": ["CarpetConnection"]
+      },
+      "PatternsToMatchAnyOf": [
+        {
+          "Type": "Custom",
+          "RulesToMatch": [
+            {
+              "Position": { "X": 0, "Y": 0, "Z": -1 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "South": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "West": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": -1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "East": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 0, "Y": 0, "Z": 1 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "North": ["CarpetConnection"]
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+    "T_East": {
+      "FaceTags": {
+        "North": ["CarpetConnection"],
+        "South": ["CarpetConnection"],
+        "East": ["CarpetConnection"],
+        "West": ["CarpetConnection"]
+      },
+      "PatternsToMatchAnyOf": [
+        {
+          "Type": "Custom",
+          "RulesToMatch": [
+            {
+              "Position": { "X": 1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "West": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 0, "Y": 0, "Z": -1 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "South": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 0, "Y": 0, "Z": 1 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "North": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": -1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "East": ["CarpetConnection"]
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+    "T_West": {
+      "FaceTags": {
+        "North": ["CarpetConnection"],
+        "South": ["CarpetConnection"],
+        "East": ["CarpetConnection"],
+        "West": ["CarpetConnection"]
+      },
+      "PatternsToMatchAnyOf": [
+        {
+          "Type": "Custom",
+          "RulesToMatch": [
+            {
+              "Position": { "X": -1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "East": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 0, "Y": 0, "Z": -1 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "South": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 0, "Y": 0, "Z": 1 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "North": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Exclude",
+              "FaceTags": {
+                "West": ["CarpetConnection"]
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+    "Cross": {
+      "FaceTags": {
+        "North": ["CarpetConnection"],
+        "South": ["CarpetConnection"],
+        "East": ["CarpetConnection"],
+        "West": ["CarpetConnection"]
+      },
+      "PatternsToMatchAnyOf": [
+        {
+          "Type": "Custom",
+          "RulesToMatch": [
+            {
+              "Position": { "X": 0, "Y": 0, "Z": -1 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "South": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 0, "Y": 0, "Z": 1 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "North": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": 1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "West": ["CarpetConnection"]
+              }
+            },
+            {
+              "Position": { "X": -1, "Y": 0, "Z": 0 },
+              "IncludeOrExclude": "Include",
+              "FaceTags": {
+                "East": ["CarpetConnection"]
+              }
+            }
+          ]
+        }
+      ]
+    }
+
+  }
+}

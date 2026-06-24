@@ -1,0 +1,34 @@
+{
+  "Icon": "Icons/ItemsGenerated/Block_Grid_Limit.png",
+  "Quality": "Technical",
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Cube",
+    "Opacity": "Solid",
+    "Textures": [
+      {
+        "All": "BlockTextures/Grid_Limit.png"
+      }
+    ],
+    "CubeShadingMode": "Standard",
+    "BlockParticleSetId": "Stone",
+    "ParticleColor": "#ab4b4b"
+  },
+  "PlayerAnimationsId": "Block",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  },
+  "Parent": "Block_Grid_Default",
+  "TranslationProperties": {
+    "Name": "server.Block_Grid_Limit.name"
+  }
+}

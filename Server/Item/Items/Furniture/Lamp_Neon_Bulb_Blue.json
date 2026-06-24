@@ -1,0 +1,24 @@
+{
+  "Icon": "Icons/ItemsGenerated/Lamp_Neon_Bulb_Blue.png",
+  "BlockType": {
+    "Parent": "Lamp_Neon_Beam_Blue",
+    "CustomModel": "Blocks/Lamp_Neon_Bulb_Blue.blockymodel",
+    "HitboxType": "Neon_Bulb"
+  },
+  "IconProperties": {
+    "Scale": 0.7,
+    "Rotation": [
+      22.5,
+      45,
+      21
+    ],
+    "Translation": [
+      -0.2,
+      -3
+    ]
+  },
+  "Parent": "Lamp_Neon_Beam_Blue",
+  "TranslationProperties": {
+    "Name": "server.Lamp_Neon_Bulb_Blue.name"
+  }
+}

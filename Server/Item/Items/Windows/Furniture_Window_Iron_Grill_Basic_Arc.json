@@ -1,0 +1,23 @@
+{
+  "Icon": "Icons/ItemsGenerated/Furniture_Window_Iron_Grill_Basic_Arc.png",
+  "BlockType": {
+    "Parent": "Furniture_Window_Iron_Grill_Basic",
+    "CustomModel": "Blocks/Structures/Windows/Window_Iron_Grill_Arc.blockymodel"
+  },
+  "IconProperties": {
+    "Scale": 0.6,
+    "Rotation": [
+      23.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -14
+    ]
+  },
+  "Parent": "Furniture_Window_Iron_Grill_Basic",
+  "TranslationProperties": {
+    "Name": "server.Window_Iron_Grill_Arc.name"
+  }
+}
