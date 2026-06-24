@@ -13,6 +13,10 @@ This is a live development repository - <a target="_blank" href="https://www.cur
 
 Goal is to maximize optimization using the smallest filesize without direct loss of quality for servers and clients to load the included asset resources on the most efficient way possible. Stable releases after v.1.0 will be built using a sanitizer and compression textures process. 'Alpha' and 'Beta' releases won't meet this process so expect for these to have a bigger filesize.
 
+### Extra resources and references
+
+This mod has some references (.lang files mostly) to non-included content which relies on a private mod (HR Creator Hub) for a private server project. Some of these assets will be added through time while others remains as highly experimental tests or non-public content as they are designed for a custom server environment.
+
 <hr>
 
 <h1>Terms of use</h1>
