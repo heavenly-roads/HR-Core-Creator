@@ -10,6 +10,14 @@ This mod can be used on public servers.
   <li>Do not distribute for profit.</li>
 </ul>
 
+<hr>
+
+<h2>Documentation</h2>
+
+* [Changelog](CHANGELOG.md)
+
+<hr>
+
 <h2>Copyright</h2>
 <ul>
   <li>Original assets made by heavenly-roads.</li>
