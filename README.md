@@ -6,6 +6,7 @@ This is a live development repository - <a target="_blank" href="https://www.cur
 
 * [Changelog](CHANGELOG.md)
 * Game target version is shown on CurseForge.
+* Optional dependencies: <a target="_blank" href="https://www.curseforge.com/hytale/mods/hr-windmills">HR Windmills</a>, <a target="_blank" href="https://www.curseforge.com/hytale/mods/hr-core-prefabs">HR Core Prefabs</a>.
 * Supported languages: English, Spanish.
 
 ### Experimental content
