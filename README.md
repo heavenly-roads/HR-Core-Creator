@@ -3,8 +3,8 @@ This is a development repository - <a target="_blank" href="https://www.cursefor
 <hr>
 
 <h2>Terms of use</h2>
-This mod can be used on public servers.
 <ul>
+  <li>This mod can be used on public servers.</li>
   <li>No credit required.</li>
   <li>Modifications are allowed as long as you don't distribute it.</li>
   <li>Do not distribute for profit.</li>
