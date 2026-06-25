@@ -4,6 +4,7 @@ This is a live development repository - <a target="_blank" href="https://www.cur
 
 <h1>Documentation</h1>
 
+* This is a Modpack, not a Plugin. This may change in the future.
 * [Changelog](_Dev/Changelog.md) (may include upcoming release changes).
 * [Changelog Development](_Dev/Changelog_Development.md) Includes future content (IDs references mostly). Take this as reference rather than a release roadmap.
 * Game target version is shown on CurseForge.
