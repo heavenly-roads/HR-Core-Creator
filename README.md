@@ -4,7 +4,9 @@ This is a live development repository - <a target="_blank" href="https://www.cur
 
 <h1>Documentation</h1>
 
-* [Changelog](_Dev/Changelog.md) (may include current development changes).
+* This is a Modpack, not a Plugin. This may change in the future.
+* [Changelog](_Dev/Changelog.md) (may include upcoming release changes).
+* [Changelog Development](_Dev/Changelog_Development.md) Includes future content (IDs references mostly). Take this as reference rather than a release roadmap.
 * Game target version is shown on CurseForge.
 * Optional dependencies: <a target="_blank" href="https://www.curseforge.com/hytale/mods/hr-windmills">HR Windmills</a>, <a target="_blank" href="https://www.curseforge.com/hytale/mods/hr-core-prefabs">HR Core Prefabs</a>.
 * Supported languages: English, Spanish.
@@ -20,6 +22,20 @@ Goal is to maximize optimization using the smallest filesize without direct loss
 ### Extra resources and references
 
 This mod has some references (.lang files mostly) to non-included content which relies on a private mod (HR Creator Hub) for a private server project. Some of these assets will be added through time while others remains as highly experimental tests or non-public content as they are designed for a custom server environment.
+
+### IDs structure
+
+Basic IDs:
+
+`[Category]_[Type]_[Subtype?]_Color?]_[State?]`
+
+e.g. `Furniture_Carpet_Generic_Red` | `Deco_Chinese_Paper_Lantern_Round` | `Canvas_Painting2x3_Classic04`
+
+Complex IDs:
+
+`[Category]_[Type]_[Material?]_[Subtype?]_[Style?]_[State1?]_[Color?]_[State2?]`
+
+e.g. `Furniture_Window_Wood_Lattice_Ornate_Rounded` | `Deco_Sign_Wood_Generic04_Vertical_Side`
 
 <hr>
 
