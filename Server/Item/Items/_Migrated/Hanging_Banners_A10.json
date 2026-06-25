@@ -14,7 +14,7 @@
   "Parent": "Deco_Hanging_Banners_Generic01_Long",
   "BlockType": {
     "DrawType": "Model",
-    "CustomModel": "Items/Banners/Hanging_Banners_Large.blockymodel",
+    "CustomModel": "Items/Banners/Blocks/Hanging_Banners_Large.blockymodel",
     "CustomModelTexture": [
       {
         "Texture": "Items/Banners/Hanging_Banners_Generic_01.png"
@@ -22,5 +22,6 @@
     ],
     "HitboxType": "Hanging_Banners_Long10"
   },
-  "Quality": "Developer"
+  "Quality": "Developer",
+  "Scale": 1
 }
