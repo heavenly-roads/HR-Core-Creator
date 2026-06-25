@@ -213,11 +213,6 @@ Emitter_Water_Fountain_Large.name = Fuente de Agua - Grande
 Emitter_Smoke_Trail.name = Estela de Humo
 Emitter_Smoke_Trail_Small.name = Estela de Humo - Pequeña
 
-Use_Hammer_Color.description = Usa un <color is="#ffffff">Martillo</color> para cambiar el color.
-Use_Hammer_Appearance.description = Usa un <color is="#ffffff">Martillo</color> para cambiar el aspecto.
-Use_Hammer_Appearance_Creative.description =  Usa un <color is="#ffffff">Martillo</color> para cambiar el aspecto\no activa <color is="#ffffff">Mostrar Variantes</color> en el Menú Creativo.
-Use_Entity_Tool.description = Usa una <color is="#ffffff">Herramienta de Entidades</color> para colocar esto.
-
 Canvas_Painting_1x1_Generic.name = Pintura Sobre Lienzo 1x1
 Canvas_Painting_1x2_Generic.name = Pintura Sobre Lienzo 1x2
 Canvas_Painting_2x1_Generic.name = Pintura Sobre Lienzo 2x1
@@ -272,6 +267,11 @@ Decal_Arrow_Pink_Down.name = Flecha Rosa Abajo
 Decal_Arrow_Pink_Left.name = Flecha Rosa Izquierda
 Decal_Arrow_Pink_Right.name = Flecha Rosa Derecha
 Decal_Arrow_Pink_Up.name = Flecha Rosa Arriba
+
+Use_Hammer_Color.description = Usa el <color is="#ffffff">Martillo</color> para cambiar el color.
+Use_Hammer_Appearance.description = Usa el <color is="#ffffff">Martillo</color> para cambiar el aspecto.
+Use_Hammer_Appearance_Creative.description =  Usa el <color is="#ffffff">Martillo</color> para cambiar el aspecto\no activa <color is="#ffffff">Mostrar Variantes</color> en el Menú Creativo.
+Use_Entity_Tool.description = Usa la <color is="#ffffff">Herramienta de Entidades</color> para colocar esto.
 
 Info_Main.name = Información
 Info_Main.description = <color is="#ffffff">Este mod añade bloques, iluminación, decoraciones, elementos interactivos, efectos y extras para la creación de mundos, minijuegos y servidores.</color>\n\n<i>Creado con cariño por creadores para creadores.</i>\n~ <b>heavenly-roads</b>

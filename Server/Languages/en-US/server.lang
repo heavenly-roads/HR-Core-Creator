@@ -213,11 +213,6 @@ Emitter_Water_Fountain_Large.name = Water Fountain - Large
 Emitter_Smoke_Trail.name = Smoke Trail
 Emitter_Smoke_Trail_Small.name = Smoke Trail - Small
 
-Use_Hammer_Color.description = Use a <color is="#ffffff">Hammer</color> to change the color.
-Use_Hammer_Appearance.description = Use a <color is="#ffffff">Hammer</color> to change the appearance.
-Use_Hammer_Appearance_Creative.description = Use a <color is="#ffffff">Hammer</color> to change the appearance\nor toggle <color is="#ffffff">Show Variants</color> on Creative Menu.
-Use_Entity_Tool.description = Use a <color is="#ffffff">Entity Tool</color> to place this.
-
 Canvas_Painting_1x1_Generic.name = Canvas Painting 1x1
 Canvas_Painting_1x2_Generic.name = Canvas Painting 1x2
 Canvas_Painting_2x1_Generic.name = Canvas Painting 2x1
@@ -272,6 +267,11 @@ Decal_Arrow_Pink_Down.name = Pink Down Arrow
 Decal_Arrow_Pink_Left.name = Pink Left Arrow
 Decal_Arrow_Pink_Right.name = Pink Right Arrow
 Decal_Arrow_Pink_Up.name = Pink Up Arrow
+
+Use_Hammer_Color.description = Use the <color is="#ffffff">Hammer</color> to change the color.
+Use_Hammer_Appearance.description = Use the <color is="#ffffff">Hammer</color> to change the appearance.
+Use_Hammer_Appearance_Creative.description = Use the <color is="#ffffff">Hammer</color> to change the appearance\nor toggle <color is="#ffffff">Show Variants</color> on Creative Menu.
+Use_Entity_Tool.description = Use the <color is="#ffffff">Entity Tool</color> to place this.
 
 Info_Main.name = About
 Info_Main.description = <color is="#ffffff">This mod adds blocks, lighting, decoration, interactive elements, effects and extras for worlds, minigames and servers.</color>\n\n<i>Crafted with love by creators for creators.</i>\n~ <b>heavenly-roads</b>
