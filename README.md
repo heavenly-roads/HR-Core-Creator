@@ -1,6 +1,8 @@
-This is a live development repository - <a target="_blank" href="https://www.curseforge.com/hytale/mods/hr-core-creator/files/all"> releases are available on CurseForge</a>.
+<p align="center">
+  <img src="_Dev/CoreCreator_Header.png" />
+</p>
 
-<hr>
+This is a live development repository - <a target="_blank" href="https://www.curseforge.com/hytale/mods/hr-core-creator/files/all"> releases are available on CurseForge</a>.
 
 <h1>Documentation</h1>
 
