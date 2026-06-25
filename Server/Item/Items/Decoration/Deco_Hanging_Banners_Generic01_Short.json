@@ -24,6 +24,6 @@
   "Model": "Items/Banners/Hanging_Banners_Short.blockymodel",
   "Texture": "Items/Banners/Hanging_Banners_Generic_01.png",
   "DroppedItemAnimation": "Items/Animations/Dropped/Dropped_Diagonal_Left.blockyanim",
-  "Scale": 1,
+  "Scale": 2,
   "SubCategory": "Banners"
 }
