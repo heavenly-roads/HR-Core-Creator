@@ -129,6 +129,17 @@ Deco_Paper_Lantern_Blue.name = Farolillo de Papel Azul
 Deco_Paper_Lantern_Purple.name = Farolillo de Papel Morado
 Deco_Paper_Lantern_Pink.name = Farolillo de Papel Rosa
 
+Deco_String_Lights_Generic.name = Guirnalda de Luces Genérica
+Deco_String_Lights_Generic_Red.name = Guirnalda de Luces Roja
+Deco_String_Lights_Generic_Orange.name = Guirnalda de Luces Naranja
+Deco_String_Lights_Generic_Yellow.name = Guirnalda de Luces Amarilla
+Deco_String_Lights_Generic_Green.name = Guirnalda de Luces Verde
+Deco_String_Lights_Generic_Cyan.name = Guirnalda de Luces Cian
+Deco_String_Lights_Generic_Blue.name = Guirnalda de Luces Azul
+Deco_String_Lights_Generic_Purple.name = Guirnalda de Luces Morada
+Deco_String_Lights_Generic_White.name = Guirnalda de Luces Blanca
+Deco_String_Lights_Generic_Cream.name = Guirnalda de Luces Crema
+
 Cloth_Block_Pattern_Checked.name = Tela a Cuadros
 Cloth_Block_Pattern_Striped.name = Tela a Rayas
 

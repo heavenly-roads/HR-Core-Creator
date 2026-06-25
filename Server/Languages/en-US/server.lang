@@ -129,6 +129,17 @@ Deco_Paper_Lantern_Blue.name = Blue Paper Lantern
 Deco_Paper_Lantern_Purple.name = Purple Paper Lantern
 Deco_Paper_Lantern_Pink.name = Pink Paper Lantern
 
+Deco_String_Lights_Generic.name = Generic String Lights
+Deco_String_Lights_Generic_Red.name = Red String Lights
+Deco_String_Lights_Generic_Orange.name = Orange String Lights
+Deco_String_Lights_Generic_Yellow.name = Yellow String Lights
+Deco_String_Lights_Generic_Green.name = Green String Lights
+Deco_String_Lights_Generic_Cyan.name = Cyan String Lights
+Deco_String_Lights_Generic_Blue.name = Blue String Lights
+Deco_String_Lights_Generic_Purple.name = Purple String Lights
+Deco_String_Lights_Generic_White.name = White String Lights
+Deco_String_Lights_Generic_Cream.name = Cream String Lights
+
 Cloth_Block_Pattern_Checked.name = Checked Cloth
 Cloth_Block_Pattern_Striped.name = Striped Cloth
 
