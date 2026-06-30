@@ -51,6 +51,10 @@
 * Added `Items` category.
 * `Weapons` and `Food` are now subcategories of `Items`.
 
+#### Changes
+
+* Improved particle effects for smoke trails.
+
 ---
 
 # 0.10

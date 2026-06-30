@@ -46,7 +46,8 @@
             "Min": 0.7,
             "Max": 0.7
           }
-        }
+        },
+        "Color": "#a4a4a4"
       },
       "100": {
         "Color": "#ffffff",
@@ -99,5 +100,13 @@
     }
   },
   "CameraOffset": -1,
-  "LinearFiltering": false
+  "LinearFiltering": false,
+  "UVMotion": {
+    "Texture": "Particles/Textures/UVMotion/FlowMapSmoke.png",
+    "SpeedY": 0.25,
+    "Scale": 1,
+    "Strength": 5,
+    "SpeedX": 0.12,
+    "AddRandomUVOffset": true
+  }
 }
