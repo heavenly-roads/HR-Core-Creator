@@ -3,7 +3,7 @@
     {
       "id": "1",
       "name": "base",
-      "position": {"x": 0.2, "y": -0.6, "z": 0},
+      "position": {"x": 0, "y": 0, "z": 0},
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
       "shape": {
         "type": "none",
@@ -22,7 +22,7 @@
         {
           "id": "2",
           "name": "section1",
-          "position": {"x": 60.8, "y": -18.4, "z": 0},
+          "position": {"x": 61, "y": -19, "z": 0},
           "orientation": {"x": 0, "y": 0, "z": -0.08281, "w": 0.99657},
           "shape": {
             "type": "box",
@@ -40,8 +40,8 @@
               },
               "right": {
                 "offset": {"x": 0, "y": 2},
-                "mirror": {"x": false, "y": false},
-                "angle": 270
+                "mirror": {"x": true, "y": true},
+                "angle": 90
               },
               "front": {
                 "offset": {"x": 0, "y": 0},
@@ -50,8 +50,8 @@
               },
               "left": {
                 "offset": {"x": 0, "y": 2},
-                "mirror": {"x": false, "y": false},
-                "angle": 270
+                "mirror": {"x": true, "y": true},
+                "angle": 90
               },
               "top": {
                 "offset": {"x": 0, "y": 0},
@@ -131,7 +131,7 @@
         {
           "id": "5",
           "name": "section4",
-          "position": {"x": -2.2, "y": 0.6, "z": 0},
+          "position": {"x": -2, "y": 0, "z": 0},
           "orientation": {"x": 0, "y": 0, "z": -0.14781, "w": 0.98902},
           "shape": {
             "type": "box",
@@ -149,8 +149,8 @@
               },
               "right": {
                 "offset": {"x": 0, "y": 2},
-                "mirror": {"x": false, "y": false},
-                "angle": 270
+                "mirror": {"x": true, "y": true},
+                "angle": 90
               },
               "front": {
                 "offset": {"x": 0, "y": 0},
@@ -159,8 +159,8 @@
               },
               "left": {
                 "offset": {"x": 0, "y": 2},
-                "mirror": {"x": false, "y": false},
-                "angle": 270
+                "mirror": {"x": true, "y": true},
+                "angle": 90
               },
               "top": {
                 "offset": {"x": 0, "y": 0},
@@ -212,7 +212,7 @@
         {
           "id": "7",
           "name": "section5",
-          "position": {"x": 316.8, "y": 0.6, "z": 0},
+          "position": {"x": 317, "y": 0, "z": 0},
           "orientation": {"x": 0.14781, "y": -0.98902, "z": 0, "w": 0},
           "shape": {
             "type": "box",
@@ -230,8 +230,8 @@
               },
               "right": {
                 "offset": {"x": 0, "y": 2},
-                "mirror": {"x": false, "y": false},
-                "angle": 270
+                "mirror": {"x": true, "y": true},
+                "angle": 90
               },
               "front": {
                 "offset": {"x": 0, "y": 0},
@@ -240,8 +240,8 @@
               },
               "left": {
                 "offset": {"x": 0, "y": 2},
-                "mirror": {"x": false, "y": false},
-                "angle": 270
+                "mirror": {"x": true, "y": true},
+                "angle": 90
               },
               "top": {
                 "offset": {"x": 0, "y": 0},
@@ -293,7 +293,7 @@
         {
           "id": "9",
           "name": "section3",
-          "position": {"x": 125.8, "y": -29.4, "z": 0},
+          "position": {"x": 126, "y": -30, "z": 0},
           "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
           "shape": {
             "type": "box",
@@ -311,8 +311,8 @@
               },
               "right": {
                 "offset": {"x": 0, "y": 2},
-                "mirror": {"x": false, "y": false},
-                "angle": 270
+                "mirror": {"x": true, "y": true},
+                "angle": 90
               },
               "front": {
                 "offset": {"x": 0, "y": 0},
@@ -321,8 +321,8 @@
               },
               "left": {
                 "offset": {"x": 0, "y": 2},
-                "mirror": {"x": false, "y": false},
-                "angle": 270
+                "mirror": {"x": true, "y": true},
+                "angle": 90
               },
               "top": {
                 "offset": {"x": 0, "y": 0},
@@ -402,7 +402,7 @@
         {
           "id": "12",
           "name": "section2",
-          "position": {"x": 253.8, "y": -18.4, "z": 0},
+          "position": {"x": 254, "y": -19, "z": 0},
           "orientation": {"x": 0.08281, "y": -0.99657, "z": 0, "w": 0},
           "shape": {
             "type": "box",
@@ -420,8 +420,8 @@
               },
               "right": {
                 "offset": {"x": 0, "y": 2},
-                "mirror": {"x": false, "y": false},
-                "angle": 270
+                "mirror": {"x": true, "y": true},
+                "angle": 90
               },
               "front": {
                 "offset": {"x": 0, "y": 0},
@@ -430,8 +430,8 @@
               },
               "left": {
                 "offset": {"x": 0, "y": 2},
-                "mirror": {"x": false, "y": false},
-                "angle": 270
+                "mirror": {"x": true, "y": true},
+                "angle": 90
               },
               "top": {
                 "offset": {"x": 0, "y": 0},
