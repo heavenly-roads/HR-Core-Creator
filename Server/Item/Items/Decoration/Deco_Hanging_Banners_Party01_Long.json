@@ -1,12 +1,4 @@
 {
-  "BlockType": {
-    "Parent": "Deco_Hanging_Banners_Generic01_Long",
-    "CustomModelTexture": [
-      {
-        "Texture": "Blocks/Decoration/Hanging_Banners_Party_01.png"
-      }
-    ]
-  },
   "IconProperties": {
     "Scale": 0.12,
     "Rotation": [

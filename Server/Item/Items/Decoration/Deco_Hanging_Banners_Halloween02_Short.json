@@ -1,12 +1,4 @@
 {
-  "BlockType": {
-    "CustomModelTexture": [
-      {
-        "Texture": "Blocks/Decoration/Hanging_Banners_Halloween_02.png"
-      }
-    ],
-    "Parent": "Deco_Hanging_Banners_Generic01_Short"
-  },
   "IconProperties": {
     "Scale": 0.25,
     "Rotation": [
