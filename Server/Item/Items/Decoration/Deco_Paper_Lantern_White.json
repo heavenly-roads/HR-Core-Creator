@@ -1,0 +1,109 @@
+{
+  "Icon": "Icons/ItemsGenerated/Deco_Paper_Lantern_White.png",
+  "Categories": [
+    "HR_CoreCreator.Lighting"
+  ],
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Decoration/Lamps/Deco_Paper_Lantern_White_On.png",
+        "Weight": 1
+      }
+    ],
+    "HitboxType": "Lamp_Top_Short",
+    "Light": {
+      "Radius": 0,
+      "Color": "#765"
+    },
+    "Flags": {},
+    "Gathering": {
+      "Soft": {}
+    },
+    "BlockParticleSetId": "Dust",
+    "BlockSoundSetId": "Cloth",
+    "PhysicalMaterialId": "Cloth",
+    "CustomModel": "Blocks/Decoration/Lamps/Deco_Paper_Lantern_On.blockymodel",
+    "Interactions": {
+      "Use": {
+        "Interactions": [
+          {
+            "Type": "ChangeState",
+            "Changes": {
+              "default": "Off",
+              "On": "Off",
+              "Off": "On"
+            }
+          }
+        ]
+      }
+    },
+    "State": {
+      "Definitions": {
+        "On": {
+          "CustomModelTexture": [
+            {
+              "Texture": "Blocks/Decoration/Lamps/Deco_Paper_Lantern_White_On.png"
+            }
+          ],
+          "CustomModel": "Blocks/Decoration/Lamps/Deco_Paper_Lantern_On.blockymodel"
+        },
+        "Off": {
+          "InteractionHint": "server.interactionHints.turnon",
+          "Light": null,
+          "Particles": null,
+          "InteractionSoundEventId": "SFX_Torch_Off",
+          "AmbientSoundEventId": null,
+          "CustomModelAnimation": "Blocks/Animations/Light/Light_Off.blockyanim",
+          "CustomModelTexture": [
+            {
+              "Texture": "Blocks/Decoration/Lamps/Deco_Paper_Lantern_White_Off.png"
+            }
+          ],
+          "CustomModel": "Blocks/Decoration/Lamps/Deco_Paper_Lantern_Off.blockymodel"
+        }
+      }
+    },
+    "InteractionHint": "server.interactionHints.turnoff",
+    "CubeShadingMode": "Standard",
+    "Support": {
+      "Up": [
+        {
+          "FaceType": "Full",
+          "Support": "Required"
+        },
+        {
+          "FaceType": "Branch"
+        },
+        {
+          "FaceType": "Rope"
+        }
+      ]
+    },
+    "RandomRotation": "YawStep1"
+  },
+  "PlayerAnimationsId": "Item",
+  "ItemSoundSetId": "ISS_Items_Paper",
+  "Interactions": {
+    "Secondary": {
+      "Parent": "Block_Secondary"
+    }
+  },
+  "IconProperties": {
+    "Scale": 0.9,
+    "Rotation": [
+      24,
+      32,
+      14
+    ],
+    "Translation": [
+      -0.5,
+      -16
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "server.Deco_Paper_Lantern_White.name"
+  }
+}

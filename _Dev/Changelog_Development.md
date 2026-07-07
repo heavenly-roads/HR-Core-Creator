@@ -12,6 +12,8 @@ Sanitized and compressed textures.
 * `Deco_Anvil`
 * `Deco_Bottles`
 * `Deco_Bottles_Tavern`
+* `Deco_Candles01`
+* `Deco_Candles02`
 * `Deco_Package_Small`
 * `Deco_Package_Medium`
 * `Deco_Package_Large`
@@ -69,15 +71,3 @@ Sanitized and compressed textures.
 * `Deco_Sign_Wood_Generic06`
 * `Deco_Sign_Wood_Generic06_Vertical`
 * `Deco_Sign_Wood_Generic06_Vertical_Side`
-
-# 0.X
-
-#### New Lighting
-
-* `Deco_Paper_Lantern_White`
-* `Deco_Paper_Lantern_Red`
-* `Deco_Paper_Lantern_Yellow`
-
-#### New Decorations
-
-* `Furniture_Carpet_Octagonal_Royale`

@@ -1,0 +1,58 @@
+{
+  "BlockType": {
+    "DrawType": "Model",
+    "CustomModel": "Blocks/Furniture/Carpets/Carpet_Octagonal.blockymodel",
+    "Group": "Cloth",
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Carpets/Carpet_Octagonal_Royale.png"
+      }
+    ],
+    "HitboxType": "Carpet_Octagonal",
+    "Material": "Solid",
+    "Opacity": "Transparent",
+    "BlockParticleSetId": "Grass",
+    "Gathering": {
+      "Soft": {}
+    },
+    "BlockSoundSetId": "Cloth",
+    "PhysicalMaterialId": "Wool",
+    "ParticleColor": "#7e1919",
+    "Support": {
+      "Down": [
+        {
+          "FaceType": "Full",
+          "Support": "Required"
+        }
+      ]
+    }
+  },
+  "Interactions": {
+    "Primary": "Block_Primary",
+    "Secondary": "Block_Secondary"
+  },
+  "Categories": [
+    "HR_CoreCreator.Decoration"
+  ],
+  "PlayerAnimationsId": "Item",
+  "ItemSoundSetId": "ISS_Items_Cloth",
+  "Quality": "Template",
+  "IconProperties": {
+    "Scale": 0.26,
+    "Rotation": [
+      22.5,
+      49,
+      24
+    ],
+    "Translation": [
+      -22.5,
+      0
+    ]
+  },
+  "Tags": {
+    "Type": [
+      "Furniture"
+    ]
+  },
+  "SubCategory": "Carpets"
+}

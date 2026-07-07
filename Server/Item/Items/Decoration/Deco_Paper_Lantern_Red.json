@@ -1,0 +1,57 @@
+{
+  "Icon": "Icons/ItemsGenerated/Deco_Paper_Lantern_Red.png",
+  "BlockType": {
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Decoration/Lamps/Deco_Paper_Lantern_Red_On.png"
+      }
+    ],
+    "Light": {
+      "Color": "#722"
+    },
+    "State": {
+      "Definitions": {
+        "On": {
+          "CustomModelTexture": [
+            {
+              "Texture": "Blocks/Decoration/Lamps/Deco_Paper_Lantern_Red_On.png"
+            }
+          ],
+          "CustomModel": "Blocks/Decoration/Lamps/Deco_Paper_Lantern_On.blockymodel"
+        },
+        "Off": {
+          "InteractionHint": "server.interactionHints.turnon",
+          "Light": null,
+          "Particles": null,
+          "InteractionSoundEventId": "SFX_Torch_Off",
+          "AmbientSoundEventId": null,
+          "CustomModelAnimation": "Blocks/Animations/Light/Light_Off.blockyanim",
+          "CustomModelTexture": [
+            {
+              "Texture": "Blocks/Decoration/Lamps/Deco_Paper_Lantern_Red_Off.png"
+            }
+          ],
+          "CustomModel": "Blocks/Decoration/Lamps/Deco_Paper_Lantern_Off.blockymodel"
+        }
+      }
+    },
+    "CubeShadingMode": "Standard",
+    "Parent": "Deco_Paper_Lantern_White"
+  },
+  "IconProperties": {
+    "Scale": 0.9,
+    "Rotation": [
+      24,
+      32,
+      14
+    ],
+    "Translation": [
+      -0.5,
+      -16
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "server.Deco_Paper_Lantern_Red.name"
+  },
+  "Parent": "Deco_Paper_Lantern_White"
+}

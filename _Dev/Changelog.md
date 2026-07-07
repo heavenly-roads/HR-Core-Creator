@@ -1,3 +1,17 @@
+# 0.12
+
+#### New Lighting
+
+* `Deco_Paper_Lantern_White`
+* `Deco_Paper_Lantern_Red`
+* `Deco_Paper_Lantern_Yellow`
+
+#### New Decorations
+
+* `Furniture_Carpet_Octagonal_Royale`
+
+---
+
 # 0.11
 
 #### New Blocks
