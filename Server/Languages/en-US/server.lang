@@ -17,11 +17,6 @@ Block_Stripes_Safe_Arrow.name = Arrow Safe Stripes Block
 Block_Stripes_Warning_Diagonal.name = Diagonal Warning Stripes Block
 Block_Stripes_Warning_Arrow.name = Arrow Warning Stripes Block
 
-Rock_Labyrinth.name = Labyrinth Block
-Rock_Labyrinth_Reinforced.name = Labyrinth Block - Reinforced
-Rock_Labyrinth_Trim.name = Labyrinth Block - Trim
-Rock_Labyrinth_Trim_Ornate.name = Labyrinth Block - Ornate Trim
-
 Window_Glass_Stained_Colorful.name = Colorful Stained Glass Window
 Window_Glass_Stained_Colorful_Arc.name = Colorful Arched Stained Glass Window
 Window_Glass_Stained_Blue.name = Blue Stained Glass Window

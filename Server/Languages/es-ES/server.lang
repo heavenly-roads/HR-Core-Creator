@@ -17,11 +17,6 @@ Block_Stripes_Safe_Arrow.name = Bloque de Franjas de Zona Segura en Flecha
 Block_Stripes_Warning_Diagonal.name = Bloque de Franjas de Advertencia Diagonales
 Block_Stripes_Warning_Arrow.name = Bloque de Franjas de Advertencia en Flecha
 
-Rock_Labyrinth.name = Bloque de Laberinto
-Rock_Labyrinth_Reinforced.name = Bloque de Laberinto - Reforzado
-Rock_Labyrinth_Trim.name = Bloque de Laberinto - Moldura
-Rock_Labyrinth_Trim_Ornate.name = Bloque de Laberinto - Moldura Ornamentada
-
 Window_Glass_Stained_Colorful.name = Ventana de Vidrio Tintado Multicolor
 Window_Glass_Stained_Colorful_Arc.name = Ventana de Vidrio Tintado Multicolor Arqueada
 Window_Glass_Stained_Blue.name = Ventana de Vidrio Tintado Azul
