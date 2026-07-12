@@ -27,10 +27,16 @@
           "Order": 10
         },
         {
+          "Id": "Doors",
+          "Name": "categories.subcategory.doors.name",
+          "Description": "",
+          "Order": 20
+        },
+        {
           "Id": "Windows",
           "Name": "categories.subcategory.windows.name",
           "Description": "",
-          "Order": 20
+          "Order": 30
         }
       ]
     },

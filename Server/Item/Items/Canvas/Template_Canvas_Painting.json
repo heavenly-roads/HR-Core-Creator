@@ -30,7 +30,8 @@
         }
       ]
     },
-    "ParticleColor": "#5b3222"
+    "ParticleColor": "#5b3222",
+    "CubeShadingMode": "Standard"
   },
   "PlayerAnimationsId": "Block",
   "IconProperties": {

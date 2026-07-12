@@ -30,7 +30,7 @@
     ],
     "DrawType": "Model",
     "Material": "Solid",
-    "Opacity": "Transparent",
+    "Opacity": "Semitransparent",
     "ParticleColor": "#793e21",
     "Support": {
       "North": [

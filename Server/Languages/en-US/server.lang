@@ -92,6 +92,7 @@ Hanging_Banners_Party.name = Party Hanging Banners
 Notice_Board.name = Notice Board
 Notice_Board_Small.name = Notice Board - Small
 Notice_Board_Wall.name = Notice Board - Wall
+Paint_Brush.name = Paint Brush
 Paint_Bucket_Red.name = Red Paint Bucket
 Paint_Bucket_Yellow.name = Yellow Paint Bucket
 Paint_Bucket_Green.name = Green Paint Bucket
@@ -102,6 +103,7 @@ Poster_Wall_Arcade.name = Poster Wall - Arcade
 Toolbox.name = Toolbox
 
 Deco_Backpack_Big.name = Big Backpack
+Deco_Backpack_Large.name = Large Backpack
 Deco_Backpack_Medium.name = Medium Backpack
 Deco_Chinese_Paper_Lantern_Thin.name = Thin Chinese Paper Lantern
 Deco_Chinese_Paper_Lantern_Round.name = Round Chinese Paper Lantern

@@ -9,6 +9,7 @@ itemcategory.effects = Effects
 itemcategory.experimental = Experimental
 itemcategory.customizable = Customizable
 
+subcategory.doors.name = Doors
 subcategory.windows.name = Windows
 subcategory.furniture.name = Furniture
 subcategory.cloth.name = Cloth

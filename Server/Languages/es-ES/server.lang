@@ -92,6 +92,7 @@ Hanging_Banners_Party.name = Banderolas de Fiesta
 Notice_Board.name = Tablón de Anuncios
 Notice_Board_Small.name = Tablón de Anuncios - Pequeño
 Notice_Board_Wall.name = Tablón de Anuncios - Pared
+Paint_Brush.name = Brocha de Pintura
 Paint_Bucket_Red.name = Bote de Pintura Roja
 Paint_Bucket_Yellow.name = Bote de Pintura Amarilla
 Paint_Bucket_Green.name = Bote de Pintura Verde
@@ -102,6 +103,7 @@ Poster_Wall_Arcade.name = Póster de Pared - Arcade
 Toolbox.name = Caja de Herramientas
 
 Deco_Backpack_Big.name = Mochila Grande
+Deco_Backpack_Large.name = Mochila Enorme
 Deco_Backpack_Medium.name = Mochila Mediana
 Deco_Chinese_Paper_Lantern_Thin.name = Farolillo Chino de Papel Estrecho
 Deco_Chinese_Paper_Lantern_Round.name = Farolillo Chino de Papel Redondo

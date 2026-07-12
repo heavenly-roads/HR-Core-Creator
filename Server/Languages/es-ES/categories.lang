@@ -9,6 +9,7 @@ itemcategory.effects = Efectos
 itemcategory.experimental = Experimental
 itemcategory.customizable = Personalizable
 
+subcategory.doors.name = Puertas
 subcategory.windows.name = Ventanas
 subcategory.furniture.name = Muebles
 subcategory.cloth.name = Telas
