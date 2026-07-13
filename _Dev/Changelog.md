@@ -8,7 +8,7 @@
 
 #### New Decorations
 
-* `Furniture_Carpet_Octagonal_Royale`
+* `Furniture_Carpet_Octagonal_Royal`
 
 ---
 

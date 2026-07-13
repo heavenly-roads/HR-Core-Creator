@@ -5,7 +5,7 @@
     "Group": "Cloth",
     "CustomModelTexture": [
       {
-        "Texture": "Resources/Carpets/Carpet_Octagonal_Royale.png"
+        "Texture": "Resources/Carpets/Carpet_Octagonal_Royal.png"
       }
     ],
     "HitboxType": "Carpet_Octagonal",

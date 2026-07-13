@@ -84,7 +84,9 @@ Lamp_Neon_Pole_Pink.name = Pink Neon Lamp Pole
 Anvil.name = Anvil
 Bottles.name = Bottles
 Bottles_Tavern.name = Tavern Bottles
+Cactus.name = Cactus
 Candles.name = Candles
+Computer.name = Computer
 Construction_Sign_Middle.name = Construction Sign - Middle
 Hanging_Banners_Generic.name = Generic Hanging Banners
 Hanging_Banners_Halloween.name = Halloween Hanging Banners
@@ -162,7 +164,7 @@ Furniture_Carpet_Basic_Gold.name = Gold Basic Carpet
 
 Furniture_Carpet_Octagonal_Ice.name = Ice Carpet
 Furniture_Carpet_Octagonal_Magic.name = Magic Carpet
-Furniture_Carpet_Octagonal_Royale.name = Royale Carpet
+Furniture_Carpet_Octagonal_Royal.name = Royal Carpet
 
 Sign_Arcade.name = Arcade Sign
 Sign_Bar.name = Bar Sign

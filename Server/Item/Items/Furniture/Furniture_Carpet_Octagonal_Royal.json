@@ -2,7 +2,7 @@
   "BlockType": {
     "CustomModelTexture": [
       {
-        "Texture": "Resources/Carpets/Carpet_Octagonal_Royale.png"
+        "Texture": "Resources/Carpets/Carpet_Octagonal_Royal.png"
       }
     ],
     "ParticleColor": "#912121",
@@ -26,7 +26,7 @@
   },
   "Parent": "Template_Furniture_Carpet_Octagonal",
   "TranslationProperties": {
-    "Name": "server.Furniture_Carpet_Octagonal_Royale.name"
+    "Name": "server.Furniture_Carpet_Octagonal_Royal.name"
   },
-  "Icon": "Icons/ItemsGenerated/Furniture_Carpet_Octagonal_Royale.png"
+  "Icon": "Icons/ItemsGenerated/Furniture_Carpet_Octagonal_Royal.png"
 }
