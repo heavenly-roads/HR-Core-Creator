@@ -162,9 +162,9 @@ Furniture_Carpet_Basic_Teal.name = Alfombra Básica Turquesa
 Furniture_Carpet_Basic_Lavender.name = Alfombra Básica Lavanda
 Furniture_Carpet_Basic_Gold.name = Alfombra Básica Dorada
 
-Furniture_Carpet_Octagonal_Ice.name = Alfombra de Hielo
-Furniture_Carpet_Octagonal_Magic.name = Alfombra Mágica
-Furniture_Carpet_Octagonal_Royal.name = Alfombra Real
+Furniture_Carpet_Octagon_Ice.name = Alfombra de Hielo Octagonal
+Furniture_Carpet_Octagon_Magic.name = Alfombra Mágica Octagonal
+Furniture_Carpet_Octagon_Royal.name = Alfombra Real Octagonal
 
 Sign_Arcade.name = Cartel de Arcade
 Sign_Bar.name = Cartel de Bar

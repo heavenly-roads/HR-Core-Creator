@@ -1,14 +1,14 @@
 {
   "BlockType": {
     "DrawType": "Model",
-    "CustomModel": "Blocks/Furniture/Carpets/Carpet_Octagonal.blockymodel",
+    "CustomModel": "Blocks/Furniture/Carpets/Carpet_Octagon.blockymodel",
     "Group": "Cloth",
     "CustomModelTexture": [
       {
-        "Texture": "Resources/Carpets/Carpet_Octagonal_Royal.png"
+        "Texture": "Resources/Carpets/Carpet_Octagon_Royal.png"
       }
     ],
-    "HitboxType": "Carpet_Octagonal",
+    "HitboxType": "Carpet_Octagon",
     "Material": "Solid",
     "Opacity": "Transparent",
     "BlockParticleSetId": "Grass",
