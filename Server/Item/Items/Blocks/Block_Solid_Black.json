@@ -16,7 +16,7 @@
         "All": "BlockTextures/Solid_Black.png"
       }
     ],
-    "CubeShadingMode": "Flat",
+    "CubeShadingMode": "Fullbright",
     "ParticleColor": "#000000",
     "BlockSoundSetId": "Stone",
     "BlockParticleSetId": "Stone"
