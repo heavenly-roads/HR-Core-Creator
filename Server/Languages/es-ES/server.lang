@@ -103,7 +103,6 @@ Plant_Pots.name = Macetas
 Poster_Wall.name = Póster de Pared
 Poster_Wall_Capital.name = Póster de Pared - Capital
 Poster_Wall_Arcade.name = Póster de Pared - Arcade
-Table_Basic.name = Mesa Básica
 Toolbox.name = Caja de Herramientas
 
 Deco_Backpack_Big.name = Mochila Grande
@@ -163,10 +162,10 @@ Furniture_Carpet_Basic_Salmon.name = Alfombra Básica Salmón
 Furniture_Carpet_Basic_Teal.name = Alfombra Básica Turquesa
 Furniture_Carpet_Basic_Lavender.name = Alfombra Básica Lavanda
 Furniture_Carpet_Basic_Gold.name = Alfombra Básica Dorada
-
 Furniture_Carpet_Octagon_Ice.name = Alfombra de Hielo Octagonal
 Furniture_Carpet_Octagon_Magic.name = Alfombra Mágica Octagonal
 Furniture_Carpet_Octagon_Royal.name = Alfombra Real Octagonal
+Furniture_Table_Basic.name = Mesa Básica
 
 Sign_Arcade.name = Cartel de Arcade
 Sign_Bar.name = Cartel de Bar

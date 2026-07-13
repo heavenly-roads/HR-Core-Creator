@@ -103,7 +103,6 @@ Plant_Pots.name = Pots
 Poster_Wall.name = Poster Wall
 Poster_Wall_Capital.name = Poster Wall - Capital
 Poster_Wall_Arcade.name = Poster Wall - Arcade
-Table_Basic.name = Basic Table
 Toolbox.name = Toolbox
 
 Deco_Backpack_Big.name = Big Backpack
@@ -163,10 +162,10 @@ Furniture_Carpet_Basic_Salmon.name = Salmon Basic Carpet
 Furniture_Carpet_Basic_Teal.name = Teal Basic Carpet
 Furniture_Carpet_Basic_Lavender.name = Lavender Basic Carpet
 Furniture_Carpet_Basic_Gold.name = Gold Basic Carpet
-
 Furniture_Carpet_Octagon_Ice.name = Octagonal Ice Carpet
 Furniture_Carpet_Octagon_Magic.name = Octagonal Magic Carpet
 Furniture_Carpet_Octagon_Royal.name = Octagonal Royal Carpet
+Furniture_Table_Basic.name = Basic Table
 
 Sign_Arcade.name = Arcade Sign
 Sign_Bar.name = Bar Sign
