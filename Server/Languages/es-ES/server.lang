@@ -169,6 +169,7 @@ Furniture_Table_Basic.name = Mesa Básica
 
 Sign_Arcade.name = Cartel de Arcade
 Sign_Bar.name = Cartel de Bar
+Sign_Danger.name = Cartel de Peligro
 Sign_Generic.name = Cartel Genérico
 Sign_Monster_Store.name = Cartel de Monstruoteca
 Sign_Store.name = Cartel de Tienda

@@ -169,6 +169,7 @@ Furniture_Table_Basic.name = Basic Table
 
 Sign_Arcade.name = Arcade Sign
 Sign_Bar.name = Bar Sign
+Sign_Danger.name = Danger Sign
 Sign_Generic.name = Generic Sign
 Sign_Monster_Store.name = Monster Store
 Sign_Store.name = Store Sign
