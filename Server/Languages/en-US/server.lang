@@ -104,6 +104,7 @@ Poster_Wall.name = Poster Wall
 Poster_Wall_Capital.name = Poster Wall - Capital
 Poster_Wall_Arcade.name = Poster Wall - Arcade
 Toolbox.name = Toolbox
+Vending_Machine.name = Vending Machine
 
 Deco_Backpack_Big.name = Big Backpack
 Deco_Backpack_Large.name = Large Backpack
