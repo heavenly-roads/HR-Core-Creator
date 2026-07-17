@@ -25,6 +25,7 @@ subcategory.weapons.name = Weapons
 subcategory.food.name = Food
 subcategory.utilities.name = Utilities
 subcategory.loot.name = Loot containers
+subcategory.dispensers.name = Dispensers
 subcategory.explosives.name = Explosives
 subcategory.portals.name = Portals
 subcategory.general.name = General

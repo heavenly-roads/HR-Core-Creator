@@ -183,15 +183,21 @@
           "Description": ""
         },
         {
+          "Name": "categories.subcategory.dispensers.name",
+          "Description": "",
+          "Id": "Dispensers",
+          "Order": 3
+        },
+        {
           "Id": "Portals",
           "Name": "categories.subcategory.portals.name",
-          "Order": 3,
+          "Order": 4,
           "Description": ""
         },
         {
           "Id": "Utilities",
           "Name": "categories.subcategory.utilities.name",
-          "Order": 4,
+          "Order": 5,
           "Description": ""
         }
       ]
