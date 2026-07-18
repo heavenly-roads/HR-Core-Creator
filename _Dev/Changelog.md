@@ -1,4 +1,4 @@
-# 0.12 (upcoming)
+# 0.12
 
 #### New Lighting
 
