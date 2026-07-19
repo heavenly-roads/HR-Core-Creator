@@ -1,6 +1,7 @@
 {
   "TranslationProperties": {
-    "Name": "server.Currency_Pile_Coin_Medium.name"
+    "Name": "server.Currency_Pile_Coin_Medium.name",
+    "Description": "server.Decoration_Generic.description"
   },
   "BlockType": {
     "DrawType": "Model",

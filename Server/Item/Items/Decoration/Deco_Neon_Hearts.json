@@ -48,7 +48,8 @@
     "HR_CoreCreator.Decoration"
   ],
   "TranslationProperties": {
-    "Name": "server.Deco_Neon_Hearts.name"
+    "Name": "server.Deco_Neon_Hearts.name",
+    "Description": "server.Decoration_Generic.description"
   },
   "SubCategory": "Neon"
 }

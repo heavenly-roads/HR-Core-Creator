@@ -1,9 +1,13 @@
+<<<<<<< HEAD
 # 0.13 (upcoming)
 
 #### Changes
 
+* Added general description for decoration items.
 * Neon decorations are soft blocks now.
 
+=======
+>>>>>>> 451492973edd46393295586f37a3d682f8317bee
 # 0.12
 
 #### New Lighting

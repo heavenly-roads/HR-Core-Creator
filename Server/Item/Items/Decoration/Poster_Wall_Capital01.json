@@ -1,6 +1,7 @@
 {
   "TranslationProperties": {
-    "Name": "server.Poster_Wall_Capital.name"
+    "Name": "server.Poster_Wall_Capital.name",
+    "Description": "server.Decoration_Generic.description"
   },
   "PlayerAnimationsId": "Block",
   "Categories": [
