@@ -1,4 +1,10 @@
-# 0.12 (upcoming)
+# 0.13 (upcoming)
+
+#### Changes
+
+* Neon decorations are soft blocks now.
+
+# 0.12
 
 #### New Lighting
 

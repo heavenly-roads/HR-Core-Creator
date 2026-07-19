@@ -25,7 +25,10 @@
     },
     "CustomModel": "Blocks/Deco_Neon.blockymodel",
     "Material": "Empty",
-    "Opacity": "Transparent"
+    "Opacity": "Transparent",
+    "Gathering": {
+      "Soft": {}
+    }
   },
   "PlayerAnimationsId": "Block",
   "Icon": "Icons/ItemsGenerated/Deco_Neon_Hearts.png",

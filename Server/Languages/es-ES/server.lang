@@ -179,6 +179,8 @@ Currency_Pile_Coin_Small.name = Montón de Monedas Pequeño
 Currency_Pile_Coin_Medium.name = Montón de Monedas Mediano
 Currency_Pile_Coin_Large.name = Montón de Monedas Grande
 
+# === food ===
+
 Food_Cake_Birthday_Classic_Cream.name = Tarta de Cumpleaños Clásica - Crema
 Food_Cake_Birthday_Classic_Mocha.name = Tarta de Cumpleaños Clásica - Moca
 Food_Cake_Birthday_Classic_Strawberry.name = Tarta de Cumpleaños Clásica - Fresa
@@ -192,8 +194,12 @@ Food_Ice_Cream_Classic_Blue_Moon.name = Helado Clásico - Luna Azul
 Food_Ice_Cream_Classic_Triple_Flavor.name = Helado Clásico - Triple Sabor
 Food_Ice_Cream.description = El tentempié perfecto para los días calurosos.
 
+# === weapons ===
+
 Snowball.name = Bola de Nieve
 Bomb.name = Bomba
+
+# === interactive ===
 
 Explosive_Dynamite.name = Dinamita
 Explosive_Dynamite_Barrel.name = Barril de Dinamita
@@ -206,6 +212,8 @@ Bounce_Pad_Large.name = Colchoneta de Rebote - Grande
 Interactive_Die.name = Dado
 Interactive_Die.description = ...
 
+# === emiters ===
+
 Emitter_Fireworks_Mix1.name = Fuegos Artificiales - Conjunto 1
 Emitter_Fireworks_Mix2.name = Fuegos Artificiales - Conjunto 2
 Emitter_Fireworks_Mix3.name = Fuegos Artificiales - Conjunto 3
@@ -216,6 +224,8 @@ Emitter_Water_Fountain_Large.name = Fuente de Agua - Grande
 Emitter_Smoke_Trail.name = Estela de Humo
 Emitter_Smoke_Trail_Small.name = Estela de Humo - Pequeña
 
+# === canvas ===
+
 Canvas_Painting_1x1_Generic.name = Pintura Sobre Lienzo 1x1
 Canvas_Painting_1x2_Generic.name = Pintura Sobre Lienzo 1x2
 Canvas_Painting_2x1_Generic.name = Pintura Sobre Lienzo 2x1
@@ -225,6 +235,8 @@ Canvas_Painting_2x3.name = Pintura Sobre Lienzo 2x3
 Canvas_Painting_2x3_Generic_Classic.name = Pintura Clásica (2x3)
 Canvas_Painting_3x2.name = Pintura Sobre Lienzo 3x2
 Canvas_Painting_3x2_Generic_Classic.name = Pintura Clásica (3x2)
+
+# === decals ===
 
 Decal_Arrow_Black_Down.name = Flecha Negra Abajo
 Decal_Arrow_Black_Left.name = Flecha Negra Izquierda
@@ -271,10 +283,18 @@ Decal_Arrow_Pink_Left.name = Flecha Rosa Izquierda
 Decal_Arrow_Pink_Right.name = Flecha Rosa Derecha
 Decal_Arrow_Pink_Up.name = Flecha Rosa Arriba
 
+# === description generic ===
+
+Decoration_Generic.description = Un elemento decorativo que se puede colocar. No hace nada, pero se ve bonito.
+
+# === description hints ===
+
 Use_Hammer_Color.description = Usa el <color is="#ffffff">Martillo</color> para cambiar el color.
 Use_Hammer_Appearance.description = Usa el <color is="#ffffff">Martillo</color> para cambiar el aspecto.
 Use_Hammer_Appearance_Creative.description =  Usa el <color is="#ffffff">Martillo</color> para cambiar el aspecto\no activa <color is="#ffffff">Mostrar Variantes</color> en el Menú Creativo.
 Use_Entity_Tool.description = Usa la <color is="#ffffff">Herramienta de Entidades</color> para colocar esto.
+
+# === information ===
 
 Info_Main.name = Información
 Info_Main.description = <color is="#ffffff">Este mod añade bloques, iluminación, decoraciones, elementos interactivos, efectos y extras para la creación de mundos, minijuegos y servidores.</color>\n\n<i>Creado con cariño por creadores para creadores.</i>\n~ <b>heavenly-roads</b>

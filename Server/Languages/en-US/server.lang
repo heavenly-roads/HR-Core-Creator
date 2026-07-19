@@ -179,6 +179,8 @@ Currency_Pile_Coin_Small.name = Small Pile of Coins
 Currency_Pile_Coin_Medium.name = Medium Pile of Coins
 Currency_Pile_Coin_Large.name = Large Pile of Coins
 
+# === food ===
+
 Food_Cake_Birthday_Classic_Cream.name = Classic Birthday Cake - Cream
 Food_Cake_Birthday_Classic_Mocha.name = Classic Birthday Cake - Mocha
 Food_Cake_Birthday_Classic_Strawberry.name = Classic Birthday Cake - Strawberry
@@ -192,8 +194,12 @@ Food_Ice_Cream_Classic_Blue_Moon.name = Classic Ice Cream - Blue Moon
 Food_Ice_Cream_Classic_Triple_Flavor.name = Classic Ice Cream - Triple Flavor
 Food_Ice_Cream.description = The perfect snack for hot days.
 
+# === weapons ===
+
 Snowball.name = Snowball
 Bomb.name = Bomb
+
+# === interactive ===
 
 Explosive_Dynamite.name = Dynamite
 Explosive_Dynamite_Barrel.name = Dynamite Barrel
@@ -206,6 +212,8 @@ Bounce_Pad_Large.name = Bounce Pad - Large
 Interactive_Die.name = Die
 Interactive_Die.description = ...
 
+# === emiters ===
+
 Emitter_Fireworks_Mix1.name = Fireworks - Mix 1
 Emitter_Fireworks_Mix2.name = Fireworks - Mix 2
 Emitter_Fireworks_Mix3.name = Fireworks - Mix 3
@@ -216,6 +224,8 @@ Emitter_Water_Fountain_Large.name = Water Fountain - Large
 Emitter_Smoke_Trail.name = Smoke Trail
 Emitter_Smoke_Trail_Small.name = Smoke Trail - Small
 
+# === canvas ===
+
 Canvas_Painting_1x1_Generic.name = Canvas Painting 1x1
 Canvas_Painting_1x2_Generic.name = Canvas Painting 1x2
 Canvas_Painting_2x1_Generic.name = Canvas Painting 2x1
@@ -225,6 +235,8 @@ Canvas_Painting_2x3.name = Canvas Painting 2x3
 Canvas_Painting_2x3_Generic_Classic.name = Classic Painting (2x3)
 Canvas_Painting_3x2.name = Canvas Painting 3x2
 Canvas_Painting_3x2_Generic_Classic.name = Classic Painting (3x2)
+
+# === decals ===
 
 Decal_Arrow_Black_Down.name = Black Down Arrow
 Decal_Arrow_Black_Left.name = Black Left Arrow
@@ -271,10 +283,18 @@ Decal_Arrow_Pink_Left.name = Pink Left Arrow
 Decal_Arrow_Pink_Right.name = Pink Right Arrow
 Decal_Arrow_Pink_Up.name = Pink Up Arrow
 
+# === description generic ===
+
+Decoration_Generic.description = A decorative element which can be placed. It does not do anything, but it looks nice.
+
+# === description hints ===
+
 Use_Hammer_Color.description = Use the <color is="#ffffff">Hammer</color> to change the color.
 Use_Hammer_Appearance.description = Use the <color is="#ffffff">Hammer</color> to change the appearance.
 Use_Hammer_Appearance_Creative.description = Use the <color is="#ffffff">Hammer</color> to change the appearance\nor toggle <color is="#ffffff">Show Variants</color> on Creative Menu.
 Use_Entity_Tool.description = Use the <color is="#ffffff">Entity Tool</color> to place this.
+
+# === information ===
 
 Info_Main.name = About
 Info_Main.description = <color is="#ffffff">This mod adds blocks, lighting, decoration, interactive elements, effects and extras for worlds, minigames and servers.</color>\n\n<i>Crafted with love by creators for creators.</i>\n~ <b>heavenly-roads</b>
