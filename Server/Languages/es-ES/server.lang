@@ -285,7 +285,7 @@ Decal_Arrow_Pink_Up.name = Flecha Rosa Arriba
 
 # === description generic ===
 
-Decoration_Generic.description = Un elemento decorativo que se puede colocar. No hace nada, pero se ve bonito.
+Decoration_Generic.description = Un elemento decorativo. No hace nada, pero está bonito.
 
 # === description hints ===
 

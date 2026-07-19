@@ -285,7 +285,7 @@ Decal_Arrow_Pink_Up.name = Pink Up Arrow
 
 # === description generic ===
 
-Decoration_Generic.description = A decorative element which can be placed. It does not do anything, but it looks nice.
+Decoration_Generic.description = A decorative element. It does not do anything, but looks nice.
 
 # === description hints ===
 
