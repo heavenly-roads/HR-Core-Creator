@@ -100,6 +100,7 @@ Paint_Bucket_Yellow.name = Yellow Paint Bucket
 Paint_Bucket_Green.name = Green Paint Bucket
 Paint_Bucket_Cyan.name = Cyan Paint Bucket
 Plant.name = Plant
+Plant_Flower.name = Flowers
 Plant_Pots.name = Pots
 Poster_Wall.name = Poster Wall
 Poster_Wall_Capital.name = Poster Wall - Capital

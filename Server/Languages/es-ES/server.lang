@@ -100,6 +100,7 @@ Paint_Bucket_Yellow.name = Bote de Pintura Amarilla
 Paint_Bucket_Green.name = Bote de Pintura Verde
 Paint_Bucket_Cyan.name = Bote de Pintura Cian
 Plant.name = Planta
+Plant_Flower.name = Flores
 Plant_Pots.name = Macetas
 Poster_Wall.name = Póster de Pared
 Poster_Wall_Capital.name = Póster de Pared - Capital
