@@ -1,6 +1,6 @@
 {
   "ParticleRotationInfluence": "Billboard",
-  "LightInfluence": 1,
+  "LightInfluence": 0.5,
   "ParticleLifeSpan": {
     "Min": 2,
     "Max": 4
@@ -37,7 +37,8 @@
             "Max": 0.5
           }
         },
-        "Opacity": 0
+        "Opacity": 0,
+        "Color": "#cfcfcf"
       },
       "10": {
         "Opacity": 1,
@@ -46,8 +47,7 @@
             "Min": 0.7,
             "Max": 0.7
           }
-        },
-        "Color": "#a4a4a4"
+        }
       },
       "100": {
         "Color": "#ffffff",
@@ -67,7 +67,7 @@
           "Max": 0.5
         }
       },
-      "Color": "#b0b0b0",
+      "Color": "#ffffff",
       "Opacity": 0.5,
       "FrameIndex": {
         "Max": 3

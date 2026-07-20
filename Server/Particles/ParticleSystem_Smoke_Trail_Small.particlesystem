@@ -1,7 +1,7 @@
 {
   "Spawners": [
     {
-      "SpawnerId": "ParticlesSpawner_Smoke_Trail_Small",
+      "SpawnerId": "ParticlesSpawner_Smoke_Trail_Cloud_Small",
       "PositionOffset": {
         "Y": -2
       }

@@ -1,7 +1,5 @@
 # 1.0
 
-Sanitized and compressed textures.
-
 #### New Lighting
 
 * `Deco_Chinese_Paper_Lantern_Round`

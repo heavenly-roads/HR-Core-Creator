@@ -17,7 +17,8 @@
       }
     ],
     "CubeShadingMode": "Flat",
-    "RequiresAlphaBlending": true
+    "RequiresAlphaBlending": true,
+    "IgnoreSupportWhenPlaced": true
   },
   "Tags": {
     "Type": [
