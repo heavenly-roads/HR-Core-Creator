@@ -196,6 +196,11 @@ Food_Ice_Cream_Classic_Blue_Moon.name = Classic Ice Cream - Blue Moon
 Food_Ice_Cream_Classic_Triple_Flavor.name = Classic Ice Cream - Triple Flavor
 Food_Ice_Cream.description = The perfect snack for hot days.
 
+# === drinks ===
+
+Drink_Soda_Cup.name = Soda Cup
+Drink_Soda_Cup.description = It might be soda, or maybe water.
+
 # === weapons ===
 
 Snowball.name = Snowball

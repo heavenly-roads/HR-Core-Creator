@@ -196,6 +196,11 @@ Food_Ice_Cream_Classic_Blue_Moon.name = Helado Clásico - Luna Azul
 Food_Ice_Cream_Classic_Triple_Flavor.name = Helado Clásico - Triple Sabor
 Food_Ice_Cream.description = El tentempié perfecto para los días calurosos.
 
+# === drinks ===
+
+Drink_Soda_Cup.name = Vaso de Refresco
+Drink_Soda_Cup.description = Puede que sea refresco, o tal vez agua.
+
 # === weapons ===
 
 Snowball.name = Bola de Nieve

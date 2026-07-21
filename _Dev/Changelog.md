@@ -1,8 +1,9 @@
-# 0.13 (upcoming)
+# 0.12.1 (upcoming)
 
 #### Changes
 
 * Canvas paintings can be changed using a Hammer now.
+* Windows textures are now compatible with future shader transparency.
 * Added general description for decoration items.
 * Neon decorations are soft blocks now.
 * Improved particles for `Emitter_Smoke_Trail`.
