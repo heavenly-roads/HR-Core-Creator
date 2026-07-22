@@ -199,11 +199,13 @@ Food_Ice_Cream.description = The perfect snack for hot days.
 # === drinks ===
 
 Drink_Lemonade.name = Lemonade
-Drink_Lemonade.description = If life gives you lemons... make lemonade!
+Drink_Lemonade.description = If life gives you lemons...
 Drink_Orange_Juice.name = Orange Juice
 Drink_Orange_Juice.description = A natural vitamin booster. And it's delicious.
 Drink_Soda_Cup.name = Soda Cup
-Drink_Soda_Cup.description = It might be soda, or maybe water.
+Drink_Soda_Cup.description = Nobody knows what it is, but everyone recognizes its taste.
+Drink_Tiki_Cocktail.name = Tiki Cocktail
+Drink_Tiki_Cocktail.description = The tropical flavours of this fresh cocktail are unbeatable.
 Drink_Water.name = Water
 Drink_Water.description = The oldest, most unique and unparalleled drink.
 

@@ -7,7 +7,10 @@
       }
     },
     {
-      "SpawnerId": "ParticlesSpawner_Smoke_Trail_Cloud"
+      "SpawnerId": "ParticlesSpawner_Smoke_Trail_Cloud",
+      "PositionOffset": {
+        "Y": -0.5
+      }
     }
   ],
   "IsImportant": true,

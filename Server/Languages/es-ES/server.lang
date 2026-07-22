@@ -199,11 +199,13 @@ Food_Ice_Cream.description = El tentempié perfecto para los días calurosos.
 # === drinks ===
 
 Drink_Lemonade.name = Limonada
-Drink_Lemonade.description = Si la vida te da limones... ¡haz limonada!
+Drink_Lemonade.description = Si la vida te da limones...
 Drink_Orange_Juice.name = Zumo de Naranja
 Drink_Orange_Juice.description = Un potenciador de vitaminas natural. Y está delicioso.
 Drink_Soda_Cup.name = Vaso de Refresco
-Drink_Soda_Cup.description = Puede que sea refresco, o tal vez agua.
+Drink_Soda_Cup.description = Nadie sabe lo que es, pero todos reconocen su sabor.
+Drink_Tiki_Cocktail.name = Cóctel Tiki
+Drink_Tiki_Cocktail.description = Los sabores tropicales de este refrescante cóctel son insuperables.
 Drink_Water.name = Agua
 Drink_Water.description = La bebida mas antigua, única e inigualable.
 

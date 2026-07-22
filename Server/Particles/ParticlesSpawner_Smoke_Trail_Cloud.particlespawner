@@ -33,21 +33,15 @@
         },
         "Scale": {
           "X": {
-            "Min": 0.5,
-            "Max": 0.5
+            "Min": 0.3,
+            "Max": 0.3
           }
         },
         "Opacity": 0,
         "Color": "#cfcfcf"
       },
       "10": {
-        "Opacity": 1,
-        "Scale": {
-          "X": {
-            "Min": 0.5,
-            "Max": 0.5
-          }
-        }
+        "Opacity": 1
       },
       "60": {
         "Scale": {
