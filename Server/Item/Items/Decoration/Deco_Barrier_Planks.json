@@ -1,12 +1,12 @@
 {
   "TranslationProperties": {
-    "Name": "Door Barrier"
+    "Name": "server.Barrier_Planks.name"
   },
   "PlayerAnimationsId": "Block",
   "Categories": [
     "HR_CoreCreator.Decoration"
   ],
-  "Icon": "Icons/ItemsGenerated/Door_Barrier_Planks.png",
+  "Icon": "Icons/ItemsGenerated/Deco_Barrier_Planks.png",
   "IconProperties": {
     "Scale": 0.4,
     "Rotation": [

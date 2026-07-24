@@ -82,6 +82,8 @@ Lamp_Neon_Pole_Purple.name = Purple Neon Lamp Pole
 Lamp_Neon_Pole_Pink.name = Pink Neon Lamp Pole
 
 Anvil.name = Anvil
+Barrier_Planks.name = Planks Barrier
+Barrier_Planks_Double.name = Double Planks Barrier
 Bottles.name = Bottles
 Bottles_Tavern.name = Tavern Bottles
 Cactus.name = Cactus
@@ -91,7 +93,7 @@ Construction_Sign_Middle.name = Construction Sign - Middle
 Hanging_Banners_Generic.name = Generic Hanging Banners
 Hanging_Banners_Halloween.name = Halloween Hanging Banners
 Hanging_Banners_Party.name = Party Hanging Banners
-Hay.name = Hay
+Hay_Bale.name = Hay Bale
 Notice_Board.name = Notice Board
 Notice_Board_Small.name = Notice Board - Small
 Notice_Board_Wall.name = Notice Board - Wall

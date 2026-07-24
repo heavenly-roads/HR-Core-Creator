@@ -1,0 +1,19 @@
+{
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      7,
+      -31
+    ]
+  },
+  "BlockType": {
+    "Parent": "Deco_Barrier_Planks"
+  },
+  "Quality": "Developer",
+  "Parent": "Deco_Barrier_Planks"
+}

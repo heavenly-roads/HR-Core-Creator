@@ -1,0 +1,10 @@
+{
+  "DirectMigrations": {
+    "Deco_Barrier_Planks": "Door_Barrier_Planks",
+    "Deco_Barrier_Planks_Double": "Door_Barrier_Planks_Double"
+  },
+  "NameMigrations": {
+    "Deco_Barrier_Planks": "Door_Barrier_Planks",
+    "Deco_Barrier_Planks_Double": "Door_Barrier_Planks_Double"
+  }
+}

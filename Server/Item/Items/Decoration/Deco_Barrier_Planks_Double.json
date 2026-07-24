@@ -14,13 +14,16 @@
   "BlockType": {
     "CustomModel": "Blocks/Door_Barrier_Planks_Double.blockymodel",
     "HitboxType": "Barrier_Door_Double",
-    "Parent": "Door_Barrier_Planks",
+    "Parent": "Deco_Barrier_Planks",
     "CustomModelTexture": [
       {
         "Texture": "Resources/Elements/Door_Barrier_Planks.png"
       }
     ]
   },
-  "Parent": "Door_Barrier_Planks",
-  "Icon": "Icons/ItemsGenerated/Door_Barrier_Planks_Double.png"
+  "Parent": "Deco_Barrier_Planks",
+  "Icon": "Icons/ItemsGenerated/Deco_Barrier_Planks_Double.png",
+  "TranslationProperties": {
+    "Name": "server.Barrier_Planks_Double.name"
+  }
 }

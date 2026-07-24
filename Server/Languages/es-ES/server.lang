@@ -82,6 +82,8 @@ Lamp_Neon_Pole_Purple.name = Barra de Lámpara de Neón Morada
 Lamp_Neon_Pole_Pink.name = Barra de Lámpara de Neón Rosa
 
 Anvil.name = Yunque
+Barrier_Planks.name = Barrera de Tablones
+Barrier_Planks_Double.name = Barrera Doble de Tablones
 Bottles.name = Botellas
 Bottles_Tavern.name = Botellas de Taverna
 Cactus.name = Cactus
@@ -91,7 +93,7 @@ Construction_Sign_Middle.name = Cartel de Construcción - Medio
 Hanging_Banners_Generic.name = Banderolas Genéricas
 Hanging_Banners_Halloween.name = Banderolas de Halloween
 Hanging_Banners_Party.name = Banderolas de Fiesta
-Hay.name = Heno
+Hay_Bale.name = Bala de Heno
 Notice_Board.name = Tablón de Anuncios
 Notice_Board_Small.name = Tablón de Anuncios - Pequeño
 Notice_Board_Wall.name = Tablón de Anuncios - Pared
