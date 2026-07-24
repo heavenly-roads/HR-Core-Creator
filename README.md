@@ -25,20 +25,6 @@ Goal is to maximize optimization using the smallest filesize without direct loss
 
 This mod has some references (.lang files mostly) to non-included content which relies on a private mod (HR Creator Hub) for a private server project. Some of these assets will be added through time while others remains as highly experimental tests or non-public content as they are designed for a custom server environment.
 
-### IDs structure
-
-Basic IDs:
-
-`[Category]_[Type]_[Subtype?]_Color?]_[State?]`
-
-e.g. `Furniture_Carpet_Generic_Red` | `Deco_Chinese_Paper_Lantern_Round` | `Canvas_Painting2x3_Classic04`
-
-Complex IDs:
-
-`[Category]_[Type]_[Material?]_[Subtype?]_[Style?]_[State1?]_[Color?]_[State2?]`
-
-e.g. `Furniture_Window_Wood_Lattice_Ornate_Rounded` | `Deco_Sign_Wood_Generic04_Vertical_Side`
-
 <hr>
 
 <h1>Terms of use</h1>
