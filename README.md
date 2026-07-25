@@ -28,11 +28,19 @@ This mod has some references (.lang files mostly) to non-included content which 
 <hr>
 
 <h1>Terms of use</h1>
+
+General
+<ul>
+  <li>No credit required.</li>
+  <li>Do not distribute it.</li>
+</ul>
+
+Server owners / shared worlds
 <ul>
   <li>This mod can be used on public servers.</li>
   <li>No credit required.</li>
-  <li>Modifications are allowed as long as you don't distribute it.</li>
-  <li>Do not distribute for profit.</li>
+  <li>Modifications are allowed as long it is on a closed environment inside your server or world.</li>
+  <li>Distribution for profit is not allowed for the contents of this modpack, including in-game purchases and lootboxes using real money.</li>
 </ul>
 
 <hr>
