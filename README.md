@@ -50,4 +50,5 @@ Hytale copyright policy and terms of service applies: https://hytale.com/terms-o
 <ul>
   <li>Original assets made by heavenly-roads.</li>
   <li>Hytale game, vanilla assets and source belongs to Hypixel Studios Canada inc.</li>
+  <li>Some textures includes historical paintings under the public domain license.</li>
 </ul>
