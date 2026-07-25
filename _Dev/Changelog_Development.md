@@ -41,6 +41,9 @@
 
 #### New Food
 
+* `Food_Chocolate_Tablet`
+* `Food_Chocolate_Tablet_Black`
+* `Food_Chocolate_Tablet_White`
 * `Food_Cupcake`
 * `Food_Muffin`
 * `Food_Muffin_Chocolate_Black`
