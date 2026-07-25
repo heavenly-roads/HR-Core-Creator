@@ -31,16 +31,15 @@ This mod has some references (.lang files mostly) to non-included content which 
 
 General
 <ul>
-  <li>No credit required.</li>
-  <li>Do not distribute it.</li>
+  <li>$\color{Lime}\textsf{No credit required.}$</li>
+  <li>$\color{#ff4d4d}\textsf{Do not distribute it.}$</li>
 </ul>
 
 Server owners / shared worlds
 <ul>
-  <li>This mod can be used on public servers.</li>
-  <li>No credit required.</li>
-  <li>Modifications are allowed as long it is on a closed environment inside your server or world.</li>
-  <li>Distribution for profit is not allowed for the contents of this modpack, including in-game purchases and lootboxes using real money.</li>
+  <li>$\color{Lime}\textsf{This mod can be used on public servers and shared worlds.}$</li>
+  <li>$\color{Yellow}\textsf{Modifications are allowed as long it is on a closed environment inside your server or world.}$</li>
+  <li>$\color{#ff4d4d}\textsf{Distribution for profit is not allowed for the contents of this modpack, including in-game purchases and lootboxes using real money.}$</li>
 </ul>
 
 <hr>
