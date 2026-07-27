@@ -7,6 +7,7 @@
 * Added general description for decoration items.
 * Neon decorations are soft blocks now.
 * Improved particles for `Emitter_Smoke_Trail`.
+* Added `Furniture` subcategory on Creative Menu.
 * Minor mixes.
 
 ---

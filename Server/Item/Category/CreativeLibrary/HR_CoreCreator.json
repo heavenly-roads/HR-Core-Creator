@@ -71,6 +71,18 @@
           "Order": 0
         },
         {
+          "Id": "Furniture",
+          "Name": "categories.subcategory.furniture.name",
+          "Description": "",
+          "Order": 5
+        },
+        {
+          "Id": "Carpets",
+          "Name": "categories.subcategory.carpets.name",
+          "Description": "",
+          "Order": 6
+        },
+        {
           "Id": "Posters",
           "Name": "categories.subcategory.posters.name",
           "Description": "",
@@ -87,12 +99,6 @@
           "Id": "Banners",
           "Description": "",
           "Order": 40
-        },
-        {
-          "Id": "Carpets",
-          "Name": "categories.subcategory.carpets.name",
-          "Description": "",
-          "Order": 50
         },
         {
           "Id": "Signs",
