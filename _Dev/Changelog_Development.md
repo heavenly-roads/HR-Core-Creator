@@ -32,6 +32,7 @@
 * `Deco_Plant_Tall`
 * `Deco_Plant_Fern_Cold`
 * `Deco_Plant_Cactus`
+* `Furniture_Display_Stand_Royale`
 * `Furniture_Construction_Cone`
 * `Furniture_Carpet_Octagon_Magic`
 
