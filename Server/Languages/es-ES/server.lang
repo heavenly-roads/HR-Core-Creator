@@ -17,10 +17,15 @@ Block_Stripes_Safe_Arrow.name = Bloque de Franjas de Zona Segura en Flecha
 Block_Stripes_Warning_Diagonal.name = Bloque de Franjas de Advertencia Diagonales
 Block_Stripes_Warning_Arrow.name = Bloque de Franjas de Advertencia en Flecha
 
+Toy_Construction_Piece_White.name = Pieza de Construcción de Juguete Blanca
+Toy_Construction_Piece_Grey.name = Pieza de Construcción de Juguete Gris
+Toy_Construction_Piece_Black.name = Pieza de Construcción de Juguete Negra
+Toy_Construction_Piece_Brown.name = Pieza de Construcción de Juguete Marrón
 Toy_Construction_Piece_Red.name = Pieza de Construcción de Juguete Roja
 Toy_Construction_Piece_Yellow.name = Pieza de Construcción de Juguete Amarilla
 Toy_Construction_Piece_Green.name = Pieza de Construcción de Juguete Verde
 Toy_Construction_Piece_Blue.name = Pieza de Construcción de Juguete Azul
+Toy_Construction_Piece_Grass.name = Pieza de Construcción de Juguete de Césped
 
 Window_Glass_Stained_Colorful.name = Ventana de Vidrio Tintado Multicolor
 Window_Glass_Stained_Colorful_Arc.name = Ventana de Vidrio Tintado Multicolor Arqueada
