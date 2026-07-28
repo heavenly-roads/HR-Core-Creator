@@ -17,15 +17,15 @@ Block_Stripes_Safe_Arrow.name = Arrow Safe Stripes Block
 Block_Stripes_Warning_Diagonal.name = Diagonal Warning Stripes Block
 Block_Stripes_Warning_Arrow.name = Arrow Warning Stripes Block
 
-Toy_Construction_Piece_White.name = White Construction Toy Piece
-Toy_Construction_Piece_Grey.name = Grey Construction Toy Piece
-Toy_Construction_Piece_Black.name = Black Construction Toy Piece
-Toy_Construction_Piece_Brown.name = Brown Construction Toy Piece
-Toy_Construction_Piece_Red.name = Red Construction Toy Piece
-Toy_Construction_Piece_Yellow.name = Yellow Construction Toy Piece
-Toy_Construction_Piece_Green.name = Green Construction Toy Piece
-Toy_Construction_Piece_Blue.name = Blue Construction Toy Piece
-Toy_Construction_Piece_Grass.name = Grass Construction Toy Piece
+Toy_Construction_Brick_White.name = White Construction Toy Brick
+Toy_Construction_Brick_Grey.name = Grey Construction Toy Brick
+Toy_Construction_Brick_Black.name = Black Construction Toy Brick
+Toy_Construction_Brick_Brown.name = Brown Construction Toy Brick
+Toy_Construction_Brick_Red.name = Red Construction Toy Brick
+Toy_Construction_Brick_Yellow.name = Yellow Construction Toy Brick
+Toy_Construction_Brick_Green.name = Green Construction Toy Brick
+Toy_Construction_Brick_Blue.name = Blue Construction Toy Brick
+Toy_Construction_Brick_Grass.name = Grass Construction Toy Brick
 
 Window_Glass_Stained_Colorful.name = Colorful Stained Glass Window
 Window_Glass_Stained_Colorful_Arc.name = Colorful Arched Stained Glass Window
