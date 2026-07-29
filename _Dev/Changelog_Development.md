@@ -1,3 +1,19 @@
+#### New Blocks
+
+* `Toy_Construction_Brick_White`
+* `Toy_Construction_Brick_Grey`
+* `Toy_Construction_Brick_White`
+* `Toy_Construction_Brick_Brown`
+* `Toy_Construction_Brick_Red`
+* `Toy_Construction_Brick_Orange`
+* `Toy_Construction_Brick_Yellow`
+* `Toy_Construction_Brick_Green`
+* `Toy_Construction_Brick_Cyan`
+* `Toy_Construction_Brick_Blue`
+* `Toy_Construction_Brick_Purple`
+* `Toy_Construction_Brick_Pink`
+* `Toy_Construction_Brick_Grass`
+
 #### New Lighting
 
 * `Deco_Candles01`
