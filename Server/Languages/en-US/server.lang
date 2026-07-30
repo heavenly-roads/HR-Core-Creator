@@ -164,7 +164,6 @@ Deco_String_Lights_Generic_Cream.name = Cream String Lights
 Cloth_Block_Pattern_Checked.name = Checked Cloth
 Cloth_Block_Pattern_Striped.name = Striped Cloth
 
-Furniture_Display_Stand_Royale.name = Royal Display Stand
 Furniture_Carpet_Basic_Black.name = Black Basic Carpet
 Furniture_Carpet_Basic_White.name = White Basic Carpet
 Furniture_Carpet_Basic_Grey.name = Grey Basic Carpet
@@ -187,6 +186,7 @@ Furniture_Carpet_Octagon_Ice.name = Octagonal Ice Carpet
 Furniture_Carpet_Octagon_Magic.name = Octagonal Magic Carpet
 Furniture_Carpet_Octagon_Royal.name = Octagonal Royal Carpet
 Furniture_Cushion_Royal.name = Royal Cushion
+Furniture_Display_Stand_Royale.name = Royal Display Stand
 Furniture_Table_Basic.name = Basic Table
 
 Sign_Arcade.name = Arcade Sign
