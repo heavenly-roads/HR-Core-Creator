@@ -1,3 +1,9 @@
+# 0.12.2 (UPCOMING)
+
+#### Changes
+
+* Updated neon beams lighting.
+
 # 0.12.1
 
 #### Changes

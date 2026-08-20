@@ -38,9 +38,9 @@
     "BlockSoundSetId": "Crystal",
     "PhysicalMaterialId": "Glass",
     "Light": {
-      "Color": "#777"
+      "Color": "#bbb"
     },
-    "CubeShadingMode": "Standard"
+    "CubeShadingMode": "Fullbright"
   },
   "ItemSoundSetId": "ISS_Default",
   "IconProperties": {

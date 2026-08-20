@@ -3,7 +3,7 @@
   "BlockType": {
     "ParticleColor": "#9048d8",
     "Light": {
-      "Color": "#539"
+      "Color": "#74d"
     },
     "Parent": "Lamp_Neon_Beam_White",
     "CustomModel": "Blocks/Lamp_Neon_Beam_Purple.blockymodel"
