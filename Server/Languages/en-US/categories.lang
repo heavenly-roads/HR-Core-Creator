@@ -29,6 +29,8 @@ subcategory.dispensers.name = Dispensers
 subcategory.explosives.name = Explosives
 subcategory.portals.name = Portals
 subcategory.general.name = General
+subcategory.graffiti.name = Graffiti
+subcategory.arrows.name = Arrows
 
 itemcategory.windmills = Windmills
 subcategory.classic.name = Classic

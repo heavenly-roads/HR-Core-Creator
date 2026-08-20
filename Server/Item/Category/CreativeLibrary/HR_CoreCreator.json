@@ -211,7 +211,27 @@
     {
       "Id": "Decals",
       "Name": "categories.itemcategory.decals",
-      "Icon": "Icons/ItemCategories/HR_Decal.png"
+      "Icon": "Icons/ItemCategories/HR_Decal.png",
+      "SubCategories": [
+        {
+          "Id": "",
+          "Name": "",
+          "Description": "",
+          "Order": 0
+        },
+        {
+          "Id": "Graffiti",
+          "Name": "categories.subcategory.graffiti.name",
+          "Order": 1,
+          "Description": ""
+        },
+        {
+          "Id": "Arrows",
+          "Name": "categories.subcategory.arrows.name",
+          "Order": 2,
+          "Description": ""
+        }
+      ]
     },
     {
       "Id": "Effects",

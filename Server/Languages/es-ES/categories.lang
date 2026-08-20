@@ -29,6 +29,8 @@ subcategory.dispensers.name = Dispensadores
 subcategory.explosives.name = Explosivos
 subcategory.portals.name = Portales
 subcategory.general.name = General
+subcategory.graffiti.name = Graffiti
+subcategory.arrows.name = Flechas
 
 itemcategory.windmills = Molinos de Viento
 subcategory.classic.name = Clásico
