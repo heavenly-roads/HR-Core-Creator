@@ -2,33 +2,6 @@
   "nodes": [
     {
       "id": "1",
-      "name": "Node",
-      "position": {"x": 0, "y": 2.65502, "z": 0},
-      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
-      "shape": {
-        "type": "quad",
-        "offset": {"x": 0, "y": 13.34498, "z": 0},
-        "stretch": {"x": 1, "y": 1, "z": 1},
-        "settings": {
-          "isPiece": false,
-          "size": {"x": 30, "y": 30},
-          "normal": "+Z"
-        },
-        "textureLayout": {
-          "front": {
-            "offset": {"x": 1, "y": 1},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          }
-        },
-        "unwrapMode": "custom",
-        "visible": true,
-        "doubleSided": true,
-        "shadingMode": "standard"
-      }
-    },
-    {
-      "id": "2",
       "name": "Window",
       "position": {"x": 0, "y": 16, "z": 0},
       "orientation": {"x": 0, "y": 0, "z": 0.70711, "w": 0.70711},
@@ -47,7 +20,7 @@
       },
       "children": [
         {
-          "id": "3",
+          "id": "2",
           "name": "frame1",
           "position": {"x": 16.37166, "y": -0.01582, "z": 0},
           "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
@@ -82,13 +55,13 @@
               },
               "top": {
                 "offset": {"x": 15, "y": 94},
-                "mirror": {"x": false, "y": false},
-                "angle": 90
+                "mirror": {"x": true, "y": true},
+                "angle": 270
               },
               "bottom": {
                 "offset": {"x": 15, "y": 94},
-                "mirror": {"x": false, "y": false},
-                "angle": 90
+                "mirror": {"x": true, "y": true},
+                "angle": 270
               }
             },
             "unwrapMode": "custom",
@@ -98,7 +71,7 @@
           }
         },
         {
-          "id": "4",
+          "id": "3",
           "name": "frame3",
           "position": {"x": -0.02352, "y": 14.00026, "z": 0},
           "orientation": {"x": 0, "y": 0, "z": -0.70711, "w": 0.70711},
@@ -139,7 +112,7 @@
           }
         },
         {
-          "id": "5",
+          "id": "4",
           "name": "frame2",
           "position": {"x": -0.06674, "y": -14.00222, "z": 0},
           "orientation": {"x": 0, "y": 0, "z": 0.70711, "w": 0.70711},
@@ -180,7 +153,7 @@
           }
         },
         {
-          "id": "6",
+          "id": "5",
           "name": "frame4",
           "position": {"x": -15.14028, "y": 0, "z": 0},
           "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
@@ -215,18 +188,46 @@
               },
               "top": {
                 "offset": {"x": 15, "y": 92},
-                "mirror": {"x": false, "y": false},
-                "angle": 90
+                "mirror": {"x": true, "y": true},
+                "angle": 270
               },
               "bottom": {
                 "offset": {"x": 15, "y": 92},
-                "mirror": {"x": false, "y": false},
-                "angle": 90
+                "mirror": {"x": true, "y": true},
+                "angle": 270
               }
             },
             "unwrapMode": "custom",
             "visible": true,
             "doubleSided": false,
+            "shadingMode": "standard"
+          }
+        },
+        {
+          "id": "6",
+          "name": "Glass--C1",
+          "position": {"x": 0, "y": 0, "z": 0},
+          "orientation": {"x": 0, "y": 0, "z": -0.70711, "w": 0.70711},
+          "shape": {
+            "type": "quad",
+            "offset": {"x": 0, "y": 0, "z": 0},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 30, "y": 30},
+              "normal": "+Z",
+              "isStaticBox": true
+            },
+            "textureLayout": {
+              "front": {
+                "offset": {"x": 1, "y": 1},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": true,
             "shadingMode": "standard"
           }
         }
