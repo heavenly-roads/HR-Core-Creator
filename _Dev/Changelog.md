@@ -1,10 +1,14 @@
-# 0.12.2 (UPCOMING)
+# 0.13 (UPCOMING)
+
+#### New Blocks
+
+* `Furniture_Window_Iron_Panel_Basic`
 
 #### Changes
 
 * Updated neon beams lighting.
 
-# 0.12.1
+## 0.12.1
 
 #### Changes
 

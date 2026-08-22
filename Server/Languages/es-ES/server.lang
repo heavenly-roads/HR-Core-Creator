@@ -61,6 +61,7 @@ Window_Wood_Lattice_Ornate.name = Ventana de Celosía de Madera Ornamentada
 Window_Wood_Lattice_Ornate_Arc.name = Ventana de Celosía de Madera Ornamentada Arqueada
 Window_Wood_Lattice_Ornate_Rounded.name = Ventana de Celosía de Madera Ornamentada Redonda
 Window_Wood_Lattice_Ornate_Triangle.name = Ventana de Celosía de Madera Ornamentada Triangular
+Window_Iron_Panel.name = Ventana de Panel de Hierro
 
 Lamp_Neon_Beam_White.name = Viga de Lámpara de Neón Blanca
 Lamp_Neon_Beam_Red.name = Viga de Lámpara de Neón Roja

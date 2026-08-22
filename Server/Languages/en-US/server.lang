@@ -61,6 +61,7 @@ Window_Wood_Lattice_Ornate.name = Ornate Wooden Lattice Window
 Window_Wood_Lattice_Ornate_Arc.name = Ornate Wooden Arched Lattice Window
 Window_Wood_Lattice_Ornate_Rounded.name = Ornate Wooden Round Lattice Window
 Window_Wood_Lattice_Ornate_Triangle.name = Ornate Wooden Triangular Lattice Window
+Window_Iron_Panel.name = Iron Panel Window
 
 Lamp_Neon_Beam_White.name = White Neon Lamp Beam
 Lamp_Neon_Beam_Red.name = Red Neon Lamp Beam
