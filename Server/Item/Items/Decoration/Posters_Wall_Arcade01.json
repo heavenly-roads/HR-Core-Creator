@@ -47,23 +47,15 @@
     "BlockParticleSetId": "Dust",
     "BlockSoundSetId": "Cloth",
     "CustomModel": "Blocks/Posters/Posters_Wall_01.blockymodel",
-    "CustomModelTexture": [
-      {
-        "Texture": "Resources/Posters/Posters_Arcade.png",
-        "Weight": 1
-      }
-    ],
-    "DrawType": "Model",
     "Gathering": {
       "Soft": {
         "IsWeaponBreakable": false
       }
     },
     "HitboxType": "Sign_Wall",
-    "Material": "Solid",
-    "Opacity": "Transparent",
     "ParticleColor": "#d8c8e0",
-    "VariantRotation": "NESW"
+    "VariantRotation": "NESW",
+    "Parent": "Poster_Wall_Arcade01"
   },
   "ResourceTypes": [
     {

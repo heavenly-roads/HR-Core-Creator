@@ -67,7 +67,7 @@
       }
     },
     "HitboxType": "Sign_Wall",
-    "Material": "Solid",
+    "Material": "Empty",
     "Opacity": "Transparent",
     "ParticleColor": "#d8c8e0",
     "VariantRotation": "NESW"

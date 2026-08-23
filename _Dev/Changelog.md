@@ -26,6 +26,7 @@
 #### Changes
 
 * Updated neon beams lighting.
+* Posters do not longer block the player.
 
 ---
 

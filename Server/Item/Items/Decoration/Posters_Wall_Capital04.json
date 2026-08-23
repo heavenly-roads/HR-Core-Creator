@@ -53,17 +53,9 @@
       }
     },
     "HitboxType": "Sign_Wall",
-    "Material": "Solid",
-    "Opacity": "Transparent",
     "ParticleColor": "#d8c8e0",
     "VariantRotation": "NESW",
-    "CustomModelTexture": [
-      {
-        "Texture": "Resources/Posters/Posters_Capital.png",
-        "Weight": 1
-      }
-    ],
-    "DrawType": "Model"
+    "Parent": "Poster_Wall_Capital01"
   },
   "ResourceTypes": [
     {
