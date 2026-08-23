@@ -1,12 +1,33 @@
 # 0.13 (UPCOMING)
 
-#### New Blocks
+#### New Windows
 
 * `Furniture_Window_Iron_Panel_Basic`
+
+#### New Decorations
+
+* `Poster_Wall_Urban01`
+* `Poster_Wall_Urban02`
+* `Poster_Wall_Urban03`
+* `Poster_Wall_Urban04`
+* `Poster_Wall_Urban05`
+* `Poster_Wall_Urban06`
+* `Poster_Wall_Urban07`
+* `Posters_Wall_Urban01`
+* `Posters_Wall_Urban02`
+* `Posters_Wall_Urban03`
+* `Posters_Wall_Urban04`
+* `Posters_Wall_Urban05`
+* `Posters_Wall_Urban06`
+* `Posters_Wall_Urban07`
+* `Posters_Wall_Urban08`
+* `Posters_Wall_Urban09`
 
 #### Changes
 
 * Updated neon beams lighting.
+
+---
 
 ## 0.12.1
 

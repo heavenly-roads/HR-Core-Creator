@@ -120,9 +120,10 @@ Paint_Bucket_Cyan.name = Bote de Pintura Cian
 Plant.name = Planta
 Plant_Flower.name = Flores
 Plant_Pots.name = Macetas
-Poster_Wall.name = Póster de Pared
-Poster_Wall_Capital.name = Póster de Pared - Capital
-Poster_Wall_Arcade.name = Póster de Pared - Arcade
+Poster_Wall.name = Póster
+Poster_Wall_Arcade.name = Póster Arcade
+Poster_Wall_Capital.name = Póster Capital
+Poster_Wall_Urban.name = Póster Urbano
 Toolbox.name = Caja de Herramientas
 Vending_Machine.name = Máquina Exprendedora
 
