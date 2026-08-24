@@ -51,7 +51,7 @@
     "OutputQuantity": 2
   },
   "BlockType": {
-    "BlockParticleSetId": "Dust",
+    "BlockParticleSetId": "Grass",
     "BlockSoundSetId": "Cloth",
     "CustomModel": "Blocks/Posters/Poster_Wall_01.blockymodel",
     "CustomModelTexture": [
@@ -66,11 +66,18 @@
         "IsWeaponBreakable": false
       }
     },
-    "HitboxType": "Sign_Wall",
+    "HitboxType": "Block_Vertical_Flat",
     "Material": "Empty",
     "Opacity": "Transparent",
     "ParticleColor": "#d8c8e0",
-    "VariantRotation": "NESW"
+    "VariantRotation": "NESW",
+    "Support": {
+      "North": [
+        {
+          "FaceType": "Full"
+        }
+      ]
+    }
   },
   "ResourceTypes": [
     {
