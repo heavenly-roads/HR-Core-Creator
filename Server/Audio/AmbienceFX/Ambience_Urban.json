@@ -1,0 +1,42 @@
+{
+  "AudioCategory": "AudioCat_Ambient",
+  "Priority": 50,
+  "MusicContainer": {
+    "Type": "SingleTrack",
+    "LoopCount": 1,
+    "Track": "Music/Unique/Silence.ogg",
+    "AudioCategory": "AudioCat_Music"
+  },
+  "Conditions": {
+    "WeatherTagPattern": {
+      "Op": "And",
+      "Patterns": [
+        {
+          "Op": "Equals",
+          "Tag": "Urban"
+        }
+      ]
+    },
+    "DayTime": {
+      "Min": 6,
+      "Max": 20
+    }
+  },
+  "Sounds": [
+    {
+      "SoundEventId": "SoundEvent_Urban_Traffic",
+      "Frequency": {
+        "Min": 6,
+        "Max": 12
+      },
+      "Radius": {
+        "Min": 32,
+        "Max": 64
+      },
+      "Play3D": "Random"
+    }
+  ],
+  "AmbientBed": {
+    "Track": "Sounds/Ambience_Urban.ogg"
+  }
+}

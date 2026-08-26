@@ -1,35 +1,19 @@
 {
   "Stars": "Sky/Stars.png",
   "Tags": {
-    "Zone1": [
-      "Sunny"
+    "Urban": [
+      "Day"
     ]
   },
   "Moons": [
     {
       "Day": 0,
       "Texture": "Sky/MoonCycle/Moon_Full.png"
-    },
-    {
-      "Day": 1,
-      "Texture": "Sky/MoonCycle/Moon_Gibbous.png"
-    },
-    {
-      "Day": 2,
-      "Texture": "Sky/MoonCycle/Moon_Half.png"
-    },
-    {
-      "Day": 3,
-      "Texture": "Sky/MoonCycle/Moon_Crescent.png"
-    },
-    {
-      "Day": 4,
-      "Texture": "Sky/MoonCycle/Moon_New.png"
     }
   ],
   "Clouds": [
     {
-      "Texture": "Sky/Clouds/Twirled.png",
+      "Texture": "Sky/Clouds/Marshmallow_Highlights.png",
       "Colors": [
         {
           "Hour": 3,
@@ -37,19 +21,11 @@
         },
         {
           "Hour": 5,
-          "Color": "#ff000080"
-        },
-        {
-          "Hour": 7,
-          "Color": "#ffffffe6"
-        },
-        {
-          "Hour": 17,
-          "Color": "#ffffffe6"
+          "Color": "#b74576ff"
         },
         {
           "Hour": 19,
-          "Color": "#ff5e4347"
+          "Color": "#b74576ff"
         },
         {
           "Hour": 21,
@@ -59,12 +35,12 @@
       "Speeds": [
         {
           "Hour": 0,
-          "Value": 0.7
+          "Value": 0
         }
       ]
     },
     {
-      "Texture": "Sky/Clouds/Storm_Highlights.png",
+      "Texture": "Sky/Clouds/Marshmallow_Base.png",
       "Colors": [
         {
           "Hour": 3,
@@ -72,19 +48,11 @@
         },
         {
           "Hour": 5,
-          "Color": "#ff6e439a"
-        },
-        {
-          "Hour": 7,
-          "Color": "#ffffffe6"
-        },
-        {
-          "Hour": 17,
-          "Color": "#ffffffe6"
+          "Color": "#001c3fcd"
         },
         {
           "Hour": 19,
-          "Color": "#ff5e4347"
+          "Color": "#001c3fcd"
         },
         {
           "Hour": 21,
@@ -94,7 +62,61 @@
       "Speeds": [
         {
           "Hour": 0,
-          "Value": 0.7
+          "Value": 0.0
+        }
+      ]
+    },
+    {
+      "Texture": "Sky/Clouds/Scars.png",
+      "Colors": [
+        {
+          "Hour": 3,
+          "Color": "#1a1a1bc7"
+        },
+        {
+          "Hour": 5,
+          "Color": "#0000003a"
+        },
+        {
+          "Hour": 19,
+          "Color": "#763770ff"
+        },
+        {
+          "Hour": 21,
+          "Color": "#1a1a1bc7"
+        }
+      ],
+      "Speeds": [
+        {
+          "Hour": 0,
+          "Value": 0
+        }
+      ]
+    },
+    {
+      "Texture": "Sky/Clouds/Fluffy_Highlights.png",
+      "Colors": [
+        {
+          "Hour": 3,
+          "Color": "#1a1a1bc7"
+        },
+        {
+          "Hour": 5,
+          "Color": "#001c3fff"
+        },
+        {
+          "Hour": 19,
+          "Color": "#001c3fff"
+        },
+        {
+          "Hour": 21,
+          "Color": "#1a1a1bc7"
+        }
+      ],
+      "Speeds": [
+        {
+          "Hour": 0,
+          "Value": 0.0
         }
       ]
     }
@@ -106,37 +128,21 @@
     },
     {
       "Hour": 5,
-      "Color": "#0c1642ff"
-    },
-    {
-      "Hour": 17,
-      "Color": "#1a3988ff"
+      "Color": "#273b93ff"
     },
     {
       "Hour": 19,
-      "Color": "#0c1642ff"
+      "Color": "#273b93ff"
     },
     {
       "Hour": 21,
       "Color": "#00000000"
-    },
-    {
-      "Hour": 7,
-      "Color": "#1a3988ff"
     }
   ],
   "SkyBottomColors": [
     {
       "Hour": 5,
-      "Color": "#22519eff"
-    },
-    {
-      "Hour": 7,
-      "Color": "#8fd8f8ff"
-    },
-    {
-      "Hour": 17,
-      "Color": "#8fd8f8ff"
+      "Color": "#f472eaff"
     },
     {
       "Hour": 19,
@@ -158,19 +164,11 @@
     },
     {
       "Hour": 5,
-      "Color": "#ff4394ff"
-    },
-    {
-      "Hour": 7,
-      "Color": "#ffb95100"
-    },
-    {
-      "Hour": 17,
-      "Color": "#ffb95100"
+      "Color": "#ff6233ff"
     },
     {
       "Hour": 19,
-      "Color": "#ff4394ff"
+      "Color": "#ff79b3ff"
     },
     {
       "Hour": 21,
@@ -184,19 +182,11 @@
     },
     {
       "Hour": 5,
-      "Color": "#a62600"
-    },
-    {
-      "Hour": 7,
-      "Color": "#8fd8f8"
-    },
-    {
-      "Hour": 17,
-      "Color": "#8fd8f8"
+      "Color": "#525a8e"
     },
     {
       "Hour": 19,
-      "Color": "#a62600"
+      "Color": "#215ea2"
     },
     {
       "Hour": 21,
@@ -205,24 +195,8 @@
   ],
   "SunColors": [
     {
-      "Hour": 19,
-      "Color": "#fec9ae"
-    },
-    {
-      "Hour": 17,
-      "Color": "#ffffff"
-    },
-    {
-      "Hour": 5,
-      "Color": "#fec9ae"
-    },
-    {
-      "Hour": 7,
-      "Color": "#ffffff"
-    },
-    {
-      "Hour": 18,
-      "Color": "#fff7e3"
+      "Hour": 0,
+      "Color": "#fff2da"
     }
   ],
   "MoonColors": [
@@ -256,99 +230,7 @@
   "SunScales": [
     {
       "Hour": 0,
-      "Value": 2
-    },
-    {
-      "Hour": 1,
-      "Value": 2
-    },
-    {
-      "Hour": 2,
-      "Value": 2
-    },
-    {
-      "Hour": 3,
-      "Value": 2
-    },
-    {
-      "Hour": 4,
-      "Value": 2
-    },
-    {
-      "Hour": 5,
-      "Value": 2
-    },
-    {
-      "Hour": 6,
-      "Value": 2
-    },
-    {
-      "Hour": 7,
-      "Value": 2
-    },
-    {
-      "Hour": 9,
-      "Value": 2
-    },
-    {
-      "Hour": 10,
-      "Value": 2
-    },
-    {
-      "Hour": 11,
-      "Value": 2
-    },
-    {
-      "Hour": 12,
-      "Value": 2
-    },
-    {
-      "Hour": 13,
-      "Value": 2
-    },
-    {
-      "Hour": 14,
-      "Value": 2
-    },
-    {
-      "Hour": 15,
-      "Value": 2
-    },
-    {
-      "Hour": 16,
-      "Value": 2
-    },
-    {
-      "Hour": 17,
-      "Value": 2
-    },
-    {
-      "Hour": 18,
-      "Value": 2
-    },
-    {
-      "Hour": 19,
-      "Value": 2
-    },
-    {
-      "Hour": 20,
-      "Value": 2
-    },
-    {
-      "Hour": 21,
-      "Value": 2
-    },
-    {
-      "Hour": 22,
-      "Value": 2
-    },
-    {
-      "Hour": 23,
-      "Value": 2
-    },
-    {
-      "Hour": 8,
-      "Value": 2
+      "Value": 1
     }
   ],
   "MoonScales": [
@@ -364,19 +246,11 @@
     },
     {
       "Hour": 5,
-      "Color": "#ffcdbaff"
-    },
-    {
-      "Hour": 7,
-      "Color": "#ffffffff"
-    },
-    {
-      "Hour": 17,
-      "Color": "#ffffffff"
+      "Color": "#ffe5c6ff"
     },
     {
       "Hour": 19,
-      "Color": "#ffcdbaff"
+      "Color": "#ffe5c6ff"
     },
     {
       "Hour": 21,

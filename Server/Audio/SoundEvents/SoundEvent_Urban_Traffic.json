@@ -1,0 +1,26 @@
+{
+  "Layers": [
+    {
+      "Files": [
+        "Sounds/SoundEvent/Urban_Car_Passing_01.ogg",
+        "Sounds/SoundEvent/Urban_Car_Passing_01.ogg",
+        "Sounds/SoundEvent/Urban_Car_Passing_02.ogg",
+        "Sounds/SoundEvent/Urban_Car_Passing_02.ogg",
+        "Sounds/SoundEvent/Urban_Car_Passing_03.ogg",
+        "Sounds/SoundEvent/Urban_Car_Passing_03.ogg",
+        "Sounds/SoundEvent/Urban_Ambulance_Siren_01.ogg"
+      ],
+      "RoundRobinHistorySize": 4,
+      "RandomSettings": {
+        "MinPitch": -2
+      }
+    }
+  ],
+  "SpatialBlend": 0.5,
+  "MaxInstance": 3,
+  "Pitch": -5,
+  "MaxDistance": 128,
+  "StartAttenuationDistance": 64,
+  "Volume": 10,
+  "AudioCategory": "AudioCat_Ambient"
+}
