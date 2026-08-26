@@ -55,10 +55,6 @@
 * `Furniture_Construction_Cone`
 * `Furniture_Carpet_Octagon_Magic`
 
-#### New Interactive Content
-
-* `Interactive_Die`
-
 #### New Food
 
 * `Food_Chocolate_Tablet`
@@ -106,3 +102,28 @@
 * `Deco_Sign_Wood_Generic06`
 * `Deco_Sign_Wood_Generic06_Vertical`
 * `Deco_Sign_Wood_Generic06_Vertical_Side`
+
+#### New Interactive Content
+
+* `Interactive_Die`
+
+#### New Decals
+
+* `Decal_Graffiti2x2_Symbol01`
+* `Decal_Graffiti2x2_Symbol02`
+* `Decal_Graffiti2x2_Symbol03`
+* `Decal_Graffiti2x2_Symbol04`
+* `Decal_Graffiti2x2_Symbol05`
+* `Decal_Graffiti2x2_Symbol06`
+* `Decal_Graffiti2x2_Symbol07`
+* `Decal_Graffiti2x2_Symbol08`
+* `Decal_Graffiti2x2_Symbol09`
+* `Decal_Graffiti2x2_Urban01`
+* `Decal_Graffiti2x2_Urban02`
+* `Decal_Graffiti3x2_Urban01`
+* `Decal_Graffiti3x2_Urban02`
+* `Decal_Graffiti3x2_Urban03`
+* `Decal_Graffiti3x2_Urban04`
+* `Decal_Graffiti3x3_Urban01`
+* `Decal_Graffiti3x3_Urban02`
+* `Decal_Graffiti3x3_Urban03`
