@@ -25,6 +25,10 @@ Goal is to maximize optimization using the smallest filesize without direct loss
 
 This mod has some references (.lang files mostly) to non-included content which relies on a private mod (HR Creator Hub) for a private server project. Some of these assets will be added through time while others remains as highly experimental tests or non-public content as they are designed for a custom server environment.
 
+### Use of AI
+
+Most of these assets contains hand-drawn and composed textures. However, a very limited number of designs may include AI generated content to speed up creation process. The use of AI tools on this work is not intended to replace any human work but help in creation process for some assets since I'm just one dev behind all of this. It is planned to hire artists in the future to replace AI designs.
+
 <hr>
 
 <h1>Terms of use</h1>
