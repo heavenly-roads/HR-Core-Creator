@@ -1,4 +1,4 @@
-# 0.13 (UPCOMING)
+# 0.13
 
 #### New Windows
 
