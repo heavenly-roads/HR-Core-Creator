@@ -47,7 +47,7 @@ Server owners / shared worlds:
 <ul>
   <li>$\color{Lime}\textsf{This mod can be used on public servers and shared worlds.}$</li>
   <li>$\color{Yellow}\textsf{Modifications are allowed as long it is on a closed environment inside your server or world.}$</li>
-  <li>$\color{#ff4d4d}\textsf{Distribution for profit is not allowed for the contents of this modpack, including in-game purchases and lootboxes using real money.}$</li>
+  <li>$\color{#ff4d4d}\textsf{Distribution for profit is not allowed, including in-game purchases and lootboxes using real money.}$</li>
 </ul>
 
 <hr>
