@@ -124,6 +124,17 @@
 * `Decal_Graffiti3x2_Urban02`
 * `Decal_Graffiti3x2_Urban03`
 * `Decal_Graffiti3x2_Urban04`
+* `Decal_Graffiti3x2_Urban05`
+* `Decal_Graffiti3x2_Urban06`
+* `Decal_Graffiti3x2_Urban07`
+* `Decal_Graffiti3x2_Urban08`
+* `Decal_Graffiti3x2_Urban09`
 * `Decal_Graffiti3x3_Urban01`
 * `Decal_Graffiti3x3_Urban02`
 * `Decal_Graffiti3x3_Urban03`
+* `Decal_Graffiti3x3_Urban04`
+* `Decal_Graffiti3x3_Urban05`
+* `Decal_Graffiti3x3_Urban06`
+* `Decal_Graffiti3x3_Urban07`
+* `Decal_Graffiti3x3_Urban08`
+* `Decal_Graffiti3x3_Urban09`
