@@ -27,7 +27,9 @@ This mod has some references (.lang files mostly) to non-included content which 
 
 ### Use of AI
 
-Most of these assets contains hand-drawn and composed textures. However, a very limited number of designs may include AI generated content to speed up creation process. The use of AI tools on this work is not intended to replace any human work but help in creation process for some assets since I'm just one dev behind all of this. It is planned to hire artists in the future to replace AI designs.
+Most of these assets contain hand-drawn and composed textures. However, a very limited number of designs may include AI-generated content to speed up creation process. The use of AI tools on this work is not intended to replace any human work but help in creation process for some assets since I'm just one dev behind all of this. I plan to hire artists in the future to replace current AI designs.
+
+Assets using AI-generated content: `Decal_Graffiti3x2_Urban`, `Decal_Graffiti3x3_Urban`.
 
 <hr>
 
