@@ -21,10 +21,6 @@ Items using 'Experimental' quality are unstable, may not work properly and are 
 
 Goal is to maximize optimization using the smallest filesize without direct loss of quality for servers and clients to load the included asset resources on the most efficient way possible. Stable releases after v.1.0 will be built using a sanitizer and compression process for textures and audio files. 'Alpha' and 'Beta' releases won't meet this process so expect for these to have a bigger filesize.
 
-### Extra resources and references
-
-This mod has some references (.lang files mostly) to non-included content which relies on a private mod (HR Creator Hub) for a private server project. Some of these assets will be added through time while others remains as highly experimental tests or non-public content as they are designed for a custom server environment.
-
 ### Use of AI
 
 Most of these assets contain hand-drawn and composed textures. However, a very limited number of designs may include AI-generated content to speed up creation process. The use of AI tools on this work is not intended to replace any human work but help in creation process for some assets since I'm just one dev behind all of this. I plan to hire artists in the future to replace current AI designs.
