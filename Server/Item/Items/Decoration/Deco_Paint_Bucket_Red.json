@@ -1,0 +1,48 @@
+{
+  "Categories": [
+    "HR_CoreCreator.Decoration"
+  ],
+  "ItemSoundSetId": "ISS_Items_Splatty",
+  "BlockType": {
+    "DrawType": "Model",
+    "Material": "Solid",
+    "Opacity": "Semitransparent",
+    "SoundOcclusionOpacity": 0,
+    "PhysicalMaterialId": "Stone",
+    "BlockSoundSetId": "Default",
+    "CustomModel": "Blocks/Decoration/Paint_Bucket.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Decoration/Paint_Bucket_Red.png"
+      }
+    ],
+    "HitboxType": "Plant_Medium",
+    "RandomRotation": "YawStep1",
+    "VariantRotation": "NESW",
+    "BlockParticleSetId": "Dust",
+    "ParticleColor": "#ffffff",
+    "CustomModelScale": 0.75,
+    "Gathering": {
+      "Soft": {}
+    }
+  },
+  "Icon": "Icons/ItemsGenerated/Deco_Paint_Bucket_Red.png",
+  "IconProperties": {
+    "Scale": 0.65,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -10
+    ]
+  },
+  "PlayerAnimationsId": "Block",
+  "TranslationProperties": {
+    "Name": "server.Paint_Bucket_Red.name",
+    "Description": "server.Decoration_Generic.description"
+  },
+  "Scale": 1.6
+}

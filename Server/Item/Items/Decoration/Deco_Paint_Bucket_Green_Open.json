@@ -1,0 +1,21 @@
+{
+  "BlockType": {
+    "ParticleColor": "#ffffff",
+    "Parent": "Deco_Paint_Bucket_Green",
+    "CustomModel": "Blocks/Decoration/Paint_Bucket_Open.blockymodel"
+  },
+  "Icon": "Icons/ItemsGenerated/Deco_Paint_Bucket_Green_Open.png",
+  "IconProperties": {
+    "Scale": 0.65,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -10
+    ]
+  },
+  "Parent": "Deco_Paint_Bucket_Green"
+}

@@ -34,14 +34,6 @@
 * `Deco_Package_Medium`
 * `Deco_Package_Large`
 * `Deco_Paint_Brush`
-* `Deco_Paint_Bucket_Red`
-* `Deco_Paint_Bucket_Red_Open`
-* `Deco_Paint_Bucket_Yellow`
-* `Deco_Paint_Bucket_Yellow_Open`
-* `Deco_Paint_Bucket_Green`
-* `Deco_Paint_Bucket_Green_Open`
-* `Deco_Paint_Bucket_Cyan`
-* `Deco_Paint_Bucket_Cyan_Open`
 * `Deco_Plant_Pots`
 * `Deco_Plant_Flower_White`
 * `Deco_Plant_Flower_Red`
@@ -52,7 +44,6 @@
 * `Deco_Plant_Fern_Cold`
 * `Deco_Plant_Cactus`
 * `Furniture_Display_Stand_Royale`
-* `Furniture_Construction_Cone`
 * `Furniture_Carpet_Octagon_Magic`
 
 #### New Food

@@ -1,0 +1,28 @@
+{
+  "BlockType": {
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Decoration/Paint_Bucket_Yellow.png"
+      }
+    ],
+    "ParticleColor": "#ffffff",
+    "Parent": "Deco_Paint_Bucket_Red"
+  },
+  "Icon": "Icons/ItemsGenerated/Deco_Paint_Bucket_Yellow.png",
+  "IconProperties": {
+    "Scale": 0.65,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -10
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "server.Paint_Bucket_Yellow.name"
+  },
+  "Parent": "Deco_Paint_Bucket_Red"
+}

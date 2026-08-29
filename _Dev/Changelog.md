@@ -1,3 +1,17 @@
+# 0.14 (UPCOMING)
+
+#### New Decorations
+
+* `Deco_Paint_Bucket_Red`
+* `Deco_Paint_Bucket_Red_Open`
+* `Deco_Paint_Bucket_Yellow`
+* `Deco_Paint_Bucket_Yellow_Open`
+* `Deco_Paint_Bucket_Green`
+* `Deco_Paint_Bucket_Green_Open`
+* `Deco_Paint_Bucket_Cyan`
+* `Deco_Paint_Bucket_Cyan_Open`
+* `Furniture_Construction_Cone`
+
 # 0.13
 
 #### New Windows

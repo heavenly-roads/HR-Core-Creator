@@ -1,0 +1,57 @@
+{
+  "PlayerAnimationsId": "Block",
+  "Icon": "Icons/ItemsGenerated/Furniture_Construction_Cone.png",
+  "IconProperties": {
+    "Scale": 0.8,
+    "Rotation": [
+      27,
+      30,
+      14
+    ],
+    "Translation": [
+      0,
+      -7.5
+    ]
+  },
+  "BlockType": {
+    "CustomModel": "Blocks/Decoration/Construction_Cone.blockymodel",
+    "DrawType": "Model",
+    "HitboxType": "Plant_Large",
+    "Material": "Solid",
+    "Opacity": "Transparent",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Decoration/Construction_Cone.png"
+      }
+    ],
+    "RandomRotation": "YawStep1",
+    "Support": {
+      "Down": [
+        {
+          "FaceType": "Full"
+        }
+      ]
+    },
+    "Gathering": {
+      "Soft": {}
+    },
+    "BlockSoundSetId": "Default"
+  },
+  "Tags": {
+    "Type": [
+      "Furniture"
+    ],
+    "Family": [
+      "Human"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Default",
+  "TranslationProperties": {
+    "Name": "server.Deco_Construction_Cone.name"
+  },
+  "Categories": [
+    "HR_CoreCreator.Decoration"
+  ],
+  "Scale": 1.5,
+  "SubCategory": "Furniture"
+}
