@@ -66,9 +66,3 @@ Server owners / shared worlds:
   <li>Hytale game, vanilla assets and source belongs to Hypixel Studios Canada inc.</li>
   <li>Some textures includes historical paintings under the public domain license.</li>
 </ul>
-
-
-<h1>Content gallery</h1>
-
-<img src="Common/Icons/ItemsGenerated/Block_Grid_Default.png"/>
-<img src="Common/Icons/ItemsGenerated/Block_Grid_Structure.png"/>
