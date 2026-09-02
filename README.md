@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="_Dev/CoreCreator_Header.png" />
+  <img src="_Dev/CoreCreator_Header.png"/>
 </p>
 
 This is a live development repository - <a target="_blank" href="https://www.curseforge.com/hytale/mods/hr-core-creator/files/all"> releases are available on CurseForge</a>.
@@ -66,3 +66,9 @@ Server owners / shared worlds:
   <li>Hytale game, vanilla assets and source belongs to Hypixel Studios Canada inc.</li>
   <li>Some textures includes historical paintings under the public domain license.</li>
 </ul>
+
+
+<h1>Content gallery</h1>
+
+<img src="Common/Icons/ItemsGenerated/Block_Grid_Default.png"/>
+<img src="Common/Icons/ItemsGenerated/Block_Grid_Structure.png"/>

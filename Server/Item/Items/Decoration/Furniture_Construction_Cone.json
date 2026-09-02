@@ -16,7 +16,7 @@
   "BlockType": {
     "CustomModel": "Blocks/Decoration/Construction_Cone.blockymodel",
     "DrawType": "Model",
-    "HitboxType": "Plant_Large",
+    "HitboxType": "Potion",
     "Material": "Solid",
     "Opacity": "Transparent",
     "CustomModelTexture": [
