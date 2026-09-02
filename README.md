@@ -70,5 +70,6 @@ Server owners / shared worlds:
 
 <h1>Content gallery</h1>
 
-<img src="Common/Icons/ItemsGenerated/Block_Grid_Default.png"/>
-<img src="Common/Icons/ItemsGenerated/Block_Grid_Structure.png"/>
+#### Blocks
+
+<img src="Common/Icons/ItemsGenerated/Block_Grid_Default.png"/><img src="Common/Icons/ItemsGenerated/Block_Grid_Structure.png"/>
