@@ -24,7 +24,7 @@
         "unwrapMode": "custom",
         "visible": true,
         "doubleSided": true,
-        "shadingMode": "standard"
+        "shadingMode": "flat"
       },
       "children": [
         {
@@ -52,7 +52,7 @@
             "unwrapMode": "custom",
             "visible": true,
             "doubleSided": true,
-            "shadingMode": "standard"
+            "shadingMode": "flat"
           }
         },
         {

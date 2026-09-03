@@ -1,11 +1,11 @@
 {
   "BlockType": {
+    "Parent": "Template_Particle_Emitter",
     "Particles": [
       {
         "SystemId": "ParticleSystem_Smoke_Trail"
       }
-    ],
-    "Parent": "Template_Particle_Emitter"
+    ]
   },
   "IconProperties": {
     "Scale": 0.58823,

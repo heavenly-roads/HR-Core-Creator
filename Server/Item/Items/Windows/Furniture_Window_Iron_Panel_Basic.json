@@ -16,7 +16,6 @@
         "Texture": "Blocks/Structures/Windows/Window_Iron_Panel.png"
       }
     ],
-    "CustomModelScale": 1,
     "HitboxType": "Window",
     "VariantRotation": "NESW",
     "Flags": {
@@ -31,7 +30,9 @@
     "BlockParticleSetId": "Metal",
     "BlockSoundSetId": "Metal",
     "PhysicalMaterialId": "Metal",
-    "ParticleColor": "#5c5c5c"
+    "ParticleColor": "#5c5c5c",
+    "RequiresAlphaBlending": true,
+    "CubeShadingMode": "Standard"
   },
   "PlayerAnimationsId": "Block",
   "IconProperties": {
