@@ -11,6 +11,12 @@
 * `Deco_Paint_Bucket_Cyan`
 * `Deco_Paint_Bucket_Cyan_Open`
 * `Furniture_Construction_Cone`
+* `Poster_Wall_Arcade08`
+* `Poster_Wall_Arcade09`
+* `Poster_Wall_Capital08`
+* `Poster_Wall_Capital09`
+* `Poster_Wall_Urban08`
+* `Poster_Wall_Urban09`
 
 # 0.13
 

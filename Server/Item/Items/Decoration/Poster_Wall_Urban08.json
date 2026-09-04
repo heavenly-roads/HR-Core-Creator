@@ -1,0 +1,19 @@
+{
+  "Icon": "Icons/ItemsGenerated/Poster_Wall_Urban08.png",
+  "IconProperties": {
+    "Scale": 0.8,
+    "Rotation": [
+      0,
+      0,
+      0
+    ],
+    "Translation": [
+      0,
+      -16
+    ]
+  },
+  "BlockType": {
+    "CustomModel": "Blocks/Posters/Poster_Wall_08.blockymodel"
+  },
+  "Parent": "Poster_Wall_Urban01"
+}
