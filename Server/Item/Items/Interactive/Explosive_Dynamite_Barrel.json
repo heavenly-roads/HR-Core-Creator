@@ -14,9 +14,25 @@
           {
             "Type": "ChangeState",
             "Changes": {
-              "default": "Exploding"
+              "default": "Activated"
             },
             "UpdateBlockState": true
+          }
+        ]
+      },
+      "ProjectileHit": {
+        "Interactions": [
+          {
+            "Type": "Condition",
+            "Next": {
+              "Type": "ChangeState",
+              "UpdateBlockState": true,
+              "Changes": {
+                "default": "Exploding",
+                "Activated": "Exploding"
+              }
+            },
+            "RequiredGameMode": "Adventure"
           }
         ]
       }
@@ -76,24 +92,15 @@
           }
         }
       ],
-      "BlockDropChance": 0.1,
-      "BlockDamageFalloff": 5
+      "BlockDropChance": 0,
+      "BlockDamageFalloff": 5,
+      "DetonateExplosiveBlocks": true
     },
     "State": {
       "Definitions": {
-        "Exploding": {
+        "Activated": {
           "InteractionHint": "",
           "AmbientSoundEventId": "SFX_Bomb_Fuse",
-          "Particles": [
-            {
-              "SystemId": "Fuse_Bomb",
-              "PositionOffset": {
-                "Y": 0.425,
-                "X": 0.32,
-                "Z": 0.08
-              }
-            }
-          ],
           "Light": {
             "Color": "#642"
           },
@@ -105,7 +112,36 @@
               }
             }
           },
-          "SoundOcclusionOpacity": 0
+          "SoundOcclusionOpacity": 0,
+          "Particles": [
+            {
+              "SystemId": "Fuse_Bomb",
+              "PositionOffset": {
+                "Y": 0.425,
+                "X": 0.32,
+                "Z": 0.08
+              }
+            }
+          ]
+        },
+        "Exploding": {
+          "ExplosionConfig": {
+            "Particles": [
+              {
+                "SystemId": "ParticleSystem_Explosion_Dynamite",
+                "Scale": 2
+              }
+            ],
+            "SoundEventId": "Sound_Explosion_Dynamite"
+          },
+          "BlockEntity": {
+            "Components": {
+              "BlockExplosive": {
+                "PrimedOnPlace": true,
+                "FuseDuration": 0
+              }
+            }
+          }
         }
       }
     },

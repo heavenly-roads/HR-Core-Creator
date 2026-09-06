@@ -18,6 +18,12 @@
 * `Poster_Wall_Urban08`
 * `Poster_Wall_Urban09`
 
+#### Changes
+
+* Improved damage behaviour of `Explosive_Dynamite` and `Explosive_Dynamite_Barrel`.
+
+---
+
 # 0.13
 
 #### New Windows

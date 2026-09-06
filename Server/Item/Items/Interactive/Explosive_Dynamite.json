@@ -21,19 +21,34 @@
           {
             "Type": "ChangeState",
             "Changes": {
-              "default": "Exploding"
+              "default": "Activated"
             },
             "UpdateBlockState": true
           }
         ]
+      },
+      "ProjectileHit": {
+        "Interactions": [
+          {
+            "Type": "Condition",
+            "Next": {
+              "Type": "ChangeState",
+              "UpdateBlockState": true,
+              "Changes": {
+                "default": "Exploding",
+                "Activated": "Exploding"
+              }
+            },
+            "RequiredGameMode": "Adventure"
+          }
+        ]
       }
     },
-    "ExplosionReactionState": "Exploding",
     "ExplosionConfig": {
       "DamageEntities": true,
       "DamageBlocks": true,
       "BlockDamageRadius": 4,
-      "BlockDropChance": 0.1,
+      "BlockDropChance": 0,
       "EntityDamage": 60,
       "EntityDamageRadius": 4,
       "Knockback": {
@@ -84,11 +99,12 @@
           }
         }
       ],
-      "BlockDamageFalloff": 4
+      "BlockDamageFalloff": 4,
+      "DetonateExplosiveBlocks": true
     },
     "State": {
       "Definitions": {
-        "Exploding": {
+        "Activated": {
           "BlockEntity": {
             "Components": {
               "BlockExplosive": {
@@ -98,6 +114,8 @@
             }
           },
           "AmbientSoundEventId": "SFX_Bomb_Fuse",
+          "SoundOcclusionOpacity": 0,
+          "InteractionHint": "",
           "Particles": [
             {
               "SystemId": "Fuse_Bomb",
@@ -109,9 +127,17 @@
           ],
           "Light": {
             "Color": "#642"
-          },
-          "InteractionHint": "",
-          "SoundOcclusionOpacity": 0
+          }
+        },
+        "Exploding": {
+          "BlockEntity": {
+            "Components": {
+              "BlockExplosive": {
+                "PrimedOnPlace": true,
+                "FuseDuration": 0
+              }
+            }
+          }
         }
       }
     },
