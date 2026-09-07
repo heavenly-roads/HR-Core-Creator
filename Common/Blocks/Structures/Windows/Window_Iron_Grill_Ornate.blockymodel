@@ -282,7 +282,8 @@
               "front": {
                 "offset": {"x": 32, "y": 0},
                 "mirror": {"x": false, "y": false},
-                "angle": 0
+                "angle": 0,
+                "transparent": true
               }
             },
             "unwrapMode": "custom",

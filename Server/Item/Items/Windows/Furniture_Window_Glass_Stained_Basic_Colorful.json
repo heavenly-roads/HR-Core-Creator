@@ -40,7 +40,8 @@
     "BlockParticleSetId": "GlassEmpty",
     "BlockSoundSetId": "Glass",
     "PhysicalMaterialId": "Glass",
-    "ParticleColor": "#9b9b9b"
+    "ParticleColor": "#9b9b9b",
+    "RequiresAlphaBlending": true
   },
   "PlayerAnimationsId": "Block",
   "IconProperties": {

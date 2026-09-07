@@ -19,7 +19,7 @@
 * `Poster_Wall_Urban09`
 
 #### Changes
-
+* Windows supports transparency now.
 * Improved damage behaviour of `Explosive_Dynamite` and `Explosive_Dynamite_Barrel`.
 
 ---
