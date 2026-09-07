@@ -207,5 +207,11 @@
   "SubCategory": "Explosives",
   "Categories": [
     "HR_CoreCreator.Interactive"
-  ]
+  ],
+  "CarryInteractions": {
+    "Secondary": "Root_Carry_Place_Block"
+  },
+  "CarryHudInputBindings": {
+    "Secondary": "client.hud.inputBindings.place"
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "RenderMode": "BlendAdd",
+  "RenderMode": "Erosion",
   "EmitOffset": {
     "X": {
       "Min": 0.0,
@@ -23,7 +23,7 @@
   "MaxConcurrentParticles": 64,
   "ParticleLifeSpan": {
     "Min": 0.6,
-    "Max": 1
+    "Max": 0.8
   },
   "SpawnRate": {
     "Min": 120.0,
@@ -31,8 +31,8 @@
   },
   "InitialVelocity": {
     "Speed": {
-      "Max": 18.0,
-      "Min": 10.0
+      "Max": 12,
+      "Min": 8
     },
     "Yaw": {
       "Min": -180,
@@ -151,7 +151,7 @@
   "SpawnBurst": true,
   "TotalParticles": {
     "Min": 32,
-    "Max": 64
+    "Max": 32
   },
   "Shape": "Sphere"
 }

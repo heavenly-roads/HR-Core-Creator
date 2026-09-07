@@ -21,6 +21,7 @@
 #### Changes
 * Windows supports transparency now.
 * Improved damage behaviour of `Explosive_Dynamite` and `Explosive_Dynamite_Barrel`.
+* Updated explosion effects.
 
 ---
 

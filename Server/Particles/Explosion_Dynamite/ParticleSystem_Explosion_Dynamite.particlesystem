@@ -131,9 +131,41 @@
     },
     {
       "SpawnerId": "ParticleSystem_Explosion_Flames"
+    },
+    {
+      "SpawnerId": "ParticleSpawner_Explosion_Generic_Trail",
+      "Attractors": [
+        {
+          "LinearAcceleration": {
+            "Y": -14
+          },
+          "LinearImpulse": {
+            "Y": 8
+          }
+        }
+      ],
+      "TotalSpawners": 3,
+      "MaxConcurrent": 3,
+      "SpawnRate": {
+        "Min": 80,
+        "Max": 80
+      },
+      "InitialVelocity": {
+        "Speed": {
+          "Min": 6,
+          "Max": 12
+        },
+        "Yaw": {
+          "Min": 0,
+          "Max": 180
+        },
+        "Pitch": {
+          "Max": 180,
+          "Min": 0
+        }
+      }
     }
   ],
-  "BoundingRadius": 32,
   "CullDistance": 128,
-  "IsImportant": false
+  "BoundingRadius": 32
 }
