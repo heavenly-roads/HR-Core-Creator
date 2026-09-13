@@ -49,11 +49,13 @@
       "Opacity": 1
     },
     "UVOption": "None",
-    "Texture": "Particles/Bounce_Pad_Arrow.png"
+    "Texture": "Particles/Bounce_Pad_Arrow.png",
+    "CameraNearFadeStartDistance": 2,
+    "CameraNearFadeEndDistance": 8,
+    "SoftParticles": "Enable"
   },
   "RenderMode": "Erosion",
-  "CameraOffset": -1,
-  "Shape": "Sphere",
+  "CameraOffset": 0.5,
   "ParticleLifeSpan": {
     "Max": 2,
     "Min": 2
@@ -62,13 +64,18 @@
   "Attractors": [
     {
       "LinearImpulse": {
-        "Y": 1
+        "Y": 2
+      },
+      "Radius": 2,
+      "LinearAcceleration": {
+        "Y": -1
       }
     }
   ],
-  "MaxConcurrentParticles": 1,
   "SpawnRate": {
-    "Min": 20,
-    "Max": 20
-  }
+    "Min": 1,
+    "Max": 1
+  },
+  "IsLowRes": true,
+  "MaxConcurrentParticles": 8
 }

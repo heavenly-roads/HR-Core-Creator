@@ -19,6 +19,8 @@
 * `Poster_Wall_Urban09`
 
 #### Changes
+
+* Fixed interaction for Bounce Pads.
 * Windows supports transparency now.
 * Improved damage behaviour of `Explosive_Dynamite` and `Explosive_Dynamite_Barrel`.
 * Updated explosion effects.

@@ -7,5 +7,5 @@
       "SpawnerId": "ParticleSpawner_JumpPad_Arrow"
     }
   ],
-  "CullDistance": 50
+  "CullDistance": 64
 }

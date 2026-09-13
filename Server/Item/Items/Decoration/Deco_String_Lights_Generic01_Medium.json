@@ -1,0 +1,18 @@
+{
+  "Icon": "Icons/ItemsGenerated/Deco_String_Lights_Generic01_Medium.png",
+  "IconProperties": {
+    "Scale": 0.16,
+    "Rotation": [
+      0,
+      0,
+      0
+    ],
+    "Translation": [
+      -124,
+      22
+    ]
+  },
+  "Model": "Items/Lights/String_Lights_Medium.blockymodel",
+  "Parent": "Deco_String_Lights_Generic01_Short",
+  "Quality": "Developer"
+}

@@ -34,21 +34,14 @@
       "Collision": {
         "Interactions": [
           {
-            "Type": "ChangeState",
-            "Changes": {
-              "Active": "default",
-              "default": "Active"
-            },
-            "RunTime": 0.1,
-            "Next": {
-              "Type": "ChangeState",
-              "Changes": {
-                "Active": "default",
-                "default": "Active"
-              }
-            },
-            "UpdateBlockState": true,
+            "Type": "Simple",
             "Effects": {
+              "Particles": [
+                {
+                  "SystemId": "ParticleSystem_JumpPad_Activated_Medium",
+                  "TargetEntityPart": "Self"
+                }
+              ],
               "LocalSoundEventId": "Bounce_Pad_Activated"
             }
           },
@@ -59,10 +52,7 @@
             },
             "Force": 45
           }
-        ],
-        "Cooldown": {
-          "Cooldown": 0.5
-        }
+        ]
       }
     }
   },

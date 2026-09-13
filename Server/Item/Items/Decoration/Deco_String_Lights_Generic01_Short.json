@@ -1,27 +1,27 @@
 {
-  "Icon": "Icons/ItemsGenerated/Deco_String_Lights_Generic.png",
+  "Icon": "Icons/ItemsGenerated/Deco_String_Lights_Generic01_Short.png",
   "Categories": [
-    "HR_CoreCreator.Decoration"
+    "HR_CoreCreator.Lighting"
   ],
   "PlayerAnimationsId": "Item",
   "ItemSoundSetId": "ISS_Items_Cloth",
   "IconProperties": {
-    "Scale": 0.12,
+    "Scale": 0.25,
     "Rotation": [
       0,
       0,
       0
     ],
     "Translation": [
-      -158,
-      26
+      -95,
+      22
     ]
   },
   "TranslationProperties": {
     "Name": "server.Deco_String_Lights_Generic.name",
     "Description": "server.Use_Entity_Tool.description"
   },
-  "Model": "Items/Lights/String_Lights_Long.blockymodel",
+  "Model": "Items/Lights/String_Lights_Short.blockymodel",
   "Texture": "Items/Lights/String_Lights_Generic.png",
   "Scale": 2,
   "Quality": "Developer"

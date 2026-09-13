@@ -7,7 +7,6 @@
     "Min": 10,
     "Max": 10
   },
-  "LinearFiltering": false,
   "EmitOffset": {
     "X": {
       "Min": 0.4,

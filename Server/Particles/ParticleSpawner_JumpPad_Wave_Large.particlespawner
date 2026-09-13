@@ -40,7 +40,6 @@
     "Texture": "Particles/Textures/Basic/Glow_Square.png"
   },
   "RenderMode": "BlendAdd",
-  "CameraOffset": -1,
   "Shape": "Sphere",
   "Attractors": [
     {
@@ -60,5 +59,13 @@
   },
   "LinearFiltering": true,
   "SpawnBurst": true,
-  "MaxConcurrentParticles": 3
+  "TotalParticles": {
+    "Min": 1,
+    "Max": 1
+  },
+  "SpawnRate": {
+    "Min": 80,
+    "Max": 80
+  },
+  "CameraOffset": 0.5
 }
