@@ -1,0 +1,25 @@
+{
+  "BlockType": {
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Decoration/Industrial_Barrel_Yellow.png"
+      }
+    ],
+    "Parent": "Deco_Industrial_Barrel_Grey",
+    "ParticleColor": "#a48144"
+  },
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -14
+    ]
+  },
+  "Icon": "Icons/ItemsGenerated/Deco_Industrial_Barrel_Yellow.png",
+  "Parent": "Deco_Industrial_Barrel_Grey"
+}

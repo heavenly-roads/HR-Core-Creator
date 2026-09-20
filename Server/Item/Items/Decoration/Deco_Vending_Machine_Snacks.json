@@ -1,9 +1,9 @@
 {
   "BlockType": {
-    "CustomModel": "Blocks/Interactive/Vending_Machine_Snacks.blockymodel",
+    "CustomModel": "Blocks/Decoration/Vending_Machine_Snacks.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Interactive/Vending_Machine_Snacks.png"
+        "Texture": "Blocks/Decoration/Vending_Machine_Snacks.png"
       }
     ],
     "Parent": "Deco_Vending_Machine"

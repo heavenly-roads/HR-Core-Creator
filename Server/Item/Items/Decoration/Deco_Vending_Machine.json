@@ -8,10 +8,10 @@
     "DrawType": "Model",
     "Material": "Solid",
     "Opacity": "Solid",
-    "CustomModel": "Blocks/Interactive/Vending_Machine.blockymodel",
+    "CustomModel": "Blocks/Decoration/Vending_Machine.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Interactive/Vending_Machine.png"
+        "Texture": "Blocks/Decoration/Vending_Machine.png"
       }
     ],
     "VariantRotation": "NESW",
