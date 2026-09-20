@@ -205,6 +205,12 @@
           "Name": "categories.subcategory.utilities.name",
           "Order": 5,
           "Description": ""
+        },
+        {
+          "Id": "Notes",
+          "Name": "categories.subcategory.notes.name",
+          "Order": 10,
+          "Description": ""
         }
       ]
     },

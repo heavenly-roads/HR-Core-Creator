@@ -24,6 +24,7 @@ subcategory.lamps.name = Lamps
 subcategory.weapons.name = Weapons
 subcategory.food.name = Food
 subcategory.utilities.name = Utilities
+subcategory.notes.name = Notes
 subcategory.loot.name = Loot Containers
 subcategory.dispensers.name = Dispensers
 subcategory.explosives.name = Explosives
