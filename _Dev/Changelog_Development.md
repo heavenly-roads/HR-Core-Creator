@@ -27,9 +27,6 @@
 * `Deco_Bottles`
 * `Deco_Bottles_Tavern`
 * `Deco_Hay_Bale`
-* `Deco_Industrial_Barrel_Grey`
-* `Deco_Industrial_Barrel_Yellow`
-* `Deco_Industrial_Barrel_Blue`
 * `Deco_Manhole_Urban`
 * `Deco_Package_Small`
 * `Deco_Package_Medium`

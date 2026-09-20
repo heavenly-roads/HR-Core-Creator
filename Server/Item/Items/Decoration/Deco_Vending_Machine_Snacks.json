@@ -1,0 +1,28 @@
+{
+  "BlockType": {
+    "CustomModel": "Blocks/Interactive/Vending_Machine_Snacks.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Interactive/Vending_Machine_Snacks.png"
+      }
+    ],
+    "Parent": "Deco_Vending_Machine"
+  },
+  "IconProperties": {
+    "Scale": 0.28,
+    "Rotation": [
+      24,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -12,
+      -47
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "server.Vending_Machine_Snacks.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Deco_Vending_Machine_Snacks.png",
+  "Parent": "Deco_Vending_Machine"
+}

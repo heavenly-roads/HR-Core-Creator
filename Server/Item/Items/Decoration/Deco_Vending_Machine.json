@@ -1,0 +1,49 @@
+{
+  "Categories": [
+    "HR_CoreCreator.Decoration"
+  ],
+  "ItemSoundSetId": "ISS_Items_Metal",
+  "PlayerAnimationsId": "Block",
+  "BlockType": {
+    "DrawType": "Model",
+    "Material": "Solid",
+    "Opacity": "Solid",
+    "CustomModel": "Blocks/Interactive/Vending_Machine.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Interactive/Vending_Machine.png"
+      }
+    ],
+    "VariantRotation": "NESW",
+    "BlockSoundSetId": "Metal",
+    "PhysicalMaterialId": "Metal",
+    "BlockParticleSetId": "Metal",
+    "ParticleColor": "#b5b5b5",
+    "HitboxType": "Vending_Machine",
+    "CustomModelScale": 0.9,
+    "Light": {
+      "Color": "#888"
+    },
+    "RequiresAlphaBlending": true
+  },
+  "IconProperties": {
+    "Scale": 0.28,
+    "Rotation": [
+      24,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -12,
+      -47
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "server.Vending_Machine.name"
+  },
+  "Scale": 0.65,
+  "Interactions": {
+    "Secondary": "Block_Secondary"
+  },
+  "Icon": "Icons/ItemsGenerated/Deco_Vending_Machine.png"
+}

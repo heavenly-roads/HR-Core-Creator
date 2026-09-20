@@ -2,6 +2,12 @@
 
 #### New Decorations
 
+* `Deco_Vending_Machine`
+* `Deco_Vending_Machine_Drinks`
+* `Deco_Vending_Machine_Snacks`
+* `Deco_Industrial_Barrel_Grey`
+* `Deco_Industrial_Barrel_Yellow`
+* `Deco_Industrial_Barrel_Blue`
 * `Deco_Paint_Bucket_Red`
 * `Deco_Paint_Bucket_Red_Open`
 * `Deco_Paint_Bucket_Yellow`
