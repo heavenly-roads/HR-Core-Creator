@@ -1,0 +1,31 @@
+{
+  "Icon": "Icons/ItemsGenerated/Lamp_Neon_Block_Purple.png",
+  "BlockType": {
+    "Textures": [
+      {
+        "All": "BlockTextures/Neon_Purple.png"
+      }
+    ],
+    "Light": {
+      "Color": "#85f"
+    },
+    "ParticleColor": "#9048d8",
+    "Parent": "Lamp_Neon_Block_White"
+  },
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "server.Lamp_Neon_Block_Purple.name"
+  },
+  "Parent": "Lamp_Neon_Block_White"
+}

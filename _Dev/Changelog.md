@@ -24,6 +24,17 @@
 * `Poster_Wall_Urban08`
 * `Poster_Wall_Urban09`
 
+#### New Lighting
+
+* `Lamp_Neon_Block_White`
+* `Lamp_Neon_Block_Red`
+* `Lamp_Neon_Block_Orange`
+* `Lamp_Neon_Block_Yellow`
+* `Lamp_Neon_Block_Green`
+* `Lamp_Neon_Block_Blue`
+* `Lamp_Neon_Block_Purple`
+* `Lamp_Neon_Block_Pink`
+
 #### Changes
 
 * Fixed Bounce Pads interaction.
