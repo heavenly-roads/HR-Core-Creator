@@ -257,6 +257,7 @@ Drink_Water.description = The oldest, most unique and unparalleled drink.
 
 Snowball.name = Snowball
 Bomb.name = Bomb
+Weapon_Mace_Stone_Heavy.name = Heavy Stone Mace
 
 # === interactive ===
 
