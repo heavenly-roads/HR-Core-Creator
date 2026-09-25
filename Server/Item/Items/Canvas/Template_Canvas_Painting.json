@@ -31,7 +31,11 @@
       ]
     },
     "ParticleColor": "#5b3222",
-    "CubeShadingMode": "Standard"
+    "CubeShadingMode": "Standard",
+    "MovementSettings": {
+      "DisableAutoStep": true,
+      "IsClimbable": false
+    }
   },
   "PlayerAnimationsId": "Block",
   "IconProperties": {

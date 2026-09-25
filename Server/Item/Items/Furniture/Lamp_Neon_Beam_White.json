@@ -40,7 +40,10 @@
     "Light": {
       "Color": "#bbb"
     },
-    "CubeShadingMode": "Fullbright"
+    "CubeShadingMode": "Fullbright",
+    "MovementSettings": {
+      "DisableAutoStep": true
+    }
   },
   "ItemSoundSetId": "ISS_Default",
   "IconProperties": {
