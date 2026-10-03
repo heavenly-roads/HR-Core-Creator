@@ -203,6 +203,8 @@ Furniture_Carpet_Octagon_Magic.name = Octagonal Magic Carpet
 Furniture_Carpet_Octagon_Royal.name = Octagonal Royal Carpet
 Furniture_Cushion_Royal.name = Royal Cushion
 Furniture_Display_Stand_Royale.name = Royal Display Stand
+Furniture_Locker.name = Locker
+Furniture_Locker_Double.name = Double Locker
 Furniture_Table_Basic.name = Basic Table
 
 Sign_Arcade.name = Arcade Sign
