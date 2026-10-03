@@ -1,4 +1,4 @@
-# 0.14 (UPCOMING)
+# 0.14
 
 #### New Decorations
 
