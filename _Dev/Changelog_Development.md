@@ -42,8 +42,11 @@
 * `Deco_Plant_Fern_Cold`
 * `Deco_Plant_Cactus`
 * `Deco_Party_Balloons`
+* `Deco_Party_Confetti_Scattered`
 * `Furniture_Display_Stand_Royale`
 * `Furniture_Carpet_Octagon_Magic`
+* `Furniture_Locker`
+* `Furniture_Locker_Double`
 
 #### New Food
 
