@@ -103,7 +103,7 @@ if "%OPTIMIZE_PNG%"=="1" (
         set /A COUNT+=1
         set /A PERCENT=COUNT*100/TOTAL
 
-        echo [!COUNT!/!TOTAL!] !PERCENT!%% PNG  - %%~nxf
+        echo [!COUNT!/!TOTAL!] !PERCENT!%% PNG - %%~nxf
 
         pngquant.exe ^
             --quality=%PNG_QUALITY% ^
@@ -130,13 +130,17 @@ if "%OPTIMIZE_OGG%"=="1" (
         set /A COUNT+=1
         set /A PERCENT=COUNT*100/TOTAL
 
-        :: Determine OGG quality based on folder
+        :: Default OGG quality = Music
         set "OGG_QUALITY=%OGG_MUSIC_QUALITY%"
 
-        echo %%f | findstr /I /R "\\Sounds\\" >nul
-        if not errorlevel 1 set "OGG_QUALITY=%OGG_SOUNDS_QUALITY%"
+        :: Check if the file is inside a Sounds folder
+        set "FILE_PATH=%%~dpf"
 
-        echo [!COUNT!/!TOTAL!] !PERCENT!%% OGG  - %%~nxf [q!OGG_QUALITY!]
+        if /I not "!FILE_PATH:\Sounds\=!"=="!FILE_PATH!" (
+            set "OGG_QUALITY=%OGG_SOUNDS_QUALITY%"
+        )
+
+        echo [!COUNT!/!TOTAL!] !PERCENT!%% OGG - %%~nxf [q!OGG_QUALITY!]
 
         ffmpeg.exe ^
             -y ^
