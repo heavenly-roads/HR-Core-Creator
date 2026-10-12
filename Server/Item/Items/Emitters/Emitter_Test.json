@@ -1,0 +1,28 @@
+{
+  "BlockType": {
+    "Parent": "Template_Particle_Emitter",
+    "Particles": [
+      {
+        "SystemId": "ParticleSystem_Explosion_Dense"
+      }
+    ]
+  },
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "server.Emitter_Smoke_Trail.name"
+  },
+  "Icon": "Icons/Items/Emitter_Smoke.png",
+  "Quality": "Developer",
+  "Parent": "Template_Particle_Emitter"
+}

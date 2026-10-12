@@ -1,0 +1,122 @@
+{
+  "RenderMode": "Erosion",
+  "ParticleRotationInfluence": "Billboard",
+  "LinearFiltering": true,
+  "MaxConcurrentParticles": 32,
+  "ParticleLifeSpan": {
+    "Min": 2,
+    "Max": 2
+  },
+  "Particle": {
+    "Texture": "Particles/Textures/Fire/Fire_Erosion32.png",
+    "ScaleRatioConstraint": "None",
+    "Animation": {
+      "0": {
+        "FrameIndex": {
+          "Min": 0,
+          "Max": 0
+        },
+        "Scale": {
+          "X": {
+            "Min": 1,
+            "Max": 1
+          },
+          "Y": {
+            "Min": 1,
+            "Max": 1
+          }
+        },
+        "Opacity": 0,
+        "Color": "#ffffff"
+      },
+      "5": {
+        "Opacity": 1
+      },
+      "20": {
+        "Opacity": 1,
+        "Color": "#ffe92f"
+      },
+      "50": {},
+      "80": {},
+      "100": {
+        "Opacity": 0.0,
+        "Scale": {
+          "X": {
+            "Min": 3,
+            "Max": 4
+          },
+          "Y": {
+            "Min": 3,
+            "Max": 4
+          }
+        },
+        "Color": "#ff2929"
+      }
+    },
+    "InitialAnimationFrame": {
+      "Opacity": 1,
+      "FrameIndex": {
+        "Min": 0,
+        "Max": 3
+      },
+      "Scale": {
+        "X": {
+          "Min": 0.4,
+          "Max": 0.6
+        },
+        "Y": {
+          "Min": 0.4,
+          "Max": 0.6
+        }
+      },
+      "Rotation": {
+        "Z": {
+          "Min": -180,
+          "Max": 180
+        }
+      }
+    },
+    "FrameSize": {
+      "Width": 64,
+      "Height": 64
+    },
+    "SoftParticles": "Enable",
+    "UVOption": "RandomFlipUV"
+  },
+  "LifeSpan": 1,
+  "Attractors": [
+    {
+      "RadialImpulse": 2,
+      "LinearAcceleration": {
+        "Y": 0.5
+      }
+    }
+  ],
+  "SpawnRate": {
+    "Min": 50,
+    "Max": 50
+  },
+  "EmitOffset": {
+    "X": {
+      "Min": -1,
+      "Max": 1
+    },
+    "Y": {
+      "Min": 0,
+      "Max": 0
+    },
+    "Z": {
+      "Min": -1,
+      "Max": 1
+    }
+  },
+  "LightInfluence": 0,
+  "UVMotion": {
+    "Texture": "Particles/Textures/UVMotion/FlowMapSmoke.png",
+    "Scale": 1,
+    "SpeedX": 0.5,
+    "SpeedY": 0.5,
+    "Strength": 4,
+    "AddRandomUVOffset": true
+  }
+}

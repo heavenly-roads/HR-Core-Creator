@@ -106,5 +106,13 @@
     "SoftParticles": "Enable"
   },
   "ParticleRotationInfluence": "BillboardVelocity",
-  "LifeSpan": 9
+  "LifeSpan": 9,
+  "UVMotion": {
+    "Texture": "Particles/Textures/UVMotion/FlowMapSmoke.png",
+    "Scale": 1,
+    "Strength": 8,
+    "SpeedY": 0.2,
+    "SpeedX": 0.2,
+    "AddRandomUVOffset": true
+  }
 }

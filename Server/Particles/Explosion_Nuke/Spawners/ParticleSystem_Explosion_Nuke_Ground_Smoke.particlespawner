@@ -91,7 +91,11 @@
         "Max": 3
       }
     },
-    "UVOption": "RandomFlipUV"
+    "UVOption": "RandomFlipUV",
+    "CameraNearFadeStartDistance": 6,
+    "CameraNearFadeEndDistance": 12,
+    "SoftParticles": "Enable",
+    "SoftParticlesFadeFactor": 2
   },
   "ParticleRotationInfluence": "Billboard",
   "LifeSpan": 12,

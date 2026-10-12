@@ -113,5 +113,13 @@
     "UVOption": "RandomFlipUV"
   },
   "ParticleRotationInfluence": "BillboardVelocity",
-  "LifeSpan": 12
+  "LifeSpan": 12,
+  "UVMotion": {
+    "Texture": "Particles/Textures/UVMotion/FlowMapSmoke.png",
+    "Scale": 1,
+    "Strength": 2,
+    "SpeedY": 0.1,
+    "SpeedX": 0.1,
+    "AddRandomUVOffset": true
+  }
 }

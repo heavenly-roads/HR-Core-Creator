@@ -73,7 +73,9 @@
         "Min": 0,
         "Max": 0
       }
-    }
+    },
+    "CameraNearFadeEndDistance": 16,
+    "CameraNearFadeStartDistance": 8
   },
   "CameraOffset": -10,
   "LifeSpan": 1,

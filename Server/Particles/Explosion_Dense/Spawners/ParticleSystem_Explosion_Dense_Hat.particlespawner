@@ -1,0 +1,122 @@
+{
+  "RenderMode": "Erosion",
+  "EmitOffset": {
+    "X": {
+      "Min": -2,
+      "Max": 2
+    },
+    "Z": {
+      "Min": -2,
+      "Max": 2
+    }
+  },
+  "LinearFiltering": true,
+  "LightInfluence": 0,
+  "MaxConcurrentParticles": 64,
+  "ParticleLifeSpan": {
+    "Min": 4,
+    "Max": 5
+  },
+  "SpawnRate": {
+    "Min": 20,
+    "Max": 20
+  },
+  "Attractors": [
+    {
+      "RadialImpulse": 2,
+      "RadialAcceleration": -0.3,
+      "LinearAcceleration": {
+        "Y": -0.75
+      }
+    },
+    {
+      "Radius": 2,
+      "LinearImpulse": {
+        "Y": 4
+      }
+    }
+  ],
+  "Particle": {
+    "Texture": "Particles/Effects/SmokeRound_01.png",
+    "FrameSize": {
+      "Width": 128,
+      "Height": 128
+    },
+    "ScaleRatioConstraint": "None",
+    "Animation": {
+      "0": {
+        "Scale": {
+          "X": {
+            "Min": 1,
+            "Max": 1
+          },
+          "Y": {
+            "Min": 1,
+            "Max": 1
+          }
+        },
+        "Opacity": 0,
+        "FrameIndex": {
+          "Min": 0,
+          "Max": 0
+        }
+      },
+      "30": {
+        "Opacity": 1,
+        "Color": "#514141"
+      },
+      "50": {},
+      "70": {
+        "Opacity": 0.8
+      },
+      "100": {
+        "Opacity": 0,
+        "Color": "#626262",
+        "Scale": {
+          "X": {
+            "Min": 1.5,
+            "Max": 1.5
+          },
+          "Y": {
+            "Min": 1.5,
+            "Max": 1.5
+          }
+        }
+      }
+    },
+    "InitialAnimationFrame": {
+      "Rotation": {
+        "Z": {
+          "Min": -180,
+          "Max": 180
+        }
+      },
+      "Scale": {
+        "X": {
+          "Min": 0.6,
+          "Max": 0.8
+        },
+        "Y": {
+          "Min": 0.6,
+          "Max": 0.8
+        }
+      },
+      "Opacity": 1,
+      "Color": "#514141",
+      "FrameIndex": {
+        "Min": 0,
+        "Max": 3
+      }
+    },
+    "UVOption": "RandomFlipUV"
+  },
+  "ParticleRotationInfluence": "BillboardVelocity",
+  "LifeSpan": 2,
+  "UVMotion": {
+    "Texture": "Particles/Textures/UVMotion/FlowMapSmoke.png",
+    "Scale": 1,
+    "SpeedX": 0.3,
+    "SpeedY": 0.3,
+    "Strength": 4
+  }
+}

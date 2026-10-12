@@ -1,0 +1,98 @@
+{
+  "Spawners": [
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Dense_Hat_Fire",
+      "InitialVelocity": {
+        "Speed": {
+          "Min": 4,
+          "Max": 4
+        },
+        "Pitch": {
+          "Max": 90,
+          "Min": 90
+        }
+      },
+      "PositionOffset": {
+        "Y": -2
+      }
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Dense_Hat",
+      "InitialVelocity": {
+        "Speed": {
+          "Min": 3,
+          "Max": 3
+        },
+        "Pitch": {
+          "Max": 90,
+          "Min": 90
+        }
+      }
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Dense_Hat_Billboard",
+      "InitialVelocity": {
+        "Speed": {
+          "Min": 3,
+          "Max": 3
+        },
+        "Pitch": {
+          "Max": 90,
+          "Min": 90
+        }
+      }
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Dense_Trunk"
+    },
+    {
+      "SpawnerId": "ParticleSpawner_Explosion_Generic_Trail",
+      "Attractors": [
+        {
+          "LinearAcceleration": {
+            "Y": -10
+          },
+          "LinearImpulse": {
+            "Y": 6
+          }
+        }
+      ],
+      "TotalSpawners": 5,
+      "MaxConcurrent": 5,
+      "SpawnRate": {
+        "Min": 80,
+        "Max": 80
+      },
+      "InitialVelocity": {
+        "Speed": {
+          "Min": 6,
+          "Max": 12
+        },
+        "Yaw": {
+          "Min": 0,
+          "Max": 180
+        },
+        "Pitch": {
+          "Max": 180,
+          "Min": 0
+        }
+      }
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Dynamite_Glow"
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Dense_Debris"
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Dense_Flames"
+    },
+    {
+      "SpawnerId": "ParticleSystem_Explosion_Dense_Smoke_Side"
+    }
+  ],
+  "CullDistance": 512,
+  "BoundingRadius": 32,
+  "LifeSpan": 20,
+  "IsImportant": true
+}

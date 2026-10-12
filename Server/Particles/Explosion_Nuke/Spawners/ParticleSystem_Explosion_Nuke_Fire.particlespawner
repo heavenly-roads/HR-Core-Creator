@@ -105,7 +105,9 @@
           "Max": 1
         }
       }
-    }
+    },
+    "CameraNearFadeStartDistance": 4,
+    "CameraNearFadeEndDistance": 8
   },
   "EmitOffset": {
     "Z": {

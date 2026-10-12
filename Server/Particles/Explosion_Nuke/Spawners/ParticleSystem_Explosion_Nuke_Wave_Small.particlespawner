@@ -93,5 +93,12 @@
       "Min": -1,
       "Max": 1
     }
+  },
+  "UVMotion": {
+    "Texture": "Particles/Textures/UVMotion/FlowMap.png",
+    "Scale": 1,
+    "Strength": 0.1,
+    "SpeedY": 0.1,
+    "SpeedX": 0.1
   }
 }
