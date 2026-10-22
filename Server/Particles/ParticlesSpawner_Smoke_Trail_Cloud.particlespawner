@@ -46,8 +46,8 @@
       "60": {
         "Scale": {
           "X": {
-            "Min": 1,
-            "Max": 1
+            "Min": 1.2,
+            "Max": 1.2
           }
         }
       },
@@ -102,10 +102,9 @@
   "LinearFiltering": false,
   "UVMotion": {
     "Texture": "Particles/Textures/UVMotion/FlowMapSmoke.png",
-    "SpeedY": -0.25,
+    "SpeedY": 0.1,
     "Scale": 0.5,
     "Strength": 12,
-    "SpeedX": 0.1,
     "AddRandomUVOffset": true
   }
 }

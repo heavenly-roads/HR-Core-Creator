@@ -1,6 +1,6 @@
 {
   "TranslationProperties": {
-    "Name": "server.Currency_Pile_Coin_Large.name"
+    "Name": "server.Deco_Pile_Coin_Large.name"
   },
   "BlockType": {
     "CustomModel": "Blocks/Currency_Coin_Pile_Large.blockymodel",

@@ -8,12 +8,12 @@
     "Textures": [
       {
         "Sides": "BlockTextures/Grid_Structure2_Sides.png",
-        "UpDown": "BlockTextures/Grid_Structure2_Up.png"
+        "UpDown": "BlockTextures/Grid_Structure_Sides.png"
       }
     ],
     "CubeShadingMode": "Standard",
     "BlockParticleSetId": "Stone",
-    "ParticleColor": "#4b7dab"
+    "ParticleColor": "#3580cc"
   },
   "PlayerAnimationsId": "Block",
   "IconProperties": {

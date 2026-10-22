@@ -6,7 +6,7 @@
         "Y": -1,
         "Z": 0
       },
-      "SpawnerId": "ParticleSytem_Water_Fountain_Beam_Large"
+      "SpawnerId": "ParticleSpawner_Water_Fountain_Beam_Large"
     },
     {
       "PositionOffset": {
@@ -14,9 +14,14 @@
         "Y": 0,
         "Z": 0
       },
-      "SpawnerId": "ParticleSytem_Water_Fountain_Beam_Splash_Large"
+      "SpawnerId": "ParticleSpawner_Water_Fountain_Beam_Splash_Large"
+    },
+    {
+      "SpawnerId": "ParticleSpawner_Water_Fountain_Splash_Large",
+      "PositionOffset": {
+        "Y": -0.4
+      }
     }
   ],
-  "BoundingRadius": 50,
-  "CullDistance": 100
+  "CullDistance": 96
 }

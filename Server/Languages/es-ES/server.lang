@@ -157,6 +157,7 @@ Deco_Neon_Paw.name = Neón de Pata
 Deco_Package_Small.name = Paquete Pequeño
 Deco_Package_Medium.name = Paquete Mediano
 Deco_Package_Large.name = Paquete Grande
+Deco_Party_Confetti_Scattered.name = Confeti de Fiesta Esparcido
 Deco_Paper_Lantern_White.name = Farolillo de Papel Blanco
 Deco_Paper_Lantern_Red.name = Farolillo de Papel Rojo
 Deco_Paper_Lantern_Orange.name = Farolillo de Papel Naranja
@@ -207,16 +208,21 @@ Furniture_Locker.name = Taquilla
 Furniture_Locker_Double.name = Taquilla Doble
 Furniture_Table_Basic.name = Mesa Básica
 
+Deco_Pile_Coin_Small.name = Montón de Monedas Pequeño
+Deco_Pile_Coin_Medium.name = Montón de Monedas Mediano
+Deco_Pile_Coin_Large.name = Montón de Monedas Grande
+
+# === signs ===
+
+Sign_Basic.name = Letrero Básico
+Sign_Written.name = Letrero Escrito
+
 Sign_Arcade.name = Cartel de Arcade
 Sign_Bar.name = Cartel de Bar
 Sign_Danger.name = Cartel de Peligro
 Sign_Generic.name = Cartel Genérico
 Sign_Monster_Store.name = Cartel de Monstruoteca
 Sign_Store.name = Cartel de Tienda
-
-Currency_Pile_Coin_Small.name = Montón de Monedas Pequeño
-Currency_Pile_Coin_Medium.name = Montón de Monedas Mediano
-Currency_Pile_Coin_Large.name = Montón de Monedas Grande
 
 # === food ===
 

@@ -208,16 +208,21 @@ Furniture_Locker.name = Locker
 Furniture_Locker_Double.name = Double Locker
 Furniture_Table_Basic.name = Basic Table
 
+Deco_Pile_Coin_Small.name = Small Pile of Coins
+Deco_Pile_Coin_Medium.name = Medium Pile of Coins
+Deco_Pile_Coin_Large.name = Large Pile of Coins
+
+# === signs ===
+
+Sign_Basic.name = Basic Sign
+Sign_Written.name = Written Sign
+
 Sign_Arcade.name = Arcade Sign
 Sign_Bar.name = Bar Sign
 Sign_Danger.name = Danger Sign
 Sign_Generic.name = Generic Sign
 Sign_Monster_Store.name = Monster Store
 Sign_Store.name = Store Sign
-
-Currency_Pile_Coin_Small.name = Small Pile of Coins
-Currency_Pile_Coin_Medium.name = Medium Pile of Coins
-Currency_Pile_Coin_Large.name = Large Pile of Coins
 
 # === food ===
 

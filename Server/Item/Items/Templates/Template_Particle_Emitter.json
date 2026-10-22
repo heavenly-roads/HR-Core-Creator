@@ -9,8 +9,8 @@
   "BlockType": {
     "Material": "Empty",
     "DrawType": "Cube",
-    "Opacity": "Cutout",
-    "HitboxType": "Full",
+    "Opacity": "Transparent",
+    "HitboxType": "Block_Flat",
     "Textures": [
       {
         "All": "Resources/Transparent.png"
@@ -18,7 +18,8 @@
     ],
     "CubeShadingMode": "Flat",
     "RequiresAlphaBlending": true,
-    "IgnoreSupportWhenPlaced": true
+    "IgnoreSupportWhenPlaced": true,
+    "VariantRotation": "DoublePipe"
   },
   "Tags": {
     "Type": [

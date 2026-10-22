@@ -3,7 +3,7 @@
   "VerticalCenterShot": 0.1,
   "HorizontalCenterShot": 0.1,
   "DepthShot": 1,
-  "PitchAdjustShot": false,
+  "PitchAdjustShot": true,
   "SticksVertically": true,
   "MuzzleVelocity": 20,
   "TerminalVelocity": 40,
@@ -13,7 +13,7 @@
     "SystemId": "Explosion_Medium"
   },
   "DeathParticles": {
-    "SystemId": "Explosion_Big"
+    "SystemId": "Explosion_Medium"
   },
   "DeathEffectsOnHit": true,
   "BounceSoundEventId": "SFX_Bomb_Fire_Goblin_Bounce",

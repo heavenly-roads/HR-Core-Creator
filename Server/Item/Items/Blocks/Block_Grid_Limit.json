@@ -12,7 +12,7 @@
     ],
     "CubeShadingMode": "Standard",
     "BlockParticleSetId": "Stone",
-    "ParticleColor": "#ab4b4b"
+    "ParticleColor": "#bd3939"
   },
   "PlayerAnimationsId": "Block",
   "IconProperties": {

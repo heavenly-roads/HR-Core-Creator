@@ -151,6 +151,12 @@
           "Order": 0
         },
         {
+          "Id": "Benches",
+          "Order": 1,
+          "Name": "categories.subcategory.benches.name",
+          "Description": ""
+        },
+        {
           "Id": "Weapons",
           "Name": "categories.subcategory.weapons.name",
           "Order": 2,
@@ -161,6 +167,12 @@
           "Id": "Food",
           "Order": 4,
           "Description": ""
+        },
+        {
+          "Name": "categories.subcategory.projectiles.name",
+          "Description": "",
+          "Order": 3,
+          "Id": "Projectiles"
         }
       ]
     },

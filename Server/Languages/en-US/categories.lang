@@ -9,6 +9,7 @@ itemcategory.effects = Effects
 itemcategory.experimental = Experimental
 itemcategory.customizable = Customizable
 
+subcategory.benches.name = Benches
 subcategory.doors.name = Doors
 subcategory.windows.name = Windows
 subcategory.furniture.name = Furniture
@@ -22,6 +23,7 @@ subcategory.arcade.name = Arcade
 subcategory.neon.name = Neon
 subcategory.lamps.name = Lamps
 subcategory.weapons.name = Weapons
+subcategory.projectiles.name = Projectiles
 subcategory.food.name = Food
 subcategory.utilities.name = Utilities
 subcategory.notes.name = Notes
@@ -37,3 +39,7 @@ itemcategory.windmills = Windmills
 subcategory.classic.name = Classic
 subcategory.generic.name = Generic
 subcategory.pinwheels.name = Pinwheels
+
+# === item qualities ===
+
+quality.task = Task

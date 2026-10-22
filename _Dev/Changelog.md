@@ -1,3 +1,13 @@
+# 0.15
+
+#### Changes
+
+* Particle emitters can be placed on any direction now.
+* Changed particle emitters bounding box to fat.
+* Improved several particles systems.
+
+---
+
 # 0.14
 
 #### New Decorations
