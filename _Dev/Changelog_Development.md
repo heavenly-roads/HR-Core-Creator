@@ -50,13 +50,13 @@
 
 #### New Food
 
-* `Food_Chocolate_Tablet`
-* `Food_Chocolate_Tablet_Black`
-* `Food_Chocolate_Tablet_White`
+* `Food_Chocolate_Bar`
+* `Food_Chocolate_Bar_Black`
+* `Food_Chocolate_Bar_White`
 * `Food_Cupcake`
 * `Food_Energy_Bar_Almond`
 * `Food_Energy_Bar_Chocolate`
-* `Food_Chocolate_Tablet_White`
+* `Food_Chocolate_Bar_White`
 * `Food_Muffin`
 * `Food_Muffin_Chocolate_Black`
 * `Food_Muffin_Chocolate_Chips`
