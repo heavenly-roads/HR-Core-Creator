@@ -12,13 +12,12 @@
         "Weight": 1
       }
     ],
-    "BlockParticleSetId": "Metal",
+    "BlockParticleSetId": "Coins",
     "BlockSoundSetId": "Coins",
     "VariantRotation": "NESW",
     "Material": "Solid",
     "Opacity": "Solid",
     "RandomRotation": "YawStep1",
-    "ParticleColor": "#ffb932",
     "HitboxType": "Block_Three_Eighth",
     "Support": {
       "Down": [
