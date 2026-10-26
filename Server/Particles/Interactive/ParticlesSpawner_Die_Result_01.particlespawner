@@ -28,7 +28,7 @@
       }
     },
     "SoftParticles": "Disable",
-    "Texture": "Particles/Interactive/Interactive_Die_Result.png",
+    "Texture": "Particles/Interactive/Interactive_Dice_Result.png",
     "UVOption": "None",
     "Animation": {
       "0": {

@@ -276,8 +276,8 @@ Explosive_Warning.description = <color is="#ff3838">Destruye los bloques cercano
 Bounce_Pad_Small.name = Colchoneta de Rebote - Pequeña
 Bounce_Pad_Medium.name = Colchoneta de Rebote - Mediana
 Bounce_Pad_Large.name = Colchoneta de Rebote - Grande
-Interactive_Die.name = Dado
-Interactive_Die.description = ...
+Interactive_Dice.name = Dado
+Interactive_Dice.description = ...
 
 # === emiters ===
 

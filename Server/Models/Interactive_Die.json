@@ -13,12 +13,12 @@
   },
   "MinScale": 1.5,
   "MaxScale": 1.5,
-  "Model": "Items/Interactive/Interactive_Die.blockymodel",
-  "Texture": "Items/Interactive/Interactive_Die_01.png",
+  "Model": "Items/Interactive/Interactive_Dice.blockymodel",
+  "Texture": "Items/Interactive/Interactive_Dice_01.png",
   "DefaultAttachments": [
     {
-      "Model": "Items/Interactive/Interactive_Die.blockymodel",
-      "Texture": "Items/Interactive/Interactive_Die_01.png"
+      "Model": "Items/Interactive/Interactive_Dice.blockymodel",
+      "Texture": "Items/Interactive/Interactive_Dice_01.png"
     }
   ],
   "AnimationSets": {

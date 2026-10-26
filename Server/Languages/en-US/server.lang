@@ -276,8 +276,8 @@ Explosive_Warning.description = <color is="#ff3838">Destroys surrounding blocks.
 Bounce_Pad_Small.name = Bounce Pad - Small
 Bounce_Pad_Medium.name = Bounce Pad - Medium
 Bounce_Pad_Large.name = Bounce Pad - Large
-Interactive_Die.name = Die
-Interactive_Die.description = ...
+Interactive_Dice.name = Dice
+Interactive_Dice.description = ...
 
 # === emiters ===
 

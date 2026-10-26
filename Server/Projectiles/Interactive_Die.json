@@ -1,12 +1,12 @@
 {
-  "Appearance": "Interactive_Die",
+  "Appearance": "Interactive_Dice",
   "VerticalCenterShot": 0.1,
   "HorizontalCenterShot": 0.1,
   "PitchAdjustShot": true,
   "SticksVertically": false,
   "Gravity": 40,
-  "BounceSoundEventId": "Interactive_Die_Hit",
-  "HitSoundEventId": "Interactive_Die_Hit",
+  "BounceSoundEventId": "Interactive_Dice_Hit",
+  "HitSoundEventId": "Interactive_Dice_Hit",
   "Bounciness": 0.95,
   "RotationMode": "Velocity",
   "MuzzleVelocity": 20,
@@ -20,6 +20,6 @@
   "ImpactSlowdown": 0.1,
   "TimeToLive": 10,
   "DeathEffectsOnHit": true,
-  "MissSoundEventId": "Interactive_Die_Hit",
+  "MissSoundEventId": "Interactive_Dice_Hit",
   "TerminalVelocity": 100
 }

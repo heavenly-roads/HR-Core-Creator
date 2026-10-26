@@ -98,7 +98,7 @@
 
 #### New Interactive Content
 
-* `Interactive_Die`
+* `Interactive_Dice`
 
 #### New Decals
 
