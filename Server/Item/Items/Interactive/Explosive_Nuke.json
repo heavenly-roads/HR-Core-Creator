@@ -63,6 +63,10 @@
           {
             "Power": 2,
             "GatherType": "Benches"
+          },
+          {
+            "GatherType": "Ores",
+            "Power": 2
           }
         ]
       },

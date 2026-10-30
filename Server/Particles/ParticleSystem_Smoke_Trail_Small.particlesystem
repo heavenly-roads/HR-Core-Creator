@@ -3,7 +3,7 @@
     {
       "SpawnerId": "ParticlesSpawner_Smoke_Trail_Cloud_Small",
       "PositionOffset": {
-        "Y": -2
+        "Y": -0.7
       }
     }
   ],

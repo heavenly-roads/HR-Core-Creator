@@ -79,8 +79,8 @@
       "SpawnerId": "ParticleSystem_Explosion_Nuke_Shockwave"
     }
   ],
-  "CullDistance": 512,
-  "BoundingRadius": 32,
+  "CullDistance": 700,
+  "BoundingRadius": 128,
   "LifeSpan": 20,
   "IsImportant": true
 }

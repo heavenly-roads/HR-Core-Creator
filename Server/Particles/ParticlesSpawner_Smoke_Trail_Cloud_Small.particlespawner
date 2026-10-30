@@ -96,7 +96,7 @@
       "Max": 0.2
     }
   },
-  "CameraOffset": -1,
+  "CameraOffset": -0.5,
   "LinearFiltering": false,
   "UVMotion": {
     "Texture": "Particles/Textures/UVMotion/FlowMapSmoke.png",
