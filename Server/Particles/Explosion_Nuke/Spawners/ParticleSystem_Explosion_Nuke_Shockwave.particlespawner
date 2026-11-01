@@ -3,10 +3,10 @@
   "ParticleRotationInfluence": "Billboard",
   "LinearFiltering": true,
   "LightInfluence": 0.0,
-  "MaxConcurrentParticles": 8,
+  "MaxConcurrentParticles": 4,
   "ParticleLifeSpan": {
-    "Min": 0.4,
-    "Max": 0.6
+    "Min": 0.1,
+    "Max": 0.2
   },
   "Attractors": [
     {
@@ -26,8 +26,11 @@
     }
   ],
   "Particle": {
-    "Texture": "Particles/Textures/Circles/Explosion_Shockwave.png",
-    "FrameSize": {},
+    "Texture": "Particles/Textures/Basic/Shape5.png",
+    "FrameSize": {
+      "Width": 128,
+      "Height": 128
+    },
     "ScaleRatioConstraint": "OneToOne",
     "Animation": {
       "0": {
@@ -113,7 +116,7 @@
     "UVOption": "RandomFlipUV",
     "SoftParticles": "Enable"
   },
-  "IsLowRes": false,
+  "IsLowRes": true,
   "UVMotion": {
     "Strength": 1.2,
     "Scale": 1,
@@ -123,7 +126,7 @@
   "SpawnBurst": true,
   "LifeSpan": 1,
   "TotalParticles": {
-    "Min": 8,
-    "Max": 8
+    "Min": 4,
+    "Max": 4
   }
 }

@@ -11,5 +11,7 @@
   "MaxDistance": 20,
   "StartAttenuationDistance": 8,
   "MaxInstance": 4,
-  "AudioCategory": "AudioCat_Ambient"
+  "AudioCategory": "AudioCat_Ambient",
+  "Volume": -5,
+  "Pitch": -2
 }

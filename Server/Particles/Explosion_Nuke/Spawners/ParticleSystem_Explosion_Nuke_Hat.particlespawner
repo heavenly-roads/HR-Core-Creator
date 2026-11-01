@@ -115,7 +115,7 @@
   "ParticleRotationInfluence": "BillboardVelocity",
   "LifeSpan": 12,
   "UVMotion": {
-    "Texture": "Particles/Textures/UVMotion/FlowMapSmoke.png",
+    "Texture": "Particles/Textures/UVMotion/FlowMap.png",
     "Scale": 1,
     "Strength": 2,
     "SpeedY": 0.1,
