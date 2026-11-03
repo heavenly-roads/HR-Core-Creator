@@ -4,7 +4,7 @@
   "LifeSpan": 1,
   "Spawners": [
     {
-      "SpawnerId": "ParticlesSpawner_Die_Result_01"
+      "SpawnerId": "ParticlesSpawner_Dice_Result_01"
     }
   ]
 }

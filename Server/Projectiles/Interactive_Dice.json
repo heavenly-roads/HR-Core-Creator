@@ -12,7 +12,7 @@
   "MuzzleVelocity": 20,
   "DeadTimeMiss": 0,
   "DeathParticles": {
-    "SystemId": "ParticleSystem_Die_Result_01"
+    "SystemId": "ParticleSystem_Dice_Result_01"
   },
   "ComputeRoll": true,
   "ComputePitch": true,
